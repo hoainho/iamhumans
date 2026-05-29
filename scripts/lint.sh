@@ -31,13 +31,19 @@ if [ -f references/reading-list.md ]; then
   fi
 fi
 
-# 4. Each eval case must declare id, input, rubric (once cases exist)
-for f in evals/cases/*.md evals/cases/**/*.md; do
-  [ -f "$f" ] || continue
-  for key in 'id:' 'input:' 'rubric:'; do
-    grep -q "^$key" "$f" || err "$f missing '$key' field"
-  done
-done
+# 4. Each eval case must have frontmatter id/title/dimensions/hard_fails/holdout
+#    plus body H2 sections ## input, ## rubric, ## failure_modes.
+#    Defer detailed schema enforcement to evals/runner/schema.py via dry-run.
+case_count=$(find evals/cases -name 'TC-*.md' 2>/dev/null | wc -l | tr -d ' ')
+if [ "$case_count" -gt 0 ]; then
+  if [ -f evals/runner/run.py ]; then
+    if ! python3 evals/runner/run.py --dry-run >/dev/null 2>&1; then
+      err "evals/runner/run.py --dry-run failed; one or more cases violate schema"
+    fi
+  else
+    err "evals/cases has $case_count case files but no runner — schema cannot be validated"
+  fi
+fi
 
 if [ "$fail" -eq 0 ]; then
   say "OK"
