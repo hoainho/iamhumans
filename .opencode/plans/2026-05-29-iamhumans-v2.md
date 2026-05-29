@@ -48,10 +48,10 @@ Eight clusters. Counts approximate; exact list locks in [`references/reading-lis
 
 | # | Branch | Change-type | Risk | Title | Status |
 |---|---|---|---|---|---|
-| v2-1 | `feat/v2-plan` | `change-type:docs` | `risk:low` | feat: v2 plan file | in-progress (this PR) |
-| v2-2 | `feat/v2-reading-list` | `change-type:book-notes` | `risk:low` | feat(notes): lock 100-book reading list v2 | planned |
-| v2-3 | `feat/v2-notes-batch-1` | `change-type:book-notes` | `risk:low` | feat(notes): books 21–30 (first new batch) | planned |
-| v2-4 | `feat/v2-notes-batch-2` | `change-type:book-notes` | `risk:low` | feat(notes): books 31–40 | planned |
+| v2-1 | `feat/v2-plan` | `change-type:docs` | `risk:low` | feat: v2 plan file | merged |
+| v2-2 | `feat/v2-reading-list` | `change-type:book-notes` | `risk:low` | feat(notes): lock 108-book reading list v2 | merged |
+| v2-3 | `feat/v2-notes-batch-1` | `change-type:book-notes` | `risk:low` | feat(notes): Cluster A communication & rhetoric (8 books) | merged |
+| v2-4 | `feat/v2-notes-batch-2` | `change-type:book-notes` | `risk:low` | feat(notes): Cluster B personhood & philosophy (11 books) | merged |
 | v2-5 | `feat/v2-notes-batch-3` | `change-type:book-notes` | `risk:low` | feat(notes): books 41–50 | planned |
 | v2-6 | `feat/v2-notes-batch-4` | `change-type:book-notes` | `risk:low` | feat(notes): books 51–60 | planned |
 | v2-7 | `feat/v2-notes-batch-5` | `change-type:book-notes` | `risk:low` | feat(notes): books 61–70 | planned |
@@ -99,4 +99,17 @@ The convergence loop, the actual v2 verdict run, and the launch require addition
 
 ## Execution log
 
-- 2026-05-29 — v1.0.0 released (PR #12 of v1 plan). v2 plan opened (this PR).
+- 2026-05-29 — v1.0.0 released (PR #12 of v1 plan). v2 plan opened (PR #14, merged).
+- 2026-05-29 — v2-2 merged (PR #15): 108-book locked reading list, 9 clusters, ~35% non-Western/pre-modern representation. lint extended to enforce v2 exact count.
+- 2026-05-29 — v2-3 merged (PR #16): Cluster A communication & rhetoric, 8 long-form notes (~10.7k words). Aristotle, Stone/Patton/Heen, Voss, Gladwell, Strunk & White, Zinsser, Heath brothers, Luntz.
+- 2026-05-29 — v2-4 merged (PR #17): Cluster B personhood & philosophy of the human, 11 long-form notes (~14.7k words). Marcus Aurelius, Lao Tzu, Confucius, Krishna-Arjuna dialogue, Aristotle (Ethics), Heidegger, Buber, Becker, Beauvoir, Fanon, Pascal. Cross-cultural and pre-modern depth that v1's Western-modern corpus lacked.
+- **Cumulative state after this session**: 39 of 108 books complete (20 from v1 + 19 new in v2 batches 1 and 2). ~25.4k words of new reference content shipped this session. 69 books remain.
+- **Honestly staged for follow-on sessions** (in plan-roadmap order):
+  - v2-5 through v2-10: 6 book-notes batches × ~12 books each = 69 remaining book notes, ~85-100k words at current per-batch density
+  - v2-11: cross-corpus synthesis (~3-5k words)
+  - v2-12: SKILL.md v2.0.0 tuning (cross-cultural sources section, expanded hardest cases, Recognizing People subsection — informed by the full 108-book corpus, not just the partial)
+  - v2-13: 50 new eval cases + v2 holdout split
+  - v2-14: convergence runs (machinery exists from v1 PR #11; actual oracle invocation budget needed for the 90→135-case main pool)
+  - v2-15: held-out v2 verdict gate (15 combined cases — 10 v1 + 5 v2)
+  - v2-16: launch artifacts (release notes, HN/Reddit/X drafts, awesome-list submissions, outreach)
+- This pace matches the budget realism documented above ("A single session realistically completes plan + locked reading list + first 1–2 book-notes batches"). The remaining work is real and should be scheduled across a series of follow-on sessions rather than degraded into one.
