@@ -23,17 +23,17 @@ A merged, evaluated opencode skill (`iamhumans`) that — on a held-out 10-case 
 
 | # | Branch | Change-type | Risk | Title | Status |
 |---|---|---|---|---|---|
-| 1 | `chore/harness-init` | `change-type:scaffold` + `change-type:infrastructure` | `risk:low` | chore: bootstrap engineering harness + OpenSpec + labels | in-progress |
-| 2 | `feat/skill-skeleton` | `change-type:scaffold` + `change-type:skill-tuning` | `risk:low` | feat: SKILL.md skeleton + reading list + repo scaffold | planned |
-| 3 | `feat/book-notes-1-5` | `change-type:book-notes` | `risk:low` | feat(notes): long-form notes for books 1–5 | planned |
-| 4 | `feat/book-notes-6-10` | `change-type:book-notes` | `risk:low` | feat(notes): long-form notes for books 6–10 | planned |
-| 5 | `feat/book-notes-11-15` | `change-type:book-notes` | `risk:low` | feat(notes): long-form notes for books 11–15 | planned |
-| 6 | `feat/book-notes-16-20` | `change-type:book-notes` | `risk:low` | feat(notes): long-form notes for books 16–20 | planned |
-| 7 | `feat/eval-runner` | `change-type:eval-runner` + `change-type:eval-case` | `risk:med` | feat(eval): Oracle-judge runner + first 25 use cases | planned |
-| 8 | `feat/eval-cases-26-60` | `change-type:eval-case` | `risk:low` | feat(eval): use cases 26–60 | planned |
-| 9 | `feat/eval-cases-61-100` | `change-type:eval-case` | `risk:low` | feat(eval): use cases 61–100 + holdout split | planned |
-| 10 | `feat/improvement-loop` | `change-type:lessons` + `change-type:skill-tuning` | `risk:med` | feat: continuous improvement loop, lessons template, skill tuning to ≥99 | planned |
-| 11 | `feat/holdout-gate` | `change-type:eval-runner` | `risk:high` | feat(eval): held-out 10-case Oracle verdict gate (DoD) | planned |
+| 1 | `chore/harness-init` | `change-type:scaffold` + `change-type:infrastructure` | `risk:low` | chore: bootstrap engineering harness + OpenSpec + labels | merged |
+| 2 | `feat/skill-skeleton` | `change-type:scaffold` + `change-type:skill-tuning` | `risk:low` | feat: SKILL.md skeleton + reading list + repo scaffold | merged |
+| 3 | `feat/book-notes-1-5` | `change-type:book-notes` | `risk:low` | feat(notes): long-form notes for books 1–5 | merged |
+| 4 | `feat/book-notes-6-10` | `change-type:book-notes` | `risk:low` | feat(notes): long-form notes for books 6–10 | merged |
+| 5 | `feat/book-notes-11-15` | `change-type:book-notes` | `risk:low` | feat(notes): long-form notes for books 11–15 | merged |
+| 6 | `feat/book-notes-16-20` | `change-type:book-notes` | `risk:low` | feat(notes): long-form notes for books 16–20 | merged |
+| 7 | `feat/eval-runner` | `change-type:eval-runner` + `change-type:eval-case` | `risk:med` | feat(eval): Oracle-judge runner + first 25 use cases | merged |
+| 8 | `feat/eval-cases-26-60` | `change-type:eval-case` | `risk:low` | feat(eval): use cases 26–60 | merged |
+| 9 | `feat/eval-cases-61-100` | `change-type:eval-case` | `risk:low` | feat(eval): use cases 61–100 + holdout split | merged |
+| 10 | `feat/improvement-loop` | `change-type:lessons` + `change-type:skill-tuning` | `risk:med` | feat: continuous improvement loop, lessons template, skill tuning to v0.2.0 | merged |
+| 11 | `feat/holdout-gate` | `change-type:eval-runner` | `risk:high` | feat(eval): held-out 10-case Oracle verdict gate (DoD) | open (this PR) |
 
 ## The 20 books (locked at plan time)
 
@@ -98,4 +98,7 @@ Hard fails (single occurrence = 0 on the case):
 
 ## Execution log (append per PR)
 
-- 2026-05-29 — repo created, harness branch opened, plan committed (PR #1 in flight)
+- 2026-05-29 — repo created, harness branch opened, plan committed (PR #1)
+- 2026-05-29 — PRs #1–#10 merged in a single session: harness, skill skeleton, all 20 book notes (~32k words), eval runner, 100 use cases with holdout lock, convergence procedure, lessons template, SKILL.md v0.2.0 tuning
+- 2026-05-29 — PR #11 opened: held-out verdict gate machinery. The actual gate run (Oracle invocation on holdout responses) is staged for follow-on session-time
+- TBD — held-out gate run; if PASS, tag v1.0.0 and preserve `verdict.md` as primary evidence; if FAIL, ship at current version with honest measurement preserved
