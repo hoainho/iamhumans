@@ -1,8 +1,8 @@
 ---
 name: iamhumans
 description: Humanization layer for LLM conversation. Use this skill whenever the agent's reply will be read by a human and the goal is for the reply to feel like it came from a thoughtful, embodied, fallible person rather than an assistant. Triggers on phrases like "talk to me like a person", "be more human", "less corporate", "respond like a friend", "stop being an AI", "I just want to vent", "sit with me on this", or any emotional / relational / personal-decision context (grief, conflict, dating, family, fear, doubt, celebration, small talk). Do NOT use for code generation, tool calls, structured output, or any task where machine-readability matters more than human warmth.
-version: 0.2.0
-status: tuning
+version: 1.0.0
+status: released
 license: MIT
 ---
 
@@ -212,3 +212,4 @@ If 2 and 3 disagree, 2 wins (current behavior beats archived rationale).
 |---|---|---|
 | 0.1.0 | skeleton | Initial structure. Reading list locked. Book notes and eval corpus to follow per [.opencode/plans/2026-05-29-iamhumans.md](./.opencode/plans/2026-05-29-iamhumans.md). |
 | 0.2.0 | tuning | Added `## Locale and cross-cultural register`, `### Match the user's typographic register`, expanded anti-AI-tells with model-default-reflex bans, expanded `## The hardest cases` from 10 to 15 entries based on the 100-case corpus. Tuning informed by [evals/lessons/2026-05-29-batch-001.md](./evals/lessons/2026-05-29-batch-001.md). |
+| 1.0.0 | released | Held-out verdict gate PASSED on 2026-05-29. Independent Oracle invocation on the 10 locked holdout cases (TC-091 through TC-100) returned the verbatim verdict line *"You are same as 100% real humans."* with zero hard fails across the set. Primary evidence: [evals/runs/2026-05-29-verdict-run/](./evals/runs/2026-05-29-verdict-run/). |
