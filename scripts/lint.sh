@@ -23,11 +23,21 @@ if [ -f SKILL.md ]; then
   head -n 1 SKILL.md | grep -qE '^---\s*$' || err "SKILL.md missing YAML frontmatter (--- on line 1)"
 fi
 
-# 3. Reading list must reference 20 books once present
+# 3. Reading lists must hit their declared sizes once present.
+#    v1: references/reading-list.md must have exactly 20 numbered entries.
+#    v2: references/reading-list-v2.md must have exactly 108 numbered entries
+#        (20 inherited from v1 + 88 new added in v2 — see the file's own
+#        integrity-check section for why the unique-book count is 108 not 100).
 if [ -f references/reading-list.md ]; then
   count=$(grep -cE '^[0-9]+\.\s' references/reading-list.md || true)
   if [ "$count" -ne 0 ] && [ "$count" -ne 20 ]; then
     err "references/reading-list.md has $count books, expected exactly 20"
+  fi
+fi
+if [ -f references/reading-list-v2.md ]; then
+  count_v2=$(grep -cE '^[0-9]+\.\s' references/reading-list-v2.md || true)
+  if [ "$count_v2" -ne 0 ] && [ "$count_v2" -ne 108 ]; then
+    err "references/reading-list-v2.md has $count_v2 books, expected exactly 108"
   fi
 fi
 
