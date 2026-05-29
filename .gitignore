@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node (eval runner may use node)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-store/
+
+# Python (if eval runner is py)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Local eval artifacts
+evals/runs/
+evals/.tmp/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
