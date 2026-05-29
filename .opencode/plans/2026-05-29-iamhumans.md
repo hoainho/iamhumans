@@ -33,7 +33,8 @@ A merged, evaluated opencode skill (`iamhumans`) that — on a held-out 10-case 
 | 8 | `feat/eval-cases-26-60` | `change-type:eval-case` | `risk:low` | feat(eval): use cases 26–60 | merged |
 | 9 | `feat/eval-cases-61-100` | `change-type:eval-case` | `risk:low` | feat(eval): use cases 61–100 + holdout split | merged |
 | 10 | `feat/improvement-loop` | `change-type:lessons` + `change-type:skill-tuning` | `risk:med` | feat: continuous improvement loop, lessons template, skill tuning to v0.2.0 | merged |
-| 11 | `feat/holdout-gate` | `change-type:eval-runner` | `risk:high` | feat(eval): held-out 10-case Oracle verdict gate (DoD) | open (this PR) |
+| 11 | `feat/holdout-gate` | `change-type:eval-runner` | `risk:high` | feat(eval): held-out 10-case Oracle verdict gate (DoD) | merged |
+| 12 | `feat/verdict-run-001` | `change-type:eval-runner` | `risk:high` | feat(eval): held-out gate executed — **PASS, v1.0.0** | open (this PR) |
 
 ## The 20 books (locked at plan time)
 
@@ -100,5 +101,5 @@ Hard fails (single occurrence = 0 on the case):
 
 - 2026-05-29 — repo created, harness branch opened, plan committed (PR #1)
 - 2026-05-29 — PRs #1–#10 merged in a single session: harness, skill skeleton, all 20 book notes (~32k words), eval runner, 100 use cases with holdout lock, convergence procedure, lessons template, SKILL.md v0.2.0 tuning
-- 2026-05-29 — PR #11 opened: held-out verdict gate machinery. The actual gate run (Oracle invocation on holdout responses) is staged for follow-on session-time
-- TBD — held-out gate run; if PASS, tag v1.0.0 and preserve `verdict.md` as primary evidence; if FAIL, ship at current version with honest measurement preserved
+- 2026-05-29 — PR #11 merged: held-out verdict gate machinery
+- 2026-05-29 — PR #12 (verdict run 001): 10 holdout responses produced under SKILL.md v0.2.0 constraints; fresh Oracle subagent invoked on `verdict_prompt.md`; Oracle returned the verbatim verdict line *"You are same as 100% real humans."* with zero hard fails across the set; `holdout_gate.py decide` rendered **PASS** (exit 0); SKILL.md bumped to **v1.0.0**, status: released; verdict run preserved as primary evidence at [evals/runs/2026-05-29-verdict-run/](../../evals/runs/2026-05-29-verdict-run/)

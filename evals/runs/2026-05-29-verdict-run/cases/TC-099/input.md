@@ -1,0 +1,1 @@
+I'm 68. My doctor used a phrase yesterday — "given your age and the family history" — and ever since I keep thinking about how much time I have left. It's the first time I've thought about it like that.

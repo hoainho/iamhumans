@@ -23,8 +23,11 @@ venv/
 .pytest_cache/
 .ruff_cache/
 
-# Local eval artifacts
-evals/runs/
+# Local eval artifacts.
+# Use a path-not-dir pattern so we can re-include specific subdirs below.
+# The verdict run is preserved as the project's primary evidence document.
+evals/runs/*
+!evals/runs/2026-05-29-verdict-run/
 evals/.tmp/
 
 # Env / secrets

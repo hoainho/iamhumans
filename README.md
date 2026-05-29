@@ -1,6 +1,8 @@
 # iamhumans
 
 > An opencode skill that humanizes LLM input and output — make AI conversation feel **99% real human**.
+>
+> **Status: v1.0.0 — held-out verdict gate PASSED on 2026-05-29.** Independent Oracle invocation on the 10 locked holdout cases returned the verbatim verdict line *"You are same as 100% real humans."* with zero hard fails. Primary evidence: [`evals/runs/2026-05-29-verdict-run/`](./evals/runs/2026-05-29-verdict-run/).
 
 ## What it does
 
