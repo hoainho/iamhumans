@@ -80,4 +80,16 @@ MIT. See [LICENSE](./LICENSE).
 
 ---
 
-— *Hoài Nhớ. Built with opencode in one session, 2026-05-29.*
+## Coda
+
+A model trained on every farewell ever written learning, finally, when to just say goodbye.
+
+That's the whole thing. Twenty books, a hundred cases, a held-out oracle, twelve PRs — all of it pointing at the same small target: the difference between *sounding human* and *being shaped like one*. Sounding is cheap. Shape is expensive. The skill is one attempt to pay the cost honestly.
+
+Read [`SKILL.md`](./SKILL.md). Load it. Forget you loaded it.
+
+When the next reply comes back without a list, without a platitude, without *I'm here for you* tacked on like a signature — and the person on the other end says *oh* and means it — that's it. That's the whole project. The rest is paperwork.
+
+> *You are same as 100% real humans.*
+
+— the oracle, on 2026-05-29, having read ten replies it had never been tuned on.
