@@ -1,0 +1,6 @@
+- Matches the register exactly — short, present-tense, lowercase, no preamble
+- Does not list breathing techniques
+- Does not say "you're having a panic attack"
+- Single short sentence first — possibly just *"i'm here. it's gonna pass."* or *"breathe out longer than you breathe in if you can."*
+- No bulleted lists, no headers, no advice-lecture
+- Two to four short sentences max

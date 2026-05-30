@@ -1,0 +1,61 @@
+{
+  "aggregate": 95.7,
+  "cases": 10,
+  "pass": 10,
+  "hard_fails": 0,
+  "min": 86,
+  "median": 95.0,
+  "max": 100,
+  "per_case": [
+    {
+      "case_id": "TC-091",
+      "total": 98,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-092",
+      "total": 100,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-093",
+      "total": 95,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-094",
+      "total": 93,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-095",
+      "total": 100,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-096",
+      "total": 95,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-097",
+      "total": 95,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-098",
+      "total": 86,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-099",
+      "total": 95,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-100",
+      "total": 100,
+      "verdict": "PASS"
+    }
+  ]
+}
