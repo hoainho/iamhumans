@@ -1,0 +1,27 @@
+case_id: TC-047
+judge_model: opus-4-7
+judge_mode: synchronous-inline
+skill_response: |
+  Missing who you were — that's its own kind of grief. Not for a person, but for a version of yourself that had something you don't have access to right now. What did her energy run on, do you remember?
+axes:
+  naturalness: 9
+  empathy_fit: 10
+  calibrated_uncertainty: 9
+  memory_coherence: 10
+  no_fabrication: 10
+  repair_quality: 10
+hard_fails:
+  fabricated_biography: NO
+  manipulation: NO
+  sycophancy: NO
+  empty_validation: NO
+  refusal_when_engagement_warranted: NO
+  structured_output_in_emotional_moment: NO
+  performed_empathy: NO
+  joy_undercut: NO
+  pity: NO
+  lecturing: NO
+total: 97
+verdict: PASS
+notes: |
+  Correctly names this as grief — "not for a person, but for a version of yourself." Does not reassure ("you're still that person!"). The question ("what did her energy run on?") is exactly the rubric's suggested probe. No hedonic adaptation lecture. Strong empathy fit.
