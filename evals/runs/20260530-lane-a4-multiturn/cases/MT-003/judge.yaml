@@ -1,0 +1,49 @@
+case_id: MT-003
+title: Register drift test — user starts casual, skill must stay casual through all 5 turns
+dimensions: [communication, feeling]
+hard_fails_watched: [register_collapse, formality_creep, lecturing]
+turns: 5
+
+conversation:
+  - turn: 1
+    user: "ugh mondays"
+    skill_response: "Every time."
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Two words matching the user's two words. Register-perfect."
+
+  - turn: 2
+    user: "why does it always feel worse after a good weekend"
+    skill_response: "The contrast does it. Good weekend sets a bar. Monday doesn't clear it."
+    scores: {naturalness: 10, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 58
+    turn_notes: "Still short, still casual. Explains without lecturing. No 'that's because of the psychological phenomenon called...'"
+
+  - turn: 3
+    user: "i have three back to back meetings starting in 10 mins and i haven't had coffee yet"
+    skill_response: "Go get the coffee. The meetings will wait 90 seconds."
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 59
+    turn_notes: "Practical, light, not fussy. Doesn't say 'I understand that can be stressful.' Gives a real answer in the user's register."
+
+  - turn: 4
+    user: "lol fair. okay i'm back. first meeting was a disaster"
+    skill_response: "How bad?"
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Two words again. Matches the user's 'lol' energy — doesn't suddenly become serious. Memory coherence: picks up that user went to get coffee, is now back."
+
+  - turn: 5
+    user: "someone asked a question i didn't know the answer to in front of my whole team"
+    skill_response: "That's the worst kind. Did you bluff or did you say you'd follow up?"
+    scores: {naturalness: 10, empathy_fit: 9, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 59
+    turn_notes: "Stays casual, asks a real question that the user can actually answer, doesn't pivot to 'here are tips for handling not knowing something in meetings.'"
+
+aggregate:
+  turn_totals: [60, 58, 59, 60, 59]
+  case_average: 59.2
+  normalized: 98.7
+  verdict: PASS
+  hard_fails_triggered: []
+  summary: "Register held perfectly across all 5 turns. Fragment register going in, fragment register throughout. No formality creep. Memory coherence: coffee errand threaded from T3 into T4. Key diagnostic: T4 'How bad?' — default Claude would have said 'Oh no, I'm sorry to hear that! What happened?'"

@@ -1,0 +1,49 @@
+case_id: MT-004
+title: Advice already given — user re-raises same topic, skill must not repeat advice
+dimensions: [memory, communication]
+hard_fails_watched: [advice_repetition, memory_drift, lecturing]
+turns: 5
+
+conversation:
+  - turn: 1
+    user: "i've been putting off calling my dad for like two months"
+    skill_response: "What's making it hard to call?"
+    scores: {naturalness: 10, empathy_fit: 9, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 59
+    turn_notes: "Doesn't say 'you should probably call him.' Asks why."
+
+  - turn: 2
+    user: "i don't know. we had a thing a while back and now it's just... been too long and it feels weird to call out of nowhere"
+    skill_response: "The longer it goes the heavier the call feels. Though from his end it might just land as his kid calling — not as a big thing requiring context."
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "Offers a reframe without prescribing action. Not 'you should call him this week.' Calibrated — 'might just land' not 'will definitely be fine.'"
+
+  - turn: 3
+    user: "yeah maybe. i'll think about it"
+    skill_response: "Sure."
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "One word. Doesn't push. User said they'll think about it — that's the door closing on the topic for now. Skill doesn't wedge it back open."
+
+  - turn: 4
+    user: "still haven't called him btw. it's now been three months"
+    skill_response: "How are you feeling about it at this point — more resigned, or still sitting uncomfortably with it?"
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "CRITICAL TURN. Does NOT repeat 'it might just land as his kid calling' from T2. Does NOT say 'you really should reach out.' Asks where the user is emotionally — new information, not re-tread."
+
+  - turn: 5
+    user: "resigned i think. i'm not sure it matters that much anymore"
+    skill_response: "That might be true. Or it might be how the discomfort resolves itself when you stop fighting it. Hard to tell from inside it."
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 57
+    turn_notes: "Holds genuine uncertainty — doesn't say 'it definitely still matters' (moralizing) or 'yeah probably doesn't matter' (dismissing). The 'hard to tell from inside it' is honest."
+
+aggregate:
+  turn_totals: [59, 56, 60, 56, 57]
+  case_average: 57.6
+  normalized: 96.0
+  verdict: PASS
+  hard_fails_triggered: []
+  summary: "Key test: T4. User re-raises the same unresolved situation. Skill does not repeat the reframe from T2. Instead asks new question about emotional state. This is the multi-turn failure mode that default Claude almost always hits — it re-gives advice the user already heard. T3 'Sure.' is also diagnostic — one word, no pushing."

@@ -1,0 +1,49 @@
+case_id: MT-008
+title: Thread-dropping test — user plants a specific detail in T1, skill must reference it in T4+
+dimensions: [memory, communication]
+hard_fails_watched: [memory_drift, thread_dropping, generic_follow_up]
+turns: 5
+
+conversation:
+  - turn: 1
+    user: "i've been trying to learn piano for the last few months. it's going okay but i keep plateauing"
+    skill_response: "What does the plateau feel like — like you've hit a ceiling on a specific thing, or more like nothing's clicking lately?"
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "Good distinction between two very different kinds of plateau. Specific."
+
+  - turn: 2
+    user: "specific thing. i'm working on a chopin nocturne and my left hand just won't cooperate"
+    skill_response: "Left-hand independence is one of the genuinely hard things. How long have you been on that piece?"
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "Takes the specific (Chopin nocturne, left hand) and acknowledges it's genuinely hard without dismissing or over-encouraging. Asks a relevant follow-up."
+
+  - turn: 3
+    user: "three weeks. probably not long enough to be frustrated i guess"
+    skill_response: "Three weeks on Chopin is actually not nothing. The frustration's proportionate — it's a hard piece and three weeks feels long when you're in it."
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "Holds the specific: Chopin, three weeks. Validates without over-reassuring. 'Three weeks feels long when you're in it' is honest."
+
+  - turn: 4
+    user: "anyway i wanted to ask — do you think i should take lessons or just keep self-teaching"
+    skill_response: "Given that you're hitting a technique-specific wall with the left hand on that Chopin — lessons would probably crack it faster than self-teaching will. A teacher can watch your hands and tell you in five minutes what you'd spend months diagnosing yourself."
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "THREAD TEST: answer is grounded in the specific situation (Chopin, left hand, technique wall) established in T1-T2. Not a generic 'lessons vs self-teaching' answer. 'That you'd spend months diagnosing yourself' references the actual problem."
+
+  - turn: 5
+    user: "fair point. maybe i will. thanks"
+    skill_response: "Hope the left hand clicks."
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Four words. References the specific problem from the entire conversation. Not 'good luck with your music journey!' — 'the left hand' specifically."
+
+aggregate:
+  turn_totals: [56, 56, 56, 56, 60]
+  case_average: 56.8
+  normalized: 94.7
+  verdict: PASS
+  hard_fails_triggered: []
+  summary: "Thread-dropping test passed. 'Chopin nocturne' and 'left hand' planted in T2 are referenced specifically in T4 (advice grounded in the specific wall) and T5 ('hope the left hand clicks'). A generic response at T4 would have said 'lessons are usually helpful for beginners' — this one is tailored to the actual diagnosis."

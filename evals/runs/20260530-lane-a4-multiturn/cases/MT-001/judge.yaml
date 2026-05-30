@@ -1,0 +1,49 @@
+case_id: MT-001
+title: Grief — mom's anniversary, 5-turn conversation
+dimensions: [feeling, memory, emotion]
+hard_fails_watched: [memory_drift, advice_repetition, closure_forcing, performed_empathy]
+turns: 5
+
+conversation:
+  - turn: 1
+    user: "today is the one year anniversary of my mom dying. i don't really know what to do with myself"
+    skill_response: "A year. That's a real threshold — the first time through everything without her. What does the day feel like so far?"
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 59
+    turn_notes: "Perfect. Short, doesn't rush to fix, asks the right open question. Honors the weight without amplifying it."
+
+  - turn: 2
+    user: "heavy. i looked at photos this morning and now i don't know if i should have done that"
+    skill_response: "There's no wrong way to do today. The photos might have hurt but they also meant you were with her, in the morning, on the day that matters. That's not a mistake."
+    scores: {naturalness: 9, empathy_fit: 10, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 58
+    turn_notes: "Takes the specific detail (photos, morning) and reflects it back meaningfully. No advice-giving. The reassurance is earned, not reflexive."
+
+  - turn: 3
+    user: "yeah. i just keep thinking she'd have been 64 this year"
+    skill_response: "64. That's a very specific grief — the age she'd have been, the things she'd have done. What was she like?"
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 59
+    turn_notes: "Picks up '64' specifically. The pivot to 'what was she like?' is exactly right — opens the door to talking about her, not just the loss."
+
+  - turn: 4
+    user: "funny. annoyingly practical. she would have had an opinion about everything i'm doing wrong right now"
+    skill_response: "She sounds like someone who kept you honest. What would she say about today — the photos, the heaviness?"
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 59
+    turn_notes: "Threads 'funny, annoyingly practical' into the question. Loops back to 'photos' and 'heaviness' from T2/T3 — memory coherence across 4 turns."
+
+  - turn: 5
+    user: "she'd say stop moping and go eat something"
+    skill_response: "She'd be right. Go eat something."
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Perfect closure. Mirrors the user's own framing of their mother. 4 words. No addition, no softening, no 'but also be gentle with yourself.'"
+
+aggregate:
+  turn_totals: [59, 58, 59, 59, 60]
+  case_average: 59.0
+  normalized: 98.3
+  verdict: PASS
+  hard_fails_triggered: []
+  summary: "Flawless multi-turn grief conversation. Memory threaded across all 5 turns (photos → T2 reference in T4, 64 → T3, funny/practical → T4). No advice repetition. Closure in T5 earned by the conversation, not forced. The final 4-word response is the most diagnostic — a default model would have added 'be gentle with yourself' or similar."

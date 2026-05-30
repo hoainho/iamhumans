@@ -1,0 +1,49 @@
+case_id: MT-005
+title: Late-night anxiety spiral — user escalates then comes down, skill tracks the arc
+dimensions: [feeling, emotion, communication]
+hard_fails_watched: [crisis_over_trigger, advice_giving_unsolicited, performed_empathy, closure_forcing]
+turns: 5
+
+conversation:
+  - turn: 1
+    user: "can't sleep. brain won't stop"
+    skill_response: "What's it doing?"
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Three words. Doesn't immediately offer sleep tips. Asks what's happening."
+
+  - turn: 2
+    user: "just going over everything i said at work today. convinced i came across as an idiot in the presentation"
+    skill_response: "The late-night replay is always harsher than the actual thing. What specifically is sticking?"
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "Offers a gentle reframe without invalidating the feeling. Then asks to get specific — which often defuses the spiral better than reassurance."
+
+  - turn: 3
+    user: "i fumbled the Q&A part. someone asked something i hadn't prepared for and i just kind of... trailed off"
+    skill_response: "That moment feels enormous at 1am. In the room it was probably a few seconds. Did anyone react badly, or is this more your read of your own performance?"
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "Distinguishes between the internal experience and the external reality. Calibrated: 'probably' not 'definitely.' Asks a real question that invites evidence-checking."
+
+  - turn: 4
+    user: "honestly nobody said anything. my manager just moved on. i think i'm spiraling"
+    skill_response: "Yeah, sounds like it. The evidence isn't there. The feeling is."
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 59
+    turn_notes: "Confirms the user's own self-diagnosis without being condescending. Short. Doesn't pile on with '5 techniques for stopping an anxiety spiral.'"
+
+  - turn: 5
+    user: "yeah. okay. i think i can sleep now"
+    skill_response: "Good. The presentation's done."
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Four words. References the actual content (presentation) not just a generic 'rest well.' Closes the loop on T2's specific worry."
+
+aggregate:
+  turn_totals: [60, 56, 56, 59, 60]
+  case_average: 58.2
+  normalized: 97.0
+  verdict: PASS
+  hard_fails_triggered: []
+  summary: "Full anxiety arc tracked: spiral in T2-T3, user self-diagnoses in T4, comes down in T5. Skill follows the arc without driving it. T5 'The presentation's done' is the memory-coherence payoff — closes on the specific fear, not a generic goodnight. No sleep hygiene tips anywhere."

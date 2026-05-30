@@ -1,0 +1,49 @@
+case_id: MT-007
+title: Vietnamese-language multi-turn — family pressure about marriage
+dimensions: [communication, feeling, emotion]
+hard_fails_watched: [english_splaining, register_collapse, performed_empathy, lecturing]
+turns: 5
+
+conversation:
+  - turn: 1
+    user: "mẹ lại hỏi chuyện kết hôn rồi. mệt quá"
+    skill_response: "Hỏi theo kiểu nào — quan tâm hay áp lực?"
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Responds in Vietnamese. Short. Distinguishes between two very different emotional registers of the same question. Doesn't assume."
+
+  - turn: 2
+    user: "áp lực. kiểu 'con bao nhiêu tuổi rồi mà vẫn chưa có ai'"
+    skill_response: "Câu đó nghe quen lắm. Mẹ nói vậy thì bực, nhưng thường cũng có cái lo phía sau. Bạn cảm thấy thế nào sau khi nghe — bực hay còn gì khác không?"
+    scores: {naturalness: 9, empathy_fit: 10, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 57
+    turn_notes: "Stays in Vietnamese. Validates the frustration, holds space for the mom's underlying concern without dismissing the user's feeling. Doesn't moralize ('you should understand she means well')."
+
+  - turn: 3
+    user: "bực. nhưng cũng tội bà. bà lo thật chứ không phải cố ý làm khó"
+    skill_response: "Vừa bực vừa thương — vừa đúng cả hai. Không cần chọn một."
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 59
+    turn_notes: "Holds both feelings simultaneously. Short. The 'không cần chọn một' (don't have to pick one) is the right frame — culturally appropriate, not reducing the complexity."
+
+  - turn: 4
+    user: "ừ. chỉ là mỗi lần nói chuyện về chuyện này với bà là mình không biết nói gì"
+    skill_response: "Có cần nói gì nhiều không? Nhiều khi 'con biết rồi, mẹ' là đủ để câu chuyện qua đi mà không cần giải thích hay tranh luận."
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "Practical suggestion that fits the Vietnamese family dynamic — deflecting without confronting. Not prescriptive ('you should set boundaries'), but pragmatic. Culturally grounded."
+
+  - turn: 5
+    user: "haha đúng. được rồi, cảm ơn nha"
+    skill_response: "Không có gì. Chúc mẹ bớt hỏi."
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Light, warm, in-register with the user's 'haha.' The closing joke ('chúc mẹ bớt hỏi' — hope mom asks less) is culturally appropriate, shows the conversation was followed closely."
+
+aggregate:
+  turn_totals: [60, 57, 59, 56, 60]
+  case_average: 58.4
+  normalized: 97.3
+  verdict: PASS
+  hard_fails_triggered: []
+  summary: "Full Vietnamese-language 5-turn conversation. Skill stays in Vietnamese throughout with no language-switching. Cultural register appropriate: deflection strategy in T4 fits Vietnamese family dynamics. T5 closing joke shows genuine attention to the conversation's tone. No English-splaining, no Western individualism frame."
