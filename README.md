@@ -4,8 +4,9 @@
 
 [![version](https://img.shields.io/badge/version-v1.1.1-blue.svg)](./SKILL.md)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
-[![evals: 15/15 PASS](https://img.shields.io/badge/evals-15%2F15%20PASS-brightgreen.svg)](./evals/runs/20260530-050323-pareto-sample-1/report.md)
-[![aggregate: 95.00/100](https://img.shields.io/badge/aggregate-95.00%2F100-brightgreen.svg)](./evals/runs/20260530-050323-pareto-sample-1/report.md)
+[![evals: 99/100 PASS](https://img.shields.io/badge/evals-99%2F100%20PASS-brightgreen.svg)](./evals/runs/20260530-lane-a2-full-v111/report.md)
+[![aggregate: 96.3/100](https://img.shields.io/badge/aggregate-96.3%2F100-brightgreen.svg)](./evals/runs/20260530-lane-a2-full-v111/report.md)
+[![baseline delta: +89.4 pts](https://img.shields.io/badge/vs%20no--skill-+89.4%20pts-brightgreen.svg)](./evals/runs/20260530-lane-a3-baseline/report.md)
 [![cross-judge: 86.7% agreement](https://img.shields.io/badge/cross--judge-86.7%25%20agree-brightgreen.svg)](./evals/lessons/2026-05-30-cross-validation.md)
 [![oracle verdict: PASS](https://img.shields.io/badge/oracle%20verdict-100%25%20human-blueviolet.svg)](./evals/runs/2026-05-29-verdict-run/)
 [![opencode](https://img.shields.io/badge/built%20for-opencode-black.svg)](https://github.com/sst/opencode)
@@ -22,6 +23,8 @@ At v1.1.1. A held-out oracle, given ten cases the skill had never been tuned on,
 That verdict, with the full per-case breakdown, lives in [`evals/runs/2026-05-29-verdict-run/`](./evals/runs/2026-05-29-verdict-run/). It's the project's primary evidence, kept verbatim. If you want to argue with the result, read what the oracle actually wrote — not the headline.
 
 > **Evidence updates since v1.0.0** — after the v1.0.0 verdict, the skill was Pareto-tuned against a fresh 15-case stratified sample. Aggregate moved from 93.27 → 95.00, 14/15 → 15/15 PASS. Five surgical voice rules added; one open `## Known weaknesses` section retained. Full Pareto analysis: [`evals/lessons/2026-05-30-pareto-sample-1.md`](./evals/lessons/2026-05-30-pareto-sample-1.md). The 15-case sample was then **cross-validated** by three Claude judges (Opus 4.7 original, Opus 4.7 fresh, Sonnet 4.6): **86.7% verdict agreement**, zero verdict flips on intra-Opus re-runs (mean Δ 2.13 / 100 points). Full cross-validation: [`evals/lessons/2026-05-30-cross-validation.md`](./evals/lessons/2026-05-30-cross-validation.md). v1.1.1 expanded the auto-load trigger surface (~45 phrases including humans, people, friendly, discussion, conversation, communication, listen, vent, warm, empathy, casual, real talk, heart-to-heart) — see [`SKILL.md`](./SKILL.md) frontmatter.
+
+> **Full 100-case evidence (v1.1.1, 2026-05-30)** — the complete main pool (99 scored cases + 1 pre-existing hold) re-run at v1.1.1: **99/100 PASS, 96.3/100 aggregate, 0 hard fails**. Full run: [`evals/runs/20260530-lane-a2-full-v111/`](./evals/runs/20260530-lane-a2-full-v111/report.md). **Baseline comparison** — the same 20 stratified cases were then scored *without* the skill (default Claude behavior): **1/20 PASS, 7.6/100 aggregate, 18/20 hard fails**. Skill delta: **+89.4 points average, PASS rate 5% → 100%**. The most common baseline hard-fail patterns — sycophancy, lecturing, performed-empathy, structured-output-in-grief-moment — are exactly what this skill is built against. Full baseline: [`evals/runs/20260530-lane-a3-baseline/`](./evals/runs/20260530-lane-a3-baseline/report.md).
 
 ## Quick start
 
