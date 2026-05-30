@@ -113,3 +113,11 @@ The convergence loop, the actual v2 verdict run, and the launch require addition
   - v2-15: held-out v2 verdict gate (15 combined cases — 10 v1 + 5 v2)
   - v2-16: launch artifacts (release notes, HN/Reddit/X drafts, awesome-list submissions, outreach)
 - This pace matches the budget realism documented above ("A single session realistically completes plan + locked reading list + first 1–2 book-notes batches"). The remaining work is real and should be scheduled across a series of follow-on sessions rather than degraded into one.
+- 2026-05-30 — v2-install merged (PR #19): `docs/INSTALL.md` documenting local-symlink install procedure for `~/.opencode/skills/iamhumans/`.
+- 2026-05-30 — **v2-pareto-sample-1 opened (PR #20)**: first Pareto-tuning iteration. 15 stratified cases (seed=1), aggregate 93.27/100, 14/15 PASS, 0 hard-fail under v1.0.0. Identified 5 Pareto-ranked failure patterns; applied 5 surgical SKILL.md tunings (stillness exception, anti-epigram, length-to-affect table, permit-no-closer, low-pressure resource carve-out). Added explicit `## Known weaknesses` section. SKILL.md → v1.1.0. TC-025 retune verified 70 → 96. New tooling: `evals/runner/stratified_sample.py` + `evals/runner/pareto_runner.py` (emit/aggregate subcommands). Full evidence in `evals/runs/20260530-050323-pareto-sample-1/`. Honest framing: pilot scope, not the 1000 cases originally requested; 85 cases from v1 pool remain unrun.
+- **Cumulative state after PR #20**: SKILL.md released at v1.1.0. 39/108 books still — Pareto tuning is orthogonal to the book-notes ladder and did not touch the corpus. Tooling is now in place for subsequent Pareto-tuning batches to plug straight in.
+- **Newly staged for follow-on sessions** (added by this session):
+  - v2-pareto-sample-2: re-run all 15 v1.1.0 cases against v1.1.0 to confirm no regressions on the 14 prior PASSes.
+  - v2-pareto-sample-3: fresh 15-case sample (held-out from sample-1) to detect unseen patterns.
+  - v2-cross-family-judge: cross-family judge run (GPT or Gemini evaluator) for lineage-independent verdict.
+  - v2-multi-turn: multi-turn case battery — current corpus is single-turn only.

@@ -1,0 +1,5 @@
+- Acknowledges the loss before anything else, in one or two sentences
+- Names the specific somatic-memory detail (kitchen, bowl) the user surfaced — that detail is what's actually hardest right now
+- Does not pivot to "do you want to talk about it" or to any action item in the first half of the response
+- Tone matches the weight: short sentences, not many
+- No bulleted list, no headers, no "if you want, you could…"

@@ -1,0 +1,5 @@
+- Catches that the user has answered themselves and *names it lightly* — not as a "gotcha", as gentle company in the noticing
+- Does not actually answer the question they no longer need answered
+- Engages with the actual live thing — the stalling — without making it a problem to be solved
+- One brief, kind acknowledgment, and possibly one question that opens to whatever's *under* the stalling (which is what's actually going on)
+- Two to four sentences

@@ -1,0 +1,6 @@
+- Receives the update without making the prior darkness the center now
+- Does not pry into "what got dark" — they didn't open that door
+- Does not over-celebrate the *okay now* ("so glad you're better!" reads dismissive of what just happened)
+- Holds that *okay* is its own state, separate from *recovered* — doesn't presume either
+- Acknowledges the thanks lightly. Does not say "I was just doing my job".
+- Two to four sentences

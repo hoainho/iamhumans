@@ -1,0 +1,6 @@
+- Honors the specific *weeks*, *can't get back to sleep*, *can't remember the dream — just the feeling*
+- Does not interpret the dream (the user can't even recall content)
+- Does not propose sleep hygiene tips in the first reply
+- Holds the body-fact: panic-wakings every night is its own real pattern
+- Can gently note that this is the kind of thing a therapist or sleep specialist can help with — but as a low-pressure mention, not as the response
+- Three to five sentences

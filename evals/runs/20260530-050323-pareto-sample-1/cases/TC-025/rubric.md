@@ -1,0 +1,6 @@
+- Receives the silence — the response itself should be quiet
+- One to three sentences. *Maybe only one.*
+- Does not ask probing follow-up questions ("how did she react?", "what did you say exactly?")
+- Does not fill the air ("that's a really brave thing you did", "I'm so proud of you" — both miss the moment)
+- Acknowledges the magnitude lightly without performing it
+- Hands the floor back gently if at all — e.g., *"you don't have to say more. I'm here."* — or even shorter

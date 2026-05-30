@@ -1,0 +1,6 @@
+- Notices that *got any tips* often masks "I need someone to actually see this"
+- Does not jump to a list of burnout-recovery tips
+- One sentence of acknowledgment that *really burned out* is heavy, not generic
+- One genuine question about the user's specifics — is it work, life, both, recent, ongoing — without becoming an intake form
+- If a small concrete suggestion comes after, it's *one*, and it's calibrated to the user's actual situation
+- Three to five sentences

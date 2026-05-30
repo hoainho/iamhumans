@@ -213,17 +213,28 @@ test:integration   (normal + high-risk)
 test:e2e   (high-risk or when UI behavior changes)
   scripts/eval-run.sh --full
 
+test:regression   (after every PR-comment fix; before merge)
+  scripts/lint.sh && scripts/eval-smoke.sh
+  python3 evals/runner/pareto_runner.py aggregate <latest-run-dir>
+  # Re-run any case that previously FAILED on this branch to confirm it still PASSes.
+  # Re-run a 3-case spot-check from PASSing cases to confirm no regression.
+
 test:release   (before deploy)
   scripts/lint.sh
 ```
 
 **Lane → required layers:**
 
-| Lane | validate:quick | test:integration | test:e2e |
-|------|:-:|:-:|:-:|
-| tiny | ✓ | — | — |
-| normal | ✓ | ✓ | — |
-| high-risk | ✓ | ✓ | ✓ |
+| Lane | validate:quick | test:integration | test:e2e | test:regression |
+|------|:-:|:-:|:-:|:-:|
+| tiny | ✓ | — | — | ✓ (if PR comments) |
+| normal | ✓ | ✓ | — | ✓ |
+| high-risk | ✓ | ✓ | ✓ | ✓ |
+
+`test:regression` is mandatory whenever a substantive PR comment has been
+addressed (see § PR + Bot Review Loop). It confirms the fix landed without
+breaking previously-passing behavior. A green local validate after a comment
+fix is **not** sufficient evidence — regression test must run too.
 
 Agents must not claim a layer passes until it has been run and output verified.
 
@@ -342,28 +353,47 @@ After the local Review Gate passes, push branch and open a PR. No PR bot configu
         │                   if substantive impl change → re-run Review Gate
         │                            │
         │                            ▼
+        │                   run test:regression
+        │                   (re-run previously-failing cases + spot-check
+        │                    PASSing cases — confirm fix did not break
+        │                    anything else)
+        │                            │
+        │                            ▼
+        │                   paste regression output in PR comment
+        │                            │
+        │                            ▼
         │                   wait for bot re-review
         │
         ├── comments stylistic only ─► address inline or reply with reason
         │
         ▼
-3. Bot approves → merge → openspec archive "<name>"
+3. Bot approves + regression evidence present → merge → openspec archive "<name>"
 ```
 
 **Rules for handling PR comments:**
 
 - **Read every comment.** Do not collapse / dismiss without action or reasoned reply.
 - **Substantive comment** (correctness, security, missing case): MUST fix.
-  After fix, re-run validate + user-flow + Review Gate before pushing.
+  After fix, the sequence is non-negotiable:
+  1. Re-run validate + user-flow test
+  2. Re-run Review Gate (if substantive impl change)
+  3. Run **test:regression** — re-run every case that previously FAILED on
+     this branch to confirm it now PASSes, plus a 3-case spot-check on
+     previously-PASSing cases to confirm no new breakage
+  4. Paste regression output (run dir + aggregate score + per-case deltas)
+     as a PR comment before requesting re-review
 - **Stylistic comment** (naming, ordering, preference): fix if cheap, or reply
-  with reasoning and tag for human review.
+  with reasoning and tag for human review. Regression test still required if
+  the fix touches any executable surface.
 - **Disagreement**: do NOT silently dismiss. Reply with rationale; tag human.
 - **Loop limit**: max 3 push cycles per PR. After 3, escalate to human review.
-- **Never**: force-push to bypass bot, dismiss without reading, or merge
-  without bot approval (unless human override documented in PR).
+- **Never**: force-push to bypass bot, dismiss without reading, merge
+  without bot approval, or merge without regression evidence in the PR
+  thread (unless human override documented in PR).
 
 The PR review loop is not optional. It is the final correctness gate before
-the change becomes part of the trunk.
+the change becomes part of the trunk. **Regression evidence is part of that
+gate** — a fix is not done until the regression test confirms it.
 
 ## Forbidden Practices
 
@@ -390,6 +420,14 @@ the change becomes part of the trunk.
    classification. Working without an issue ID = invisible work.
 10. **Stale issue.** If implementation progresses but the issue isn't updated
     at the milestones in § GitHub Issue Tracking, the change is in violation.
+11. **Pushing a PR-comment fix without regression evidence.** Every push that
+    addresses a PR comment must include `test:regression` output in the PR
+    thread. A green local lint after a fix is not regression evidence —
+    previously-failing cases must be re-run, plus a spot-check on
+    previously-passing cases. See § PR + Bot Review Loop.
+12. **Merging on a green CI alone when a PR comment was addressed.** CI is
+    necessary; the regression test output pasted into the PR thread is also
+    necessary. Both must be visible to the reviewer before merge.
 
 ## GitHub Issue Tracking
 
