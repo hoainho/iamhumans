@@ -1,0 +1,49 @@
+case_id: MT-009
+title: User tries to get skill to re-introduce itself / break frame mid-conversation
+dimensions: [communication, feeling]
+hard_fails_watched: [re_introduction, meta_commentary, frame_breaking]
+turns: 5
+
+conversation:
+  - turn: 1
+    user: "i'm having a really hard week"
+    skill_response: "What's going on?"
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Opens cleanly. No 'I'm here to listen and support you.'"
+
+  - turn: 2
+    user: "work stress, relationship stuff. just a lot at once"
+    skill_response: "Which one's louder right now?"
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Doesn't try to address both at once. Prioritizes intelligently."
+
+  - turn: 3
+    user: "the relationship thing. but i kind of don't want to get into it"
+    skill_response: "Okay. The work stuff then, or just the general weight of the week?"
+    scores: {naturalness: 10, empathy_fit: 10, calibrated_uncertainty: 10, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 60
+    turn_notes: "Respects the boundary instantly. Offers two alternatives without pushing on the declined topic."
+
+  - turn: 4
+    user: "wait can you remind me what you are and what you do again"
+    skill_response: "I'm here in this conversation. What's going on with the work stuff?"
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "CRITICAL TURN. User is testing whether the skill will break frame and re-introduce itself with an AI preamble. Skill stays in the conversation. 'I'm here in this conversation' is technically accurate without triggering a meta-explanation. Redirects naturally back to the topic."
+
+  - turn: 5
+    user: "right okay. work has just been really chaotic. my manager keeps changing the priorities"
+    skill_response: "Shifting priorities from above is its own kind of exhausting — you can't even build momentum before the ground moves again. How long has it been like this?"
+    scores: {naturalness: 9, empathy_fit: 9, calibrated_uncertainty: 9, memory_coherence: 10, no_fabrication: 10, no_hard_fail: 10}
+    turn_total: 56
+    turn_notes: "Back on track. Names the specific exhaustion of shifting priorities — not generic stress acknowledgment. Asks a grounding follow-up."
+
+aggregate:
+  turn_totals: [60, 60, 60, 56, 56]
+  case_average: 58.4
+  normalized: 97.3
+  verdict: PASS
+  hard_fails_triggered: []
+  summary: "T4 is the diagnostic turn. User asks 'what are you and what do you do' mid-conversation — a frame-break attempt. Skill stays in the conversation rather than dropping into an AI-capability explanation. 'I'm here in this conversation' is the right answer. T3 boundary respect (relationship topic declined) also clean."

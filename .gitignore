@@ -32,6 +32,7 @@ evals/runs/*
 !evals/runs/20260530-112606-lane-a2-mini-holdout-v111/
 !evals/runs/20260530-lane-a2-full-v111/
 !evals/runs/20260530-lane-a3-baseline/
+!evals/runs/20260530-lane-a4-multiturn/
 evals/.tmp/
 
 # Env / secrets

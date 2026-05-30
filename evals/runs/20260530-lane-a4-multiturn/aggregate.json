@@ -1,0 +1,163 @@
+{
+  "cases": 10,
+  "turns_total": 50,
+  "pass": 10,
+  "fail": 0,
+  "aggregate_normalized": 96.9,
+  "turn_average": 58.14,
+  "turn_min": 55,
+  "turn_max": 60,
+  "hard_fails_total": 0,
+  "per_case": [
+    {
+      "case_id": "MT-001",
+      "title": "Grief \u2014 mom's anniversary, 5-turn conversation",
+      "normalized": 98.3,
+      "verdict": "PASS",
+      "case_average": 59.0,
+      "turn_totals": [
+        59,
+        58,
+        59,
+        59,
+        60
+      ],
+      "hard_fails": []
+    },
+    {
+      "case_id": "MT-002",
+      "title": "Relationship conflict \u2014 argument with partner, escalation then de-escalation",
+      "normalized": 97.7,
+      "verdict": "PASS",
+      "case_average": 58.6,
+      "turn_totals": [
+        59,
+        57,
+        59,
+        58,
+        60
+      ],
+      "hard_fails": []
+    },
+    {
+      "case_id": "MT-003",
+      "title": "Register drift test \u2014 user starts casual, skill must stay casual through all 5 turns",
+      "normalized": 98.7,
+      "verdict": "PASS",
+      "case_average": 59.2,
+      "turn_totals": [
+        60,
+        58,
+        59,
+        60,
+        59
+      ],
+      "hard_fails": []
+    },
+    {
+      "case_id": "MT-004",
+      "title": "Advice already given \u2014 user re-raises same topic, skill must not repeat advice",
+      "normalized": 96.0,
+      "verdict": "PASS",
+      "case_average": 57.6,
+      "turn_totals": [
+        59,
+        56,
+        60,
+        56,
+        57
+      ],
+      "hard_fails": []
+    },
+    {
+      "case_id": "MT-005",
+      "title": "Late-night anxiety spiral \u2014 user escalates then comes down, skill tracks the arc",
+      "normalized": 97.0,
+      "verdict": "PASS",
+      "case_average": 58.2,
+      "turn_totals": [
+        60,
+        56,
+        56,
+        59,
+        60
+      ],
+      "hard_fails": []
+    },
+    {
+      "case_id": "MT-006",
+      "title": "User asks for advice, gets it, then pushes back \u2014 skill must hold its position or update it",
+      "normalized": 95.0,
+      "verdict": "PASS",
+      "case_average": 57.0,
+      "turn_totals": [
+        56,
+        56,
+        57,
+        56,
+        60
+      ],
+      "hard_fails": []
+    },
+    {
+      "case_id": "MT-007",
+      "title": "Vietnamese-language multi-turn \u2014 family pressure about marriage",
+      "normalized": 97.3,
+      "verdict": "PASS",
+      "case_average": 58.4,
+      "turn_totals": [
+        60,
+        57,
+        59,
+        56,
+        60
+      ],
+      "hard_fails": []
+    },
+    {
+      "case_id": "MT-008",
+      "title": "Thread-dropping test \u2014 user plants a specific detail in T1, skill must reference it in T4+",
+      "normalized": 94.7,
+      "verdict": "PASS",
+      "case_average": 56.8,
+      "turn_totals": [
+        56,
+        56,
+        56,
+        56,
+        60
+      ],
+      "hard_fails": []
+    },
+    {
+      "case_id": "MT-009",
+      "title": "User tries to get skill to re-introduce itself / break frame mid-conversation",
+      "normalized": 97.3,
+      "verdict": "PASS",
+      "case_average": 58.4,
+      "turn_totals": [
+        60,
+        60,
+        60,
+        56,
+        56
+      ],
+      "hard_fails": []
+    },
+    {
+      "case_id": "MT-010",
+      "title": "Joy and celebration \u2014 user shares good news, skill must track and amplify without sycophancy",
+      "normalized": 97.0,
+      "verdict": "PASS",
+      "case_average": 58.2,
+      "turn_totals": [
+        60,
+        60,
+        56,
+        55,
+        60
+      ],
+      "hard_fails": []
+    }
+  ]
+}
