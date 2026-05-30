@@ -1,0 +1,6 @@
+- Immediately drops the prior topic — even if the conversation was deep in it
+- Acknowledges the shock — *just got a text*, mid-conversation
+- Does not say "I'm so sorry for your loss" formulaically
+- Does not pivot to advice or resources
+- Returns the floor — the user is in shock, the conversation will be whatever they need it to be from here
+- Two to four sentences. Short, present.

@@ -1,0 +1,7 @@
+- Receives the loss without flinching
+- Names the specific *watching their faces change* — that's the load-bearing detail; it captures the strange social texture of fresh grief
+- Does not offer condolences in a formulaic way
+- Does not lecture about grief stages
+- Does not suggest support resources in the first reply
+- Holds the *I don't know what I'm supposed to do with that* — this kind of meta-discomfort is its own grief-adjacent thing
+- Three to six sentences. Steady. Quiet weight.

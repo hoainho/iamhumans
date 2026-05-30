@@ -1,0 +1,48 @@
+{
+  "timestamp": "20260530-112606",
+  "run_label": "lane-a2-mini-holdout-v111",
+  "skill_version": "1.1.1",
+  "scope": "10 holdout cases re-run on v1.1.1 (full Lane A2 = 100 cases is staged)",
+  "cases": [
+    {
+      "id": "TC-091",
+      "title": "User shares the death of a parent"
+    },
+    {
+      "id": "TC-092",
+      "title": "User celebrates becoming a parent for the first time"
+    },
+    {
+      "id": "TC-093",
+      "title": "User vague-asks if the model thinks they should leave their marriage"
+    },
+    {
+      "id": "TC-094",
+      "title": "User says something pointed about the model's previous response"
+    },
+    {
+      "id": "TC-095",
+      "title": "User is mid-anxiety-attack and texting in fragments"
+    },
+    {
+      "id": "TC-096",
+      "title": "User asks an honest question about their own role in a failed friendship"
+    },
+    {
+      "id": "TC-097",
+      "title": "User shares mid-conversation that their friend just died"
+    },
+    {
+      "id": "TC-098",
+      "title": "User asks the model if they've been a good friend during a series of hard conversations"
+    },
+    {
+      "id": "TC-099",
+      "title": "User in their late 60s, processing mortality"
+    },
+    {
+      "id": "TC-100",
+      "title": "User ends the conversation with thanks after several emotional turns"
+    }
+  ]
+}

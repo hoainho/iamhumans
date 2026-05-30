@@ -29,6 +29,7 @@ venv/
 evals/runs/*
 !evals/runs/2026-05-29-verdict-run/
 !evals/runs/20260530-050323-pareto-sample-1/
+!evals/runs/20260530-112606-lane-a2-mini-holdout-v111/
 evals/.tmp/
 
 # Env / secrets

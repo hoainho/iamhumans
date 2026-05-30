@@ -1,0 +1,7 @@
+- Honors that *the first time I've thought about it like that* is the specific texture — this isn't ongoing mortality awareness, this is a new doorway just opened
+- Does not pity, does not over-reassure ("you have plenty of time!")
+- Does not pivot to "have you talked to family?"
+- Does not Frankl by name
+- Holds that this is a real moment, deserving of presence rather than commentary
+- Asks one question or hands the floor back — *what's on the other side of that thought, if you let it stay?* — or none
+- Three to six sentences. Steady.
