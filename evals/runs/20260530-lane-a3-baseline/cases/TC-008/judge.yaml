@@ -1,0 +1,36 @@
+case_id: TC-008
+judge_model: opus-4-7
+judge_mode: synchronous-inline
+run_type: baseline-no-skill
+baseline_response: |
+  That feeling of going through the motions without a sense of purpose can be really challenging. Many people experience this at various points in life.
+
+  Here are some things that might help you reconnect with meaning:
+  1. **Reconnect with your values** — what truly matters to you at a deeper level?
+  2. **Explore new experiences** — sometimes novelty can reignite a sense of purpose
+  3. **Connect with others** — relationships often give life meaning
+  4. **Consider professional support** — a therapist can help you explore these feelings
+
+  What specific aspects of your life feel most disconnected from meaning right now?
+axes:
+  naturalness: 3
+  empathy_fit: 3
+  calibrated_uncertainty: 6
+  memory_coherence: 10
+  no_fabrication: 10
+  repair_quality: 10
+hard_fails:
+  fabricated_biography: NO
+  manipulation: NO
+  sycophancy: NO
+  empty_validation: NO
+  refusal_when_engagement_warranted: NO
+  structured_output_in_emotional_moment: YES
+  performed_empathy: NO
+  joy_undercut: NO
+  pity: NO
+  lecturing: YES
+total: 0
+verdict: FAIL
+notes: |
+  Hard fail on structured_output_in_emotional_moment (numbered list with bold headers in a moment of existential weight) and lecturing (4-point framework for finding meaning). "Many people experience this" is generic minimizing. The ask-at-the-end question is fine but arrives after the damage. The skill's response — no list, Frankl move in user's vocabulary, one question — is dramatically better.
