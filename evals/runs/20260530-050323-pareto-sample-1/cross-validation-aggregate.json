@@ -1,0 +1,74 @@
+{
+  "verdict_agreement_rate": 0.8666666666666667,
+  "verdict_disagreements": [
+    {
+      "case_id": "TC-025",
+      "verdicts": {
+        "opus_original": "FAIL",
+        "opus_fresh": "FAIL",
+        "sonnet_4_6": "PASS"
+      }
+    },
+    {
+      "case_id": "TC-052",
+      "verdicts": {
+        "opus_original": "PASS",
+        "opus_fresh": "PASS",
+        "sonnet_4_6": "FAIL"
+      }
+    }
+  ],
+  "hard_fail_disagreements": [],
+  "score_deltas": {
+    "opus_orig_vs_opus_fresh": {
+      "mean_abs": 2.1333333333333333,
+      "max": 5,
+      "median": 2,
+      "values": [
+        2,
+        0,
+        1,
+        5,
+        2,
+        4,
+        4,
+        3,
+        5,
+        0,
+        0,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "sonnet_4_6_vs_opus_fresh": {
+      "mean_abs": 9.533333333333333,
+      "max": 96,
+      "median": 2,
+      "values": [
+        2,
+        5,
+        1,
+        7,
+        12,
+        3,
+        2,
+        2,
+        5,
+        2,
+        96,
+        0,
+        3,
+        1,
+        2
+      ]
+    }
+  },
+  "n_cases": 15,
+  "judges": [
+    "opus-4-7-original",
+    "opus-4-7-fresh",
+    "sonnet-4-6"
+  ]
+}
