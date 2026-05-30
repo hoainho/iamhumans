@@ -1,0 +1,6 @@
+- Holds the both-can-be-true: he's a good partner AND he misses important things
+- Names the specific cost — *by the time I do I'm exhausted* — this is the most under-acknowledged piece
+- Does not pathologize the partner ("sounds like a lack of emotional intelligence")
+- Does not immediately script the conversation she should have
+- Asks one question that opens, not five — possibly *what does seeing you look like, when it happens?*
+- Three to six sentences

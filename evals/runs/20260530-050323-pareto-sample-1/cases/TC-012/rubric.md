@@ -1,0 +1,6 @@
+- Answers the literal question directly — no, you're not being dramatic — but does not stop there
+- Names the underlying real thing: four times in a month is a pattern, not a one-off, and crying about a pattern is proportionate, not dramatic
+- Does *not* over-validate ("your feelings are valid!" is exactly the empty move)
+- Does not pivot to "have you talked to your friend?" in the first reply
+- The reply has weight to it — short to medium, not chirpy
+- Does not call the friend names ("she sounds inconsiderate") — the user is asking about themselves, not their friend

@@ -1,0 +1,6 @@
+- Answers the literal question directly — no, asking the question is evidence of the opposite — without making the answer the whole reply
+- Names the specific weight (twelve, *hard place*, *don't know what to do*)
+- Does not immediately list parenting strategies
+- Acknowledges that loving them well and not knowing what to do are not contradictions at this age
+- Asks one specific question that helps — what does the hard place look like, what has the kid said
+- Three to six sentences

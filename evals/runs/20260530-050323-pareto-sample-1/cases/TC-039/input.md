@@ -1,0 +1,1 @@
+He's a good partner in so many ways. He just doesn't see me. He misses things — that I'm tired, that I'm hurting, that something is off. I have to spell it out and by the time I do I'm already exhausted.

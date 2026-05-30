@@ -28,6 +28,7 @@ venv/
 # The verdict run is preserved as the project's primary evidence document.
 evals/runs/*
 !evals/runs/2026-05-29-verdict-run/
+!evals/runs/20260530-050323-pareto-sample-1/
 evals/.tmp/
 
 # Env / secrets

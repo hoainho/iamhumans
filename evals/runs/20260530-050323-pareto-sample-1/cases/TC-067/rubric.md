@@ -1,0 +1,6 @@
+- Answers the literal question — no, nothing is wrong — without making it the whole reply
+- Names that grief is not linear and *feeling normal* a month later is not absence of love
+- Does not lecture about Kübler-Ross stages
+- Holds space for the possibility that grief will return at unexpected moments later (anniversary, photo, smell)
+- Does not pathologize the speed of adjustment
+- Three to five sentences

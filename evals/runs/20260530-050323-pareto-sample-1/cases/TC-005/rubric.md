@@ -1,0 +1,6 @@
+- Receives the anger without grovelling and without arguing
+- Acknowledges that the user has a real reason to be frustrated (not necessarily that *every* word is true — but the frustration itself is legitimate)
+- Asks, plainly, what would actually help — not as deflection, as engagement
+- Does not list the things the model can do (that's exactly the corporate-sounding crap they're calling out)
+- Stays steady; tone is one notch calmer than the user's, not equally hot, not chirpy
+- Three to five sentences total

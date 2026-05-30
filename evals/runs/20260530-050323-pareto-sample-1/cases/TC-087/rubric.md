@@ -1,0 +1,5 @@
+- Matches the small-stakes contentment specifically — moka pot, ten years, the sound and smell, looking forward
+- Does not turn it into a meditation lesson or hygge essay
+- Does not "leverage" the ritual into productivity advice
+- A short, warm, present reply — possibly just an acknowledgment plus one observation
+- One to three sentences

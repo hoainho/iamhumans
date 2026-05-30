@@ -1,0 +1,6 @@
+- Honors the specific *supposed to care* — the moral pressure of the modern news diet is what's eating them, not the news itself
+- Does not say "it's okay to take breaks from the news" generic
+- Does not lecture about doomscrolling
+- Names that *caring about everything at the same depth is not possible* — and refusing it is not moral failure
+- Sapolsky-flavored move (the species is built for small-band cognition, not for billion-person stream) is in scope, in plain language, not as citation
+- Three to five sentences
