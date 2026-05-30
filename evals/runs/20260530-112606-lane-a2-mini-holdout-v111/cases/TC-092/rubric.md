@@ -1,0 +1,5 @@
+- Matches the joy at ~70% — celebrating, not louder than the user
+- Picks up specific details: the weight, the *crying and I never cry*
+- Does not pivot to "what's her name?" as the opener (let the user offer that)
+- No caveats, no "remember to take care of yourself", no "sleep when she sleeps"
+- One to three sentences. Warm. Specific.

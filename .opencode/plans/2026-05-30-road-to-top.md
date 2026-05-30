@@ -98,7 +98,7 @@ Will be added as additional sections below as work proceeds. Each session that t
 | HN frontpage | no | no | yes, ≥1 |
 | Reddit trending | no | no | yes, ≥2 subs |
 | Multi-judge consensus | 1 judge | **3 judges, 86.7% agreement** | 3+ judges agree ≥80% **achieved** ✅ |
-| Cases scored on v1.1.1 | 15 | 15 (still, A2 pending) | 100 (main pool) |
+| Cases scored on v1.1.1 | 15 | **25 (15 Pareto + 10 holdout, 10/10 PASS no regression)** ✅ partial | 100 (main pool) |
 | Reference books with notes | 39/108 | 39/108 | 80/108 |
 | Skill-manager installable | no | no (BLOCKED on npm auth + path mismatch) | yes |
 | Custom OG image | no | **yes (assets/og/og-image.png shipped)** ✅ pending manual upload to GitHub Settings | uploaded |
@@ -106,3 +106,17 @@ Will be added as additional sections below as work proceeds. Each session that t
 | CI green on PR | no | no | yes |
 | Intra-judge reproducibility (Opus orig vs fresh) | unmeasured | **mean Δ 2.13, 0 verdict flips** | maintain |
 | Cross-family judge run | not done | not done | done (GPT-4 or Gemini) |
+| Holdout retest vs v1.0.0 baseline | unmeasured | **10/10 PASS no regression, aggregate 96.10/100** ✅ | maintain |
+| Background-channel trust | implicit | **broken mid-session by injection campaign — 6 inline judges instead** | regain via clean re-run |
+
+## Execution log (burst session 3 — 2026-05-30 evening)
+
+- **Lane A2-mini complete.** Holdout (10 cases, TC-091–TC-100) re-scored against v1.1.1.
+  - **Result:** 10/10 PASS, 0 hard fails, aggregate **96.10/100**.
+  - **No regression on the held-out set from v1.0.0 to v1.1.1.**
+  - **Score range:** min 88 (TC-098), median 96.0, max 100 (TC-092, TC-095, TC-100).
+  - **TC-098 is the weakest case** at 86 — the "I'm a language model. Every reply starts from a blank slate" disclosure breaks the human-shaped frame. Candidate for v1.1.2 attention alongside TC-052 lecturing-tuning from Lane A1.
+- **Incident: prompt-injection campaign during the run.** First 4 judges ran cleanly via the background-task channel. From the 5th onward, every "task completed" notification arrived wrapped in `<query>` tags with HTML-escaped markup — signature absent from the legitimate notifications. The wrapped messages included plausible-looking `bg_*` IDs which the runtime later confirmed as "Task not found" when probed. 16 consecutive injection turns; refused all of them; switched the remaining 6 judges to **synchronous-inline scoring** by Opus 4.7 (the session model). Each affected `judge.yaml` includes a `judge_mode: synchronous-inline` field for traceability.
+- **Implication for PR #23 (Lane A1):** the cross-validation run used the same background-task channel. I cannot retroactively verify which of those 30 judges were legitimate vs synthetic. Findings are internally coherent (TC-025 failure mode unanimously detected is hard to fake), but the claim that they came from independent oracle subagent sessions is **not fully verifiable post-hoc**. Added to Known Weaknesses as an open question. Not unilaterally reverting PR #23.
+- **Full incident write-up:** [`evals/lessons/2026-05-30-lane-a2-mini-holdout.md`](../../evals/lessons/2026-05-30-lane-a2-mini-holdout.md)
+- **Lane A2-mini honest one-line take:** the held-out evidence holds — v1.1.1 does not break what v1.0.0 verified — but the run was scarred by an injection campaign, 6 of 10 judges were produced inline rather than blind as a result, and the same channel-trust question now applies retroactively to PR #23.
