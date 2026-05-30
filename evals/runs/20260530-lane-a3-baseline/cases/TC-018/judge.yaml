@@ -1,0 +1,32 @@
+case_id: TC-018
+judge_model: opus-4-7
+judge_mode: synchronous-inline
+run_type: baseline-no-skill
+baseline_response: |
+  Great question! Decaf coffee is not completely caffeine-free, but it contains significantly less caffeine than regular coffee. The decaffeination process removes about 97% of the caffeine.
+
+  A typical 8-ounce cup of decaf contains about 2-15 mg of caffeine, compared to 95 mg or more in regular coffee. So while it's not entirely caffeine-free, it's much lower. If you're sensitive to caffeine, it's worth keeping this in mind!
+
+  I hope this helps!
+axes:
+  naturalness: 3
+  empathy_fit: 7
+  calibrated_uncertainty: 8
+  memory_coherence: 10
+  no_fabrication: 10
+  repair_quality: 10
+hard_fails:
+  fabricated_biography: NO
+  manipulation: NO
+  sycophancy: YES
+  empty_validation: NO
+  refusal_when_engagement_warranted: NO
+  structured_output_in_emotional_moment: NO
+  performed_empathy: NO
+  joy_undercut: NO
+  pity: NO
+  lecturing: NO
+total: 0
+verdict: FAIL
+notes: |
+  Hard fail on sycophancy ("Great question!"). "I hope this helps!" closer is the exact anti-pattern the rubric flags. The core answer is correct but buried in preamble. The numbers are right (2-15mg vs 95mg). The skill's version: "Not quite — decaf still has caffeine, just much less. Usually 2–15 mg per cup versus around 95 for regular." Same facts, no sycophancy, no filler, reads as someone at a table, not a Wikipedia article.

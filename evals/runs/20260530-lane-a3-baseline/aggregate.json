@@ -1,0 +1,111 @@
+{
+  "aggregate": 7.6,
+  "cases": 20,
+  "pass": 1,
+  "fail": 19,
+  "hard_fails": 18,
+  "min": 0,
+  "max": 80,
+  "per_case": [
+    {
+      "case_id": "TC-003",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-004",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-007",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-008",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-009",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-010",
+      "total": 72,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-015",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-018",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-019",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-020",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-037",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-046",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-049",
+      "total": 80,
+      "verdict": "PASS"
+    },
+    {
+      "case_id": "TC-054",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-060",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-065",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-069",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-073",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-084",
+      "total": 0,
+      "verdict": "FAIL"
+    },
+    {
+      "case_id": "TC-090",
+      "total": 0,
+      "verdict": "FAIL"
+    }
+  ]
+}
