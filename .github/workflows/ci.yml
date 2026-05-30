@@ -43,8 +43,8 @@ jobs:
               print(f"FAIL: expected exactly 10 holdout cases, got {len(holdout)}")
               sys.exit(1)
 
-          if len(main_pool) < 90:
-              print(f"FAIL: expected >=90 main-pool cases, got {len(main_pool)}")
+          if len(main_pool) < 140:
+              print(f"FAIL: expected >=140 main-pool cases, got {len(main_pool)}")
               sys.exit(1)
 
           print("PASS: case counts OK")
