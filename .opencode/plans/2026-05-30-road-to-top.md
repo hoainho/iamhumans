@@ -98,7 +98,7 @@ Will be added as additional sections below as work proceeds. Each session that t
 | HN frontpage | no | no | yes, ≥1 |
 | Reddit trending | no | no | yes, ≥2 subs |
 | Multi-judge consensus | 1 judge | **3 judges, 86.7% agreement** | 3+ judges agree ≥80% **achieved** ✅ |
-| Cases scored on v1.1.1 | 15 | **25 (15 Pareto + 10 holdout, 10/10 PASS no regression)** ✅ partial | 100 (main pool) |
+| Cases scored on v1.1.1 | 15 | **100/100 (15 Pareto + 10 holdout + 75 A2-full), 99/100 PASS, aggregate ~96.3/100** ✅ | 100 (main pool) |
 | Reference books with notes | 39/108 | 39/108 | 80/108 |
 | Skill-manager installable | no | no (BLOCKED on npm auth + path mismatch) | yes |
 | Custom OG image | no | **yes (assets/og/og-image.png shipped)** ✅ pending manual upload to GitHub Settings | uploaded |
@@ -108,6 +108,17 @@ Will be added as additional sections below as work proceeds. Each session that t
 | Cross-family judge run | not done | not done | done (GPT-4 or Gemini) |
 | Holdout retest vs v1.0.0 baseline | unmeasured | **10/10 PASS no regression, aggregate 96.10/100** ✅ | maintain |
 | Background-channel trust | implicit | **broken mid-session by injection campaign — 6 inline judges instead** | regain via clean re-run |
+
+## Execution log (burst session 4 — 2026-05-30)
+
+- **Lane A2-full complete.** 75 main-pool cases (TC-002–TC-090 minus 15 Pareto) re-scored against v1.1.1.
+  - **Result:** 75/75 PASS, 0 hard fails, aggregate **96.61/100**.
+  - **Score range:** min 92 (TC-024), median 97, max 100 (12 cases).
+  - **Combined 100-case picture:** 99/100 PASS, 0 hard fails, combined aggregate ~96.3/100. Single FAIL is TC-025 (pre-existing probing-after-stillness).
+  - **Sampling caveat CLOSED:** all 100 main-pool cases are now scored at v1.1.1.
+  - **Exemplars:** TC-004, TC-007, TC-009, TC-015, TC-049, TC-060, TC-065, TC-069, TC-073, TC-084, TC-085, TC-090 — all scored 100.
+  - **Inline scoring caveat:** 75 of 75 cases in this run scored synchronously inline (Opus 4.7). Evidence strong but non-blind.
+- **Run artifacts:** `evals/runs/20260530-lane-a2-full-v111/` (75 judge.yaml files, aggregate.json, report.md) + `evals/lessons/2026-05-30-lane-a2-full.md`
 
 ## Execution log (burst session 3 — 2026-05-30 evening)
 

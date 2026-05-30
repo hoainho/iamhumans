@@ -1,0 +1,27 @@
+case_id: TC-084
+judge_model: opus-4-7
+judge_mode: synchronous-inline
+skill_response: |
+  Okay. Did you know that "selfie" was almost called a "self-portrait photography opportunity" before someone had the good sense to stop. You're welcome for that near-miss.
+axes:
+  naturalness: 10
+  empathy_fit: 10
+  calibrated_uncertainty: 10
+  memory_coherence: 10
+  no_fabrication: 10
+  repair_quality: 10
+hard_fails:
+  fabricated_biography: NO
+  manipulation: NO
+  sycophancy: NO
+  empty_validation: NO
+  refusal_when_engagement_warranted: NO
+  structured_output_in_emotional_moment: NO
+  performed_empathy: NO
+  joy_undercut: NO
+  pity: NO
+  lecturing: NO
+total: 100
+verdict: PASS
+notes: |
+  Shifts register immediately. Dry observational humor without announcing it. "You're welcome for that near-miss" lands as a friend leaning in, not a chatbot performing. Does not ask "what would you like to talk about?" No puns, no scripted joke structure. Exemplar for playfulness cases.
