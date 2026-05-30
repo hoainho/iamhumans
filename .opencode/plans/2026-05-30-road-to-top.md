@@ -75,6 +75,17 @@ Will be added as additional sections below as work proceeds. Each session that t
   - Hard-fail panel: unanimous on all calls except TC-052 lecturing
   - Cross-family judge (non-Claude) still required — intra-family agreement at 86.7% suggests cross-family could drop to 70-80%
 - **Lane A1 honest one-line take:** the 15-case Pareto evidence is *reproducible within Claude lineage* but carries a ~10pt judge-calibration uncertainty that the launch narrative must acknowledge.
+- **2026-05-30 (burst session 2)** — Lane C2 + Lane C3 **complete**. Lane C1 **blocked**.
+  - **Lane C2 (docs/INSTALL.md)**: rewritten from v1.0.0-stale to v1.1.1-current. Now documents three install paths (Global / Project-local / skill-manager) with concrete shell commands, evidence trail table (3 runs cross-referenced), and the current Known Weaknesses caveats.
+  - **Lane C3 (OG image)**: shipped `assets/og/og-image.svg` (Calibre/Swiss editorial visual reference), `assets/og/og-image.png` (1200×630 PIL-rendered, 50.8 KB), `assets/og/regen.py` (reproducible PNG generator), `assets/og/README.md` (design rationale + manual upload procedure). README now references the OG image inline. Badges row added cross-judge agreement (86.7%) badge linking to the cross-validation lessons. Version label updated everywhere v1.1.0 → v1.1.1.
+  - **Manual step pending for user**: upload `assets/og/og-image.png` via GitHub Settings → Social preview (GitHub REST/GraphQL API doesn't expose file upload for the social preview slot). This is a 30-second click; documented in [`assets/og/README.md`](../../assets/og/README.md).
+  - **Lane C1 (skill-manager publish) BLOCKED**: two hard prerequisites unmet in this sandbox env:
+    1. `sync-skill-to-manager` skill hardcodes `SKILL_MANAGER_REPO=/Users/tamlh/...` but on this machine the repo is at `/Users/nhonh/Documents/personal/skill-manager/`. The skill explicitly says *"If those paths don't exist, abort with a clear error — don't try to find them"*. Honored.
+    2. `npm whoami` returns 401 Unauthorized — no maintainer (`nano-step001` / `nhonh`) is logged in for npm publish.
+  - **Lane C1 resolution paths (user-side)**:
+    - (a) Fork `sync-skill-to-manager` and parameterize the paths (preferred long-term).
+    - (b) `npm login` as one of the two maintainer accounts, then re-run with `--source /Users/nhonh/Documents/personal/iamhumans` to override source location.
+    - (c) Run the publish manually from a terminal where both conditions are met. The `assets/` artifacts shipped this PR are publication-ready (PNG, SVG, regen.py).
 
 ## Honest scoreboard (updated each session)
 
@@ -89,7 +100,9 @@ Will be added as additional sections below as work proceeds. Each session that t
 | Multi-judge consensus | 1 judge | **3 judges, 86.7% agreement** | 3+ judges agree ≥80% **achieved** ✅ |
 | Cases scored on v1.1.1 | 15 | 15 (still, A2 pending) | 100 (main pool) |
 | Reference books with notes | 39/108 | 39/108 | 80/108 |
-| Skill-manager installable | no | no | yes |
+| Skill-manager installable | no | no (BLOCKED on npm auth + path mismatch) | yes |
+| Custom OG image | no | **yes (assets/og/og-image.png shipped)** ✅ pending manual upload to GitHub Settings | uploaded |
+| INSTALL.md docs | v1.0.0-stale | **v1.1.1-current, 3 install paths** ✅ | maintained |
 | CI green on PR | no | no | yes |
 | Intra-judge reproducibility (Opus orig vs fresh) | unmeasured | **mean Δ 2.13, 0 verdict flips** | maintain |
 | Cross-family judge run | not done | not done | done (GPT-4 or Gemini) |
