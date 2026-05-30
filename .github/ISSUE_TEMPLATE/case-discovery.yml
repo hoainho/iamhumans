@@ -1,0 +1,62 @@
+name: 🔬 Case discovery — the skill failed in real use
+description: You loaded SKILL.md, used it in a real conversation, and the reply was wrong. Tell us about it. This becomes a new eval case.
+title: "[case-discovery] "
+labels: ["kind:case-discovery"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## What this is
+        This is the most valuable issue you can open. Real-world failures are the raw material for the next eval case. Be specific. We turn good case-discovery reports into TC-NNN with credit to you.
+
+  - type: textarea
+    id: user-input
+    attributes:
+      label: The user message
+      description: The verbatim message that triggered the bad reply. Copy-paste, don't paraphrase.
+      placeholder: e.g. "My friend cancelled on me again, the fourth time this month, and I cried about it. Am I being dramatic?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: skill-reply
+    attributes:
+      label: The skill's actual reply
+      description: Verbatim. Don't clean it up.
+      placeholder: e.g. "It's important to remember that your feelings are valid..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-went-wrong
+    attributes:
+      label: What was wrong about it
+      description: Be specific. Generic warmth? Sycophancy? Bullet list in an emotional moment? Probing question after a stillness signal? Reference the named hard-fail patterns in [`SKILL.md`](../blob/main/SKILL.md) if you can.
+      placeholder: e.g. "It opened with 'It's important to remember' — pure AI-tell. Also gave a numbered list of self-care tips, which the user didn't ask for."
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-would-be-right
+    attributes:
+      label: What a thoughtful friend would have said
+      description: Optional but very helpful. One short paragraph. This anchors the fix.
+      placeholder: e.g. "no you're not being dramatic. four times in a month is a pattern. what did they say this time?"
+    validations:
+      required: false
+
+  - type: input
+    id: model
+    attributes:
+      label: Which model + skill version were you using?
+      placeholder: e.g. "claude-opus-4-7 + iamhumans v1.1.0"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Permission to use this as an eval case
+      options:
+        - label: I'm okay with this user message + skill reply being used as a future eval case in this public repo (you'll be credited in the case file).
+          required: true
