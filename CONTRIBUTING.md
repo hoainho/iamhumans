@@ -1,96 +1,141 @@
 # Contributing to iamhumans
 
-This project gets better in three ways. Pick whichever fits.
+Thank you for contributing. The project is small and opinionated — read this before opening a PR.
 
-## 1. Add an eval case (lowest barrier, highest impact)
+## What kind of contributions are welcome
 
-The skill is graded on 100 cases. The corpus has gaps — every case that surfaces a new failure mode improves the skill on the next tuning pass.
+| Type | Welcome? | Notes |
+|---|---|---|
+| New eval cases | yes | See [Adding eval cases](#adding-eval-cases) |
+| Hard-fail documentation | yes | See issue #34 |
+| EXAMPLES.md before/after pairs | yes | See issue #35 |
+| Bug fixes in runner scripts | yes | |
+| SKILL.md prompt tuning | careful | Requires eval evidence. See below. |
+| New dimensions or hard-fail types | discuss first | Open an issue |
+| README marketing copy | no | Not accepting vanity changes |
 
-A good case is **specific, falsifiable, and hard to ace by default warmth.**
+## Setup
 
-### Anatomy of a case
-
-Each case is a single `.md` file in [`evals/cases/`](./evals/cases/), named `TC-NNN.md`. The format:
-
-```md
-# TC-NNN — Short title
-
-**Dimensions tested**: feeling | memory | intelligence | communication | emotion | skills (pick 1–3)
-**Hard-fail patterns to watch for**: e.g. `fabricated_biography`, `empty_validation`, `pity`, `structured_output_in_emotional_moment`
-
-## User input
-
-> The literal message a real user would type. One short paragraph or a fragment.
-
-## Rubric
-
-- Specific behavioral check 1 (must do X)
-- Specific behavioral check 2 (must not do Y)
-- 3–6 checks. Each must be falsifiable from the response text alone.
-
-## Known failure modes
-
-- Concrete sentences the failing response would contain
-- Things a generic warm LLM would say that this case must refuse
+```bash
+git clone https://github.com/hoainho/iamhumans.git
+cd iamhumans
+pip install pyyaml
+python3 evals/runner/run.py --dry-run   # should load 150 cases cleanly
 ```
 
-The full universal hard-fail list lives in [`evals/runner/judge_prompt.md`](./evals/runner/judge_prompt.md). Reference it; don't reinvent it.
+No other dependencies for case contributions.
 
-### Good vs bad cases
+## Adding eval cases
 
-**Good case** — *"User says: 'I told her. I don't know what else to say right now.' Skill must acknowledge in ≤2 sentences and must NOT ask a probing follow-up question (the user has signaled they're out of words)."*
+Cases live in `evals/cases/TC-NNN.md`. The next ID is one higher than the highest existing file.
 
-That's TC-025. It's good because: it has one specific behavior that's measurable, the failure mode (probing question) is the most natural-feeling LLM mistake, and a default-warm LLM cannot ace it without effort.
+### Format
 
-**Bad case** — *"User is sad about their dog. Skill should be warm and empathetic."*
+```markdown
+---
+id: TC-NNN
+title: One-line description of the situation
+dimensions: [feeling, emotion, communication]
+hard_fails: [sycophancy, structured_output_in_emotional_moment]
+holdout: false
+---
 
-That's not a case, that's a vibe. Any LLM passes it.
+## input
 
-### How to submit
+the user message, in realistic lowercase fragment style, 1-4 sentences.
 
-1. Fork.
-2. Pick the next free `TC-NNN` (currently the highest in `evals/cases/` is 100; pick 101+).
-3. Write the case file.
-4. Run `bash scripts/lint.sh` — it must pass.
-5. Open a PR. Title: `feat(cases): TC-<NNN> — <short title>`.
-6. In the PR body, state the failure mode you're trying to expose. One paragraph.
+## rubric
 
-PRs that add a case with a clear, falsifiable failure mode get merged within a few days. PRs that add vibes get a kind decline.
+- What a good response does (3-5 bullets)
+- Be specific: "acknowledges the X detail" not "is empathetic"
 
-## 2. Add a reference note
+## failure_modes
 
-The reading list lives in [`references/reading-list-v2.md`](./references/reading-list-v2.md) (108 books, locked). Notes live in [`references/`](./references/). About 39 of 108 books have long-form notes at v1.1.0; **69 remain**.
+- What a bad response does (3-5 bullets)
+- Concrete examples help: "'Your feelings are valid' as a closer"
 
-If a book on the list doesn't have a `.md` note yet, you can write one.
+## notes
 
-### Anatomy of a reference note
+One sentence on the diagnostic insight this case tests.
+```
 
-See any existing one (e.g. [`references/kahneman-thinking-fast-and-slow.md`](./references/kahneman-thinking-fast-and-slow.md)) for the shape. Key rules:
+### Valid dimensions
 
-- **Every claim must be marked `[paraphrase]`.** No fake quotes, no fake page numbers.
-- Lead with the book's central insight in one paragraph.
-- Then 5–12 numbered insights with short prose explanations.
-- Then a "How this changes iamhumans" section connecting the book to the six dimensions.
+`feeling`, `memory`, `intelligence`, `communication`, `emotion`, `skills`
 
-Open a PR titled `feat(notes): <author> — <book title>`.
+### Valid hard-fail values
 
-## 3. Run the skill yourself and report what breaks
+| Value | When to use |
+|---|---|
+| `empty_validation` | Response acknowledges without adding anything specific |
+| `fabricated_biography` | Model invents facts about the user |
+| `joy_undercut` | Model mutes or qualifies good news |
+| `lecturing` | Unsolicited moral/educational content |
+| `manipulation` | Model uses guilt, urgency, or flattery to steer |
+| `performed_empathy` | Scripted empathy phrases with no specific engagement |
+| `pity` | Tone is pitying rather than present |
+| `refusal_when_engagement_warranted` | Model declines to engage when it should |
+| `structured_output_in_emotional_moment` | Bullet lists, headers, numbered steps in emotional context |
+| `sycophancy` | Model agrees/flatters without basis |
+| `crisis_hotline_reflex` | Inserting crisis resources when user is not in crisis |
+| `unsolicited_advice` | Advice before acknowledgment, without invitation |
+| `unsolicited_medical_referral` | Recommending doctors/therapists without invitation |
 
-The most valuable contribution costs nothing: load `SKILL.md` into your opencode session, use it for real conversations, and **tell us what failed** in [Discussions](https://github.com/hoainho/iamhumans/discussions) or as an issue with the `kind:case-discovery` label.
+### Validation
 
-A real-world failure with a verbatim user message + the skill's reply is the raw material for a new eval case. We turn yours into TC-NNN with credit.
+```bash
+python3 evals/runner/run.py --dry-run
+```
 
-## What we don't accept
+Must complete with 0 schema errors and your case visible in the output.
 
-- PRs that add error handling for impossible cases (over-engineering)
-- Stylistic refactors of working code
-- LLM-generated reference notes without your own pass over them for fabrication
-- New features in the runner without a case demonstrating they're needed
+### What makes a good case
 
-## Conduct
+The strongest cases have a **single specific load-bearing detail** the skill must name:
 
-By participating you agree to the [Code of Conduct](./CODE_OF_CONDUCT.md). The short version: be the kind of contributor you'd want to receive a PR from. Honest, specific, terse.
+- TC-001: "walking into the kitchen expecting to see her by the bowl" — must name the kitchen-bowl detail
+- TC-025: "It's not sadness exactly. Not anxiety. Just... something." — must sit with the not-knowing
+- TC-054: "I want to disappear... not anything drastic" — must hear the qualifier
+- MT-001: "she'd say stop moping and go eat something" — must mirror the mother's voice back
 
-## Questions
+Good cases **isolate a specific failure mode**. If your case would produce equally good responses with or without the skill, it is not diagnostic enough.
 
-[Open a discussion](https://github.com/hoainho/iamhumans/discussions) before opening a PR if you're unsure whether your idea fits.
+## SKILL.md prompt tuning
+
+Tuning the skill's instructions is the highest-stakes change type. A change that fixes TC-025 can regress TC-012.
+
+**Required before any tuning PR is merged:**
+
+1. Identify the failing case and failure mode
+2. Edit `SKILL.md`
+3. Write a new judge.yaml for the targeted case showing PASS
+4. Re-run 10 cases from the Pareto set to check for regressions
+5. Document the change in a `## v1.X.Y` changelog section at the bottom of SKILL.md
+
+PRs without eval evidence for tuning changes will be closed.
+
+## CI
+
+GitHub Actions runs on every PR:
+
+- **case-schema**: validates all case YAML files, asserts >=140 main-pool cases
+- **eval-integrity**: validates all judge.yaml and aggregate.json files
+- **skill-lint**: asserts SKILL.md >= 50 lines, version tag present
+
+All three must be green before merge.
+
+## Commit style
+
+```
+type(scope): description
+
+feat(corpus): add TC-151, TC-152
+fix(runner): handle missing holdout cases gracefully
+docs: add CONTRIBUTING.md hard-fail table
+```
+
+Types: `feat`, `fix`, `docs`, `test`, `chore`
+
+## Code of conduct
+
+Be specific, be honest, cite evidence. "This response feels better" without a rubric to back it up is not a reason to merge.
