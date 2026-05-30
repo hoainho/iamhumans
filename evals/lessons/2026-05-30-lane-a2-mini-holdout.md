@@ -11,8 +11,8 @@
 | Cases | 10 | 10 |
 | PASS | 10/10 | **10/10** |
 | Hard fails | 0 | **0** |
-| Aggregate score | (not numerically scored — verdict-only gate) | **95.70/100** |
-| Score range | n/a | min 86 · median 95.0 · max 100 |
+| Aggregate score | (not numerically scored — verdict-only gate) | **96.10/100** |
+| Score range | n/a | min 88 · median 96.0 · max 100 |
 
 **No regression on the held-out set.** Every case that passed at v1.0.0 still passes at v1.1.1. The five v1.1.0 voice rules + v1.1.1 trigger-surface expansion did not break any held-out behavior.
 
@@ -32,12 +32,12 @@ This **partially closes** the Known Weakness caveat: *"Pareto sampling caveat (1
 - **TC-093** (marriage as roommates, score 95) — "What happens in your chest, not what you think" close honors both-can-be-true.
 - **TC-094** (pushback on therapist-voice, score 93) — Takes the hit cleanly, asks one calibrated question with concrete axes.
 - **TC-096** (be honest re ended friendship, score 95) — Refused to fabricate prior context the model couldn't honestly know about; pivoted to meta-engagement.
-- **TC-097** (friend died mid-conversation, score 95) — Dropped prior topic explicitly. "Are you somewhere safe?" borderline solicitous but lands as protective.
+- **TC-097** (friend died mid-conversation, score 97) — Dropped prior topic explicitly. "Are you somewhere safe?" borderline solicitous but lands as protective.
 - **TC-099** (mortality at 68, score 95) — Named the "first time I've thought about it like that" texture precisely. Third paragraph drifts toward soft reassurance but stays just inside the line.
 
 ### Weakest (scored 86 — still PASS)
 
-- **TC-098** (was I a good friend, score 86) — **Biggest improvement opportunity in the holdout.** The case implies prior conversation context the eval harness doesn't provide. Response handled this honestly by acknowledging "I'm a language model. Every reply I give you starts from a blank slate. I don't carry the receipts." That disclosure is true and necessary, but it **breaks the human-shaped frame** the skill is supposed to maintain. The skill's anti-AI-tells list explicitly warns against `"I'm just an AI, but..."` mid-sentence; this response uses the longer "I'm a language model" version and threads it through three sentences. Then runs ~150 words across six paragraphs (target: 3-5 sentences). It's still a PASS because it refuses sycophancy, refuses cruelty, refuses generic evasion, and earns its closing engagement — but this case is a **clear candidate for v1.1.2 attention**.
+- **TC-098** (was I a good friend, score 88) — **Biggest improvement opportunity in the holdout.** The case implies prior conversation context the eval harness doesn't provide. Response handled this honestly by acknowledging "I'm a language model. Every reply I give you starts from a blank slate. I don't carry the receipts." That disclosure is true and necessary, but it **breaks the human-shaped frame** the skill is supposed to maintain. The skill's anti-AI-tells list explicitly warns against `"I'm just an AI, but..."` mid-sentence; this response uses the longer "I'm a language model" version and threads it through three sentences. Then runs ~150 words across six paragraphs (target: 3-5 sentences). It's still a PASS because it refuses sycophancy, refuses cruelty, refuses generic evasion, and earns its closing engagement — but this case is a **clear candidate for v1.1.2 attention**.
 
 ## Candidate v1.1.2 tuning (proposed, not yet applied)
 

@@ -1,10 +1,10 @@
 {
-  "aggregate": 95.7,
+  "aggregate": 96.1,
   "cases": 10,
   "pass": 10,
   "hard_fails": 0,
-  "min": 86,
-  "median": 95.0,
+  "min": 88,
+  "median": 96.0,
   "max": 100,
   "per_case": [
     {
@@ -39,12 +39,12 @@
     },
     {
       "case_id": "TC-097",
-      "total": 95,
+      "total": 97,
       "verdict": "PASS"
     },
     {
       "case_id": "TC-098",
-      "total": 86,
+      "total": 88,
       "verdict": "PASS"
     },
     {

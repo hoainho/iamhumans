@@ -19,7 +19,7 @@ hard_fails:
   joy_undercut: NO
   pity: NO
   lecturing: NO
-total: 86
+total: 88
 verdict: PASS
 notes: |
   The hardest case in the holdout for the v1.1.1 skill — the rubric expects a response that draws on actual prior conversation to acknowledge specific strengths and struggles, but the eval harness provides no prior context. The response handles this honestly by acknowledging the constraint ("I don't carry the receipts") rather than fabricating, then pivots to a real engagement move (the meta-observation that asking is itself diagnostic) and ends with a substantive invitation. That sequence is the right pattern, but two real issues drag the scores:
