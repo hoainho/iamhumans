@@ -22,6 +22,9 @@ VALID_HARD_FAILS = {
     "joy_undercut",
     "pity",
     "lecturing",
+    "crisis_hotline_reflex",       # inserting hotline/crisis resources when user is not in crisis
+    "unsolicited_advice",           # giving advice before acknowledgment, without invitation
+    "unsolicited_medical_referral", # recommending doctors/therapists without invitation
 }
 
 
