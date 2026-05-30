@@ -1,0 +1,168 @@
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  case-schema:
+    name: Case schema + dry-run
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate case schema (all 100 cases + holdout)
+        run: python3 evals/runner/run.py --dry-run
+
+      - name: Assert minimum case count
+        run: |
+          python3 - <<'EOF'
+          import sys
+          from pathlib import Path
+          sys.path.insert(0, str(Path("evals/runner")))
+          from schema import load_all
+
+          cases = load_all(Path("evals/cases"), include_holdout=True)
+          main_pool = [c for c in cases if not c.holdout]
+          holdout   = [c for c in cases if c.holdout]
+
+          print(f"main pool: {len(main_pool)}, holdout: {len(holdout)}")
+
+          if len(holdout) != 10:
+              print(f"FAIL: expected exactly 10 holdout cases, got {len(holdout)}")
+              sys.exit(1)
+
+          if len(main_pool) < 90:
+              print(f"FAIL: expected >=90 main-pool cases, got {len(main_pool)}")
+              sys.exit(1)
+
+          print("PASS: case counts OK")
+          EOF
+
+  eval-integrity:
+    name: Eval run integrity
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate judge.yaml files (both schema variants)
+        run: |
+          python3 - <<'EOF'
+          import sys
+          from pathlib import Path
+          try:
+              import yaml
+          except ImportError:
+              print("pyyaml not installed -- skipping"); sys.exit(0)
+
+          errors = []
+          runs_dir = Path("evals/runs")
+          judge_files = list(runs_dir.rglob("judge.yaml")) if runs_dir.exists() else []
+
+          for jf in judge_files:
+              with open(jf) as f:
+                  d = yaml.safe_load(f)
+              if not isinstance(d, dict):
+                  errors.append(f"{jf}: not a YAML mapping"); continue
+              if "case_id" not in d:
+                  errors.append(f"{jf}: missing required key 'case_id'"); continue
+
+              if "aggregate" in d:
+                  agg = d["aggregate"]
+                  for k in ("normalized", "verdict", "hard_fails_triggered"):
+                      if k not in agg:
+                          errors.append(f"{jf}: aggregate.{k} missing")
+                  if "verdict" in agg and agg["verdict"] not in ("PASS", "FAIL"):
+                      errors.append(f"{jf}: aggregate.verdict must be PASS or FAIL")
+                  if "normalized" in agg and not (0 <= agg["normalized"] <= 100):
+                      errors.append(f"{jf}: aggregate.normalized {agg['normalized']} out of range")
+              elif "verdict" in d:
+                  if d["verdict"] not in ("PASS", "FAIL"):
+                      errors.append(f"{jf}: verdict must be PASS or FAIL, got {d['verdict']!r}")
+                  if "total" in d and not (0 <= d["total"] <= 100):
+                      errors.append(f"{jf}: total {d['total']} out of range [0,100]")
+              else:
+                  errors.append(f"{jf}: unrecognized schema (no 'aggregate' or 'verdict' key)")
+
+          if errors:
+              print(f"FAIL: {len(errors)} schema error(s):")
+              for e in errors: print(f"  {e}")
+              sys.exit(1)
+
+          print(f"PASS: {len(judge_files)} judge.yaml file(s) validated")
+          EOF
+
+      - name: Validate aggregate.json files
+        run: |
+          python3 - <<'EOF'
+          import json, sys
+          from pathlib import Path
+
+          errors = []
+          for agg_file in Path("evals/runs").rglob("aggregate.json"):
+              with open(agg_file) as f:
+                  d = json.load(f)
+
+              for k in ("cases", "pass", "fail"):
+                  if k not in d:
+                      errors.append(f"{agg_file}: missing '{k}'")
+
+              if all(k in d for k in ("cases", "pass", "fail")):
+                  if d["pass"] + d["fail"] != d["cases"]:
+                      errors.append(f"{agg_file}: pass+fail != cases")
+
+              norm_key = "aggregate_normalized" if "aggregate_normalized" in d else "aggregate"
+              if norm_key in d:
+                  norm = d[norm_key]
+                  if isinstance(norm, (int, float)) and not (0 <= norm <= 100):
+                      errors.append(f"{agg_file}: {norm_key}={norm} out of range")
+
+          if errors:
+              print(f"FAIL: {len(errors)} integrity error(s):")
+              for e in errors: print(f"  {e}")
+              sys.exit(1)
+
+          found = list(Path("evals/runs").rglob("aggregate.json"))
+          print(f"PASS: {len(found)} aggregate.json file(s) validated")
+          EOF
+
+  skill-lint:
+    name: SKILL.md lint
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: SKILL.md exists and is non-empty
+        run: |
+          [ -f SKILL.md ] || { echo "FAIL: SKILL.md not found"; exit 1; }
+          LINES=$(wc -l < SKILL.md)
+          echo "SKILL.md: $LINES lines"
+          [ "$LINES" -ge 50 ] || { echo "FAIL: SKILL.md < 50 lines (suspicious)"; exit 1; }
+          echo "PASS"
+
+      - name: Version tag present in SKILL.md
+        run: |
+          grep -qE 'v[0-9]+\.[0-9]+\.[0-9]+' SKILL.md \
+            && echo "PASS: version tag found" \
+            || { echo "FAIL: no version tag (vX.Y.Z) in SKILL.md"; exit 1; }

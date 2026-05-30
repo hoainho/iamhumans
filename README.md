@@ -2,6 +2,7 @@
 
 ![iamhumans social preview](./assets/og/og-image.png)
 
+[![CI](https://github.com/hoainho/iamhumans/actions/workflows/ci.yml/badge.svg)](https://github.com/hoainho/iamhumans/actions/workflows/ci.yml)
 [![version](https://img.shields.io/badge/version-v1.1.1-blue.svg)](./SKILL.md)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![evals: 99/100 PASS](https://img.shields.io/badge/evals-99%2F100%20PASS-brightgreen.svg)](./evals/runs/20260530-lane-a2-full-v111/report.md)
