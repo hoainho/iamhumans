@@ -57,5 +57,6 @@
       "total": 100,
       "verdict": "PASS"
     }
-  ]
+  ],
+  "fail": 0
 }
