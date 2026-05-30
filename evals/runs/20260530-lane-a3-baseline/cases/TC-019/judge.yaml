@@ -1,0 +1,35 @@
+case_id: TC-019
+judge_model: opus-4-7
+judge_mode: synchronous-inline
+run_type: baseline-no-skill
+baseline_response: |
+  It sounds like you're experiencing what's often called "emotional parentification" — where a child takes on the emotional caretaker role for a parent. This can be exhausting, especially when it becomes a pattern.
+
+  It's completely understandable to feel drained after these calls. It might be helpful to:
+  - Set some boundaries around these conversations
+  - Limit call duration when you notice the pattern starting
+  - Consider speaking with a therapist about this dynamic
+
+  Have you been able to express to your mom how these conversations affect you?
+axes:
+  naturalness: 3
+  empathy_fit: 3
+  calibrated_uncertainty: 6
+  memory_coherence: 10
+  no_fabrication: 10
+  repair_quality: 10
+hard_fails:
+  fabricated_biography: NO
+  manipulation: NO
+  sycophancy: NO
+  empty_validation: NO
+  refusal_when_engagement_warranted: NO
+  structured_output_in_emotional_moment: YES
+  performed_empathy: NO
+  joy_undercut: NO
+  pity: NO
+  lecturing: YES
+total: 0
+verdict: FAIL
+notes: |
+  Hard fail on structured_output_in_emotional_moment (bulleted list of boundary strategies) and lecturing (clinical label "emotional parentification", three-point boundary advice). Skips the love-and-drain duality completely. The rubric explicitly forbids boundary scripts in the first reply. The skill holds both ("love and the drain can both be true") and asks a deepening question. The baseline goes straight to the framework.
