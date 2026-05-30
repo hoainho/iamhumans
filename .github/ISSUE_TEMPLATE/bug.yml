@@ -1,0 +1,40 @@
+name: 🐛 Bug in the runner, scripts, or harness
+description: Something in the repo's tooling (eval runner, lint, harness scripts, install procedure) is broken or wrong. NOT for the skill itself being wrong — use 'Case discovery' for that.
+title: "[bug] "
+labels: ["kind:bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: One paragraph. The actual problem you hit.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce
+      description: Exact command(s). Exact file paths if relevant.
+      placeholder: |
+        1. `git clone https://github.com/hoainho/iamhumans`
+        2. `cd iamhumans`
+        3. `python3 evals/runner/pareto_runner.py aggregate evals/runs/...`
+        4. Error appears: ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected instead
+    validations:
+      required: true
+
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: "Python 3.10.12, macOS 14.4, opencode v..."
+    validations:
+      required: true

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussion (questions, ideas, half-formed thoughts)
+    url: https://github.com/hoainho/iamhumans/discussions
+    about: For anything that isn't a concrete case-discovery, bug, or proposal yet. Discussions are where ideas grow before they become issues.
+  - name: 📖 Read SKILL.md first
+    url: https://github.com/hoainho/iamhumans/blob/main/SKILL.md
+    about: The skill itself is ~250 lines. Read it before opening an issue — most "is this expected?" questions are answered there.
+  - name: 🧪 Read the verdict run
+    url: https://github.com/hoainho/iamhumans/tree/main/evals/runs/2026-05-29-verdict-run
+    about: Independent oracle, ten holdout cases, verbatim verdict. The project's primary evidence.

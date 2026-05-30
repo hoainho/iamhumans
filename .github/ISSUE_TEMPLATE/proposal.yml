@@ -1,0 +1,40 @@
+name: 💡 Proposal — change the skill, the harness, or the corpus
+description: You think something structural should change. Voice rule, hard-fail pattern, reading list addition, runner architecture, etc.
+title: "[proposal] "
+labels: ["kind:proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Open a Discussion first if the idea is still forming. Use this template only once the proposal is concrete enough to argue with.
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What you're proposing
+      description: One paragraph. Concrete. "Add X to SKILL.md" not "improve emotional intelligence."
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence this is worth doing
+      description: Real failures that this would prevent, real research that backs it, or a concrete user need. Link to eval cases if relevant.
+    validations:
+      required: true
+
+  - type: textarea
+    id: cost
+    attributes:
+      label: What it would cost
+      description: New code? New skill rules? New eval cases? New ceiling on the skill's behavior? Be honest about tradeoffs.
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you considered
+    validations:
+      required: false

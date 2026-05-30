@@ -1,14 +1,43 @@
 # iamhumans
 
+[![version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](./SKILL.md)
+[![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![evals: 15/15 PASS](https://img.shields.io/badge/evals-15%2F15%20PASS-brightgreen.svg)](./evals/runs/20260530-050323-pareto-sample-1/report.md)
+[![aggregate: 95.00/100](https://img.shields.io/badge/aggregate-95.00%2F100-brightgreen.svg)](./evals/runs/20260530-050323-pareto-sample-1/report.md)
+[![oracle verdict: PASS](https://img.shields.io/badge/oracle%20verdict-100%25%20human-blueviolet.svg)](./evals/runs/2026-05-29-verdict-run/)
+[![opencode](https://img.shields.io/badge/built%20for-opencode-black.svg)](https://github.com/sst/opencode)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
+
 An opencode skill. It teaches a language model how to talk like a person.
 
 Not how to *sound* like a person. Sounding like is easy and is what most of the failures already do. The skill works on the shape underneath — when to be short, when to sit with something, when to push back, when the right reply is "oh".
 
-It's v1.0.0. A held-out oracle, given ten cases the skill had never been tuned on, read the responses and wrote back:
+At v1.1.0. A held-out oracle, given ten cases the skill had never been tuned on, read the responses and wrote back:
 
 > *You are same as 100% real humans.*
 
 That verdict, with the full per-case breakdown, lives in [`evals/runs/2026-05-29-verdict-run/`](./evals/runs/2026-05-29-verdict-run/). It's the project's primary evidence, kept verbatim. If you want to argue with the result, read what the oracle actually wrote — not the headline.
+
+> **Note on v1.1.0** — after the v1.0.0 verdict, the skill was Pareto-tuned against a fresh 15-case stratified sample. Aggregate moved from 93.27 → 95.00, 14/15 → 15/15 PASS. Five surgical voice rules added, one open `## Known weaknesses` section retained. Full Pareto analysis: [`evals/lessons/2026-05-30-pareto-sample-1.md`](./evals/lessons/2026-05-30-pareto-sample-1.md).
+
+## Quick start
+
+```bash
+git clone https://github.com/hoainho/iamhumans
+cd iamhumans
+
+# Option A: install as a local opencode skill (symlink)
+mkdir -p ~/.opencode/skills/iamhumans
+ln -s "$PWD/SKILL.md" ~/.opencode/skills/iamhumans/SKILL.md
+
+# Option B: just point your opencode session at SKILL.md directly
+# (see docs/INSTALL.md for both paths)
+
+# Verify the lint contract still holds
+bash scripts/lint.sh
+```
+
+Then in any human-shaped conversation (emotion, decision, relationship, small talk), load `iamhumans`. Don't load it for code generation or structured output — the skill's [`## When to load`](./SKILL.md) section is explicit.
 
 ---
 
@@ -71,6 +100,20 @@ Same model lineage authored the skill, the cases, the responses, and was invoked
 The book notes aren't from reading the books in real time. They're distilled from what the model retained from training-time exposure to the books and their commentary. Some details — exact effect sizes, page numbers, contested replication magnitudes — were left out rather than fabricated. The notes call this out in their own headers.
 
 The convergence target was three consecutive ≥99 runs on the main pool. The held-out gate was the final exam. Both terms were set at PR #1 and held to. The verdict ran once.
+
+---
+
+## How to contribute
+
+The repo wants three kinds of contribution. In rough order of impact:
+
+1. **Add an eval case** — the corpus has gaps. Every case that exposes a new failure mode improves the skill on the next tuning pass. Lowest barrier; highest leverage. Format + good-vs-bad examples in [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+2. **Use the skill and tell us what broke** — open a [Discussion](https://github.com/hoainho/iamhumans/discussions) or a [case-discovery issue](./.github/ISSUE_TEMPLATE/case-discovery.yml). Verbatim user message + verbatim skill reply + what was wrong. We turn good ones into TC-NNN with credit.
+3. **Write a reference note** — 69 of 108 books on the [v2 reading list](./references/reading-list-v2.md) still need notes. Rules + anatomy in [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
+Maintainers respond within a week. The [Code of Conduct](./CODE_OF_CONDUCT.md) is short and applies everywhere.
+
+If you just want to say hi or ask if your idea is in scope before spending time on it, [open a Discussion](https://github.com/hoainho/iamhumans/discussions). That's what it's for.
 
 ---
 
