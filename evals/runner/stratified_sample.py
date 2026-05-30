@@ -58,13 +58,13 @@ def stratified_sample(cases: list[Case], seed: int, target_size: int = 15) -> li
                 selected_ids.add(c.id)
 
     for hf in PRIORITY_HARD_FAILS:
+        if len(selected) >= target_size:
+            break
         bucket = [c for c in cases if hf in c.hard_fails and c.id not in selected_ids]
         if bucket:
             rng.shuffle(bucket)
             selected.append(bucket[0])
             selected_ids.add(bucket[0].id)
-            if len(selected) >= target_size:
-                break
 
     if len(selected) < target_size:
         remainder = [c for c in cases if c.id not in selected_ids]
@@ -92,7 +92,7 @@ def main() -> int:
 
     sample = stratified_sample(all_cases, args.seed, args.size)
 
-    ts = dt.datetime.now(dt.UTC).strftime("%Y%m%d-%H%M%S")
+    ts = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%d-%H%M%S")
     out_dir = args.out or (ROOT / "evals" / "runs" / f"{ts}-pareto-sample-{args.seed}")
     out_dir.mkdir(parents=True, exist_ok=True)
 

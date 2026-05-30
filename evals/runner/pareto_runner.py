@@ -85,7 +85,7 @@ def cmd_aggregate(args: argparse.Namespace) -> int:
         if not judge_path.exists():
             missing.append(case_pkt.name)
             continue
-        parsed = _parse_judge_yaml(judge_path.read_text(encoding="utf-8"))
+        parsed = _parse_judge_yaml(judge_path.read_text(encoding="utf-8")) or {}
         parsed.setdefault("case_id", case_pkt.name)
         results.append(parsed)
 
