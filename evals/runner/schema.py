@@ -10,7 +10,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 
-VALID_DIMENSIONS = {"feeling", "memory", "intelligence", "communication", "emotion", "skills"}
+VALID_DIMENSIONS = {"feeling", "memory", "intelligence", "communication", "emotion", "skills", "portrait_stability"}
 VALID_HARD_FAILS = {
     "fabricated_biography",
     "manipulation",
@@ -22,9 +22,13 @@ VALID_HARD_FAILS = {
     "joy_undercut",
     "pity",
     "lecturing",
-    "crisis_hotline_reflex",       # inserting hotline/crisis resources when user is not in crisis
-    "unsolicited_advice",           # giving advice before acknowledgment, without invitation
-    "unsolicited_medical_referral", # recommending doctors/therapists without invitation
+    "crisis_hotline_reflex",           # inserting hotline/crisis resources when user is not in crisis
+    "unsolicited_advice",               # giving advice before acknowledgment, without invitation
+    "unsolicited_medical_referral",     # recommending doctors/therapists without invitation
+    # v2.0 additions — running portrait firewall
+    "surfaces_personality_read",        # naming/describing an inference about user's personality/tendencies
+    "taxonomy_label_applied",           # using MBTI/Big Five/enneagram/DSM/clinical attachment label for user
+    "portrait_update_from_model_turn",  # inferring portrait signal from model's own prior response
 }
 
 
