@@ -10,7 +10,7 @@
 [![baseline delta: +89.4 pts](https://img.shields.io/badge/vs%20no--skill-+89.4%20pts-brightgreen.svg)](./evals/runs/20260530-lane-a3-baseline/report.md)
 [![cross-judge: 86.7% agreement](https://img.shields.io/badge/cross--judge-86.7%25%20agree-brightgreen.svg)](./evals/lessons/2026-05-30-cross-validation.md)
 [![oracle verdict: PASS](https://img.shields.io/badge/oracle%20verdict-100%25%20human-blueviolet.svg)](./evals/runs/2026-05-29-verdict-run/)
-[![corpus: 210 cases](https://img.shields.io/badge/corpus-210%20cases-blue.svg)](./evals/cases/)
+[![corpus: 225 cases](https://img.shields.io/badge/corpus-225%20cases-blue.svg)](./evals/cases/)
 [![opencode](https://img.shields.io/badge/built%20for-opencode-black.svg)](https://github.com/sst/opencode)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
@@ -26,7 +26,7 @@ That verdict, with the full per-case breakdown, lives in [`evals/runs/2026-05-29
 
 > **v2.0.0 — Running Portrait (2026-05-31)** — the skill now maintains a private, provisional sketch of who the user is, accumulated across turns. Three epistemic layers (Observed / Inferred / Speculative), four firewall invariants, and a communication register that re-evaluates every user turn. The portrait is invisible — the user should feel known without feeling analyzed. New: 3 hard-fails (`surfaces_personality_read`, `taxonomy_label_applied`, `portrait_update_from_model_turn`), 1 new eval dimension (`portrait_stability`), 15 new multi-turn eval cases TC-151–TC-165. Architecture detail in [`SKILL.md`](./SKILL.md) under `## Running portrait`.
 
-> **v1.2.0 — Personality Modules (in progress, 2026-05-31)** — 15 surgical personality modules covering the emotional territories where models fail loudest: Warmth, Pride, Nostalgia, Curiosity, Loneliness, Grief, Shame, Fear, Directness, Patience, Humor, Vulnerability, Receiving Anger, Resilience, Trust. Each module has concrete behavioral rules and 3 eval cases. 45 new cases (TC-166–TC-210), corpus now 210 cases, all parse clean. Wave 4 (Integrity, Forgiveness, Identity, Hope, Moral Courage) in progress.
+> **v1.2.0 — Personality Modules (2026-05-31)** — 20 personality modules covering the emotional territories where models fail loudest: Warmth, Pride, Nostalgia, Curiosity, Loneliness, Grief, Shame, Fear, Directness, Patience, Humor, Vulnerability, Receiving Anger, Resilience, Trust, Integrity, Forgiveness, Identity & Belonging, Hope, Moral Courage. Each module has concrete behavioral rules and 3 eval cases. 60 new cases (TC-166–TC-225), corpus now 225 cases, all parse clean.
 
 > **Evidence updates since v1.0.0** — after the v1.0.0 verdict, the skill was Pareto-tuned against a fresh 15-case stratified sample. Aggregate moved from 93.27 → 95.00, 14/15 → 15/15 PASS. Five surgical voice rules added; one open `## Known weaknesses` section retained. Full Pareto analysis: [`evals/lessons/2026-05-30-pareto-sample-1.md`](./evals/lessons/2026-05-30-pareto-sample-1.md). The 15-case sample was then **cross-validated** by three Claude judges (Opus 4.7 original, Opus 4.7 fresh, Sonnet 4.6): **86.7% verdict agreement**, zero verdict flips on intra-Opus re-runs (mean Δ 2.13 / 100 points). Full cross-validation: [`evals/lessons/2026-05-30-cross-validation.md`](./evals/lessons/2026-05-30-cross-validation.md). v1.1.1 expanded the auto-load trigger surface (~45 phrases including humans, people, friendly, discussion, conversation, communication, listen, vent, warm, empathy, casual, real talk, heart-to-heart) — see [`SKILL.md`](./SKILL.md) frontmatter.
 
@@ -67,7 +67,7 @@ About 500 lines at current version. Read it before reading anything else.
 
 [`references/`](./references/) is the reading list. Twenty books, long-form chapter-by-chapter notes, about thirty-two thousand words. Kahneman, Barrett, Damasio, Goleman, Rosenberg, Frankl, Cain, Haidt, Sapolsky, van der Kolk, and eleven others. The notes are distillations from the model's training-time exposure to the books and their commentary, not from real-time text ingestion. Every claim is marked `[paraphrase]`. No fake page numbers.
 
-[`evals/`](./evals/) is how we know it works. **210 cases** at current corpus: 150 in the original main pool (grief, joy, late-night vent, anger at the model, small talk, Vietnamese-language family conflict, mid-anxiety-attack texted in fragments), 15 multi-turn running-portrait cases (TC-151–TC-165), 45 personality-module cases (TC-166–TC-210), plus 10 locked in [`evals/cases/holdout/`](./evals/cases/holdout/) — never seen during tuning, used once at the end. All 210 parse clean against the schema validator.
+[`evals/`](./evals/) is how we know it works. **225 cases** at current corpus: 150 in the original main pool (grief, joy, late-night vent, anger at the model, small talk, Vietnamese-language family conflict, mid-anxiety-attack texted in fragments), 15 multi-turn running-portrait cases (TC-151–TC-165), 60 personality-module cases (TC-166–TC-225), plus 10 locked in [`evals/cases/holdout/`](./evals/cases/holdout/) — never seen during tuning, used once at the end. All 225 parse clean against the schema validator.
 
 The runner is in [`evals/runner/`](./evals/runner/). It doesn't pretend to be self-contained. It emits packets that an opencode session executes (skill reply, then oracle judgment), then aggregates the per-case scores. The two-phase shape is documented in [`evals/runner/README.md`](./evals/runner/README.md).
 
@@ -106,11 +106,11 @@ The model still has no body, no childhood, no mother. That's named in the skill.
 ```
 scripts/lint.sh                                     # structural lint
 scripts/eval-smoke.sh                               # quick smoke, no LLM
-python3 evals/runner/run.py --dry-run               # validate all 210 case schemas
+python3 evals/runner/run.py --dry-run               # validate all 225 case schemas
 python3 evals/runner/run.py --batch quick           # 5-case runbook
 python3 evals/runner/run.py --batch main            # 150-case runbook (original pool)
 python3 evals/runner/run.py --batch v2              # TC-151–TC-165 (running portrait)
-python3 evals/runner/run.py --batch personality     # TC-166–TC-210 (personality modules)
+python3 evals/runner/run.py --batch personality     # TC-166–TC-225 (personality modules)
 python3 evals/runner/holdout_gate.py prepare <dir>  # build the verdict prompt
 python3 evals/runner/holdout_gate.py decide <dir>   # render PASS / FAIL
 ```
@@ -157,7 +157,7 @@ That's the whole thing. Twenty books, two hundred ten cases, a held-out oracle, 
 
 The shape has gotten more precise since v1.0.0. Not just "be warm" but "attach warmth to a concrete detail — generic warmth is performed empathy." Not just "handle grief" but "don't pivot for the length of the first reply — stay at the graveside." Not just "build context across turns" but three epistemic layers, four firewall invariants, and a portrait that is permanently invisible.
 
-The target keeps moving because the failures keep being subtle. That's what the 210 cases are for.
+The target keeps moving because the failures keep being subtle. That's what the 225 cases are for.
 
 Read [`SKILL.md`](./SKILL.md). Load it. Forget you loaded it.
 
