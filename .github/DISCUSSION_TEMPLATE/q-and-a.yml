@@ -1,0 +1,43 @@
+title: "[Q] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Ask the community
+
+        Use this for questions about using iamhumans, interpreting eval results, writing eval cases, understanding SKILL.md rules, or contributing. Please search existing discussions before posting.
+
+  - type: dropdown
+    id: question-type
+    attributes:
+      label: What kind of question is this?
+      options:
+        - Using the skill — how to install, load, or trigger it
+        - Eval system — how run.py works, how to read judge.yaml, schema questions
+        - Writing eval cases — format, valid dimensions, hard-fail values
+        - SKILL.md rules — understanding a specific rule or how two rules interact
+        - Contributing — PRs, workflow, labels, CI
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: Be specific. If you tried something and it didn't work, include what you tried.
+      placeholder: |
+        I'm writing TC-155 and I'm not sure whether the hard-fail should be `unsolicited_advice` or `lecturing`. The case involves a user asking for help who gets a 5-step plan instead of acknowledgment first...
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context (optional)
+      description: Relevant file paths, error output, or eval results that help explain the situation.
+      placeholder: |
+        I ran `python3 evals/runner/run.py --dry-run` and got:
+        KeyError: 'unsolicited_lecture'
+        (Note: I may have invented a hard-fail name that doesn't exist)

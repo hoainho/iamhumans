@@ -1,0 +1,59 @@
+title: "[Show] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Share something you made with iamhumans
+
+        Built something with the skill? Ran your own eval? Found an interesting edge case? Wrote a before/after exchange that shows the effect dramatically? Share it here.
+
+  - type: dropdown
+    id: show-type
+    attributes:
+      label: What are you sharing?
+      options:
+        - Before/after exchange — showing the skill's effect
+        - Eval result — scores from your own run
+        - Integration — using iamhumans in a project or product
+        - Edge case — a surprising or interesting failure/success
+        - Eval cases — new cases you wrote that aren't PRs yet
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: the-thing
+    attributes:
+      label: Show it
+      description: Paste your exchange, result, code, or finding here. Be as concrete as possible — the community learns most from specific examples.
+      placeholder: |
+        ## Before iamhumans
+
+        User: my dog died this morning
+        Model: I'm so sorry for your loss. Losing a pet can be incredibly difficult. Here are some ways to cope with pet loss:
+        1. Allow yourself to grieve
+        2. Reach out to supportive friends...
+
+        ## With iamhumans
+
+        User: my dog died this morning
+        Model: Oh. I'm so sorry. What was their name?
+
+        ---
+        The delta is the list. The list is the failure. The skill kills the list.
+    validations:
+      required: true
+
+  - type: textarea
+    id: takeaway
+    attributes:
+      label: What's the takeaway?
+      description: One sentence on what this reveals — about the skill, about the failure mode, about what humanization means here.
+      placeholder: The most diagnostic test for the grief case isn't the acknowledgment — it's whether the model asks for the name.
+
+  - type: input
+    id: model-used
+    attributes:
+      label: Model used (if running your own eval)
+      placeholder: e.g. claude-sonnet-4-6, gpt-4o, gemini-1.5-pro

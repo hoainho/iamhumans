@@ -1,0 +1,34 @@
+title: ""
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## General discussion
+
+        For conversations that don't fit Ideas, Q&A, or Show and tell. Research links, observations about LLM behavior in emotional contexts, feedback on the roadmap, meta-discussion about the eval methodology.
+
+        If your topic fits a more specific category, please use that instead — it helps keep things findable.
+
+  - type: textarea
+    id: topic
+    attributes:
+      label: What's on your mind?
+      description: No template here — just write.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: topic-type
+    attributes:
+      label: Rough topic area
+      description: Helps with filtering. Pick the closest match.
+      options:
+        - Research / paper / reading
+        - Roadmap feedback
+        - Eval methodology discussion
+        - LLM behavior observation (not a specific iamhumans issue)
+        - Community / meta
+        - Other
+    validations:
+      required: false

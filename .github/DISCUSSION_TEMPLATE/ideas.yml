@@ -1,0 +1,73 @@
+title: "[Idea] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Propose a new capability for iamhumans
+
+        Use this template to propose new personality traits, SKILL.md additions, eval dimensions, or any other capability improvement. The more specific the failure mode you're describing, the better the discussion will be.
+
+  - type: input
+    id: personality-category
+    attributes:
+      label: Personality category
+      description: Which human trait or personality category does this address? (e.g. Humor, Grief, Shame, Directness)
+      placeholder: e.g. "Sarcasm & Irony"
+    validations:
+      required: true
+
+  - type: textarea
+    id: failure-mode
+    attributes:
+      label: What breaks today?
+      description: Describe exactly what the model does wrong right now. Include a short example exchange if possible.
+      placeholder: |
+        User: "great, another Monday"
+        Model: "I understand Mondays can feel challenging! Here are some ways to start the week with a positive mindset..."
+
+        The model treats dry irony as a literal complaint and gives unsolicited productivity advice.
+    validations:
+      required: true
+
+  - type: textarea
+    id: ideal-response
+    attributes:
+      label: What should it do instead?
+      description: What would a real, emotionally intelligent friend say in that moment?
+      placeholder: |
+        Something like "yeah, they do have a way of arriving" — match the wry tone, don't try to fix Monday.
+    validations:
+      required: true
+
+  - type: textarea
+    id: skill-change
+    attributes:
+      label: Proposed SKILL.md addition (optional)
+      description: If you have a draft of what the new guidance should say, share it here. Not required — the discussion can work it out.
+      placeholder: |
+        Under the Skills dimension, add:
+        - **Irony detection**: when the user's message reads as ironic at face value (literal content = bad, tone = wry), match the wry register before engaging with the content...
+
+  - type: dropdown
+    id: risk
+    attributes:
+      label: Risk level
+      description: How likely is this change to regress existing behavior?
+      options:
+        - low — additive, unlikely to touch existing cases
+        - medium — changes a default the model uses often
+        - high — modifies core voice rules or adds a new hard-fail
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: readiness
+    attributes:
+      label: Readiness
+      options:
+        - label: I have at least one concrete example of the failure mode
+          required: true
+        - label: I have read CONTRIBUTING.md
+          required: true
+        - label: I checked that no existing issue already covers this (issues #38–#57)
