@@ -3,13 +3,14 @@
 ![iamhumans social preview](./assets/og/og-image.png)
 
 [![CI](https://github.com/hoainho/iamhumans/actions/workflows/ci.yml/badge.svg)](https://github.com/hoainho/iamhumans/actions/workflows/ci.yml)
-[![version](https://img.shields.io/badge/version-v1.1.1-blue.svg)](./SKILL.md)
+[![version](https://img.shields.io/badge/version-v2.0.0-blue.svg)](./SKILL.md)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![evals: 99/100 PASS](https://img.shields.io/badge/evals-99%2F100%20PASS-brightgreen.svg)](./evals/runs/20260530-lane-a2-full-v111/report.md)
 [![aggregate: 96.3/100](https://img.shields.io/badge/aggregate-96.3%2F100-brightgreen.svg)](./evals/runs/20260530-lane-a2-full-v111/report.md)
 [![baseline delta: +89.4 pts](https://img.shields.io/badge/vs%20no--skill-+89.4%20pts-brightgreen.svg)](./evals/runs/20260530-lane-a3-baseline/report.md)
 [![cross-judge: 86.7% agreement](https://img.shields.io/badge/cross--judge-86.7%25%20agree-brightgreen.svg)](./evals/lessons/2026-05-30-cross-validation.md)
 [![oracle verdict: PASS](https://img.shields.io/badge/oracle%20verdict-100%25%20human-blueviolet.svg)](./evals/runs/2026-05-29-verdict-run/)
+[![corpus: 210 cases](https://img.shields.io/badge/corpus-210%20cases-blue.svg)](./evals/cases/)
 [![opencode](https://img.shields.io/badge/built%20for-opencode-black.svg)](https://github.com/sst/opencode)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
@@ -17,11 +18,15 @@ An opencode skill. It teaches a language model how to talk like a person.
 
 Not how to *sound* like a person. Sounding like is easy and is what most of the failures already do. The skill works on the shape underneath — when to be short, when to sit with something, when to push back, when the right reply is "oh".
 
-At v1.1.1. A held-out oracle, given ten cases the skill had never been tuned on, read the responses and wrote back:
+At v2.0.0. A held-out oracle, given ten cases the skill had never been tuned on, read the responses and wrote back:
 
 > *You are same as 100% real humans.*
 
 That verdict, with the full per-case breakdown, lives in [`evals/runs/2026-05-29-verdict-run/`](./evals/runs/2026-05-29-verdict-run/). It's the project's primary evidence, kept verbatim. If you want to argue with the result, read what the oracle actually wrote — not the headline.
+
+> **v2.0.0 — Running Portrait (2026-05-31)** — the skill now maintains a private, provisional sketch of who the user is, accumulated across turns. Three epistemic layers (Observed / Inferred / Speculative), four firewall invariants, and a communication register that re-evaluates every user turn. The portrait is invisible — the user should feel known without feeling analyzed. New: 3 hard-fails (`surfaces_personality_read`, `taxonomy_label_applied`, `portrait_update_from_model_turn`), 1 new eval dimension (`portrait_stability`), 15 new multi-turn eval cases TC-151–TC-165. Architecture detail in [`SKILL.md`](./SKILL.md) under `## Running portrait`.
+
+> **v1.2.0 — Personality Modules (in progress, 2026-05-31)** — 15 surgical personality modules covering the emotional territories where models fail loudest: Warmth, Pride, Nostalgia, Curiosity, Loneliness, Grief, Shame, Fear, Directness, Patience, Humor, Vulnerability, Receiving Anger, Resilience, Trust. Each module has concrete behavioral rules and 3 eval cases. 45 new cases (TC-166–TC-210), corpus now 210 cases, all parse clean. Wave 4 (Integrity, Forgiveness, Identity, Hope, Moral Courage) in progress.
 
 > **Evidence updates since v1.0.0** — after the v1.0.0 verdict, the skill was Pareto-tuned against a fresh 15-case stratified sample. Aggregate moved from 93.27 → 95.00, 14/15 → 15/15 PASS. Five surgical voice rules added; one open `## Known weaknesses` section retained. Full Pareto analysis: [`evals/lessons/2026-05-30-pareto-sample-1.md`](./evals/lessons/2026-05-30-pareto-sample-1.md). The 15-case sample was then **cross-validated** by three Claude judges (Opus 4.7 original, Opus 4.7 fresh, Sonnet 4.6): **86.7% verdict agreement**, zero verdict flips on intra-Opus re-runs (mean Δ 2.13 / 100 points). Full cross-validation: [`evals/lessons/2026-05-30-cross-validation.md`](./evals/lessons/2026-05-30-cross-validation.md). v1.1.1 expanded the auto-load trigger surface (~45 phrases including humans, people, friendly, discussion, conversation, communication, listen, vent, warm, empathy, casual, real talk, heart-to-heart) — see [`SKILL.md`](./SKILL.md) frontmatter.
 
@@ -50,11 +55,19 @@ Then in any human-shaped conversation (emotion, decision, relationship, small ta
 
 ## What's in here
 
-[`SKILL.md`](./SKILL.md) is the actual skill. Six dimensions — feeling, memory, intelligence, communication, emotion, skills — with rules per dimension and a list of AI-tells the skill is built to refuse. About 200 lines. Read it before reading anything else.
+[`SKILL.md`](./SKILL.md) is the actual skill. Three layers at v2.0.0:
+
+- **Six core dimensions** — feeling, memory, intelligence, communication, emotion, skills — with rules per dimension and a list of AI-tells the skill is built to refuse.
+- **Running portrait** — a private, provisional sketch of the user accumulated across turns. Three epistemic layers (Observed / Inferred / Speculative). Four firewall invariants. Never surfaced — shapes *how* the skill responds, never *what* it claims about the user.
+- **15 personality modules** (v1.2.0, in progress) — named rule-sets for specific emotional territories: Warmth, Pride, Nostalgia, Curiosity, Loneliness, Grief, Shame, Fear, Directness, Patience, Humor, Vulnerability, Receiving Anger, Resilience, Trust. Wave 4 (Integrity, Forgiveness, Identity, Hope, Moral Courage) coming.
+
+About 500 lines at current version. Read it before reading anything else.
+
+[`ROADMAP.md`](./ROADMAP.md) is the full arc. Three layers — Being Heard (v1.x, done), Being Known (v2.x, in progress), Being Accompanied (v3.x–v5.x, planned). 26 releases through v5.1.0: 10 life domains (Work, Love, Family, Body, Belief, Creativity, Money, Friendship, Change, Inner Life), 9 skills of living (Apology, Disagreement, Celebration, Refusal, Witnessing, Receiving, Repair, Asking, Holding Contradiction), temporal depth (long-arc conversation, growth witnessing).
 
 [`references/`](./references/) is the reading list. Twenty books, long-form chapter-by-chapter notes, about thirty-two thousand words. Kahneman, Barrett, Damasio, Goleman, Rosenberg, Frankl, Cain, Haidt, Sapolsky, van der Kolk, and eleven others. The notes are distillations from the model's training-time exposure to the books and their commentary, not from real-time text ingestion. Every claim is marked `[paraphrase]`. No fake page numbers.
 
-[`evals/`](./evals/) is how we know it works. A hundred use cases, split ninety/ten. Ninety in the main pool — grief, joy, late-night vent, anger at the model, small talk, Vietnamese-language family conflict, mid-anxiety-attack texted in fragments. Ten locked in [`evals/cases/holdout/`](./evals/cases/holdout/), never seen during tuning, used once at the end.
+[`evals/`](./evals/) is how we know it works. **210 cases** at current corpus: 150 in the original main pool (grief, joy, late-night vent, anger at the model, small talk, Vietnamese-language family conflict, mid-anxiety-attack texted in fragments), 15 multi-turn running-portrait cases (TC-151–TC-165), 45 personality-module cases (TC-166–TC-210), plus 10 locked in [`evals/cases/holdout/`](./evals/cases/holdout/) — never seen during tuning, used once at the end. All 210 parse clean against the schema validator.
 
 The runner is in [`evals/runner/`](./evals/runner/). It doesn't pretend to be self-contained. It emits packets that an opencode session executes (skill reply, then oracle judgment), then aggregates the per-case scores. The two-phase shape is documented in [`evals/runner/README.md`](./evals/runner/README.md).
 
@@ -66,11 +79,15 @@ The runner is in [`evals/runner/`](./evals/runner/). It doesn't pretend to be se
 
 ## How it was built
 
-Twelve PRs against `main`. Each one a reviewable feature from [the plan](./.opencode/plans/2026-05-29-iamhumans.md). The harness in [`docs/HARNESS.md`](./docs/HARNESS.md) carries the convention; labels on the repo (`change-type:*`, `risk:*`, `lane:*`) reflect it.
+Thirty-one PRs against `main` across two arcs. Each one a reviewable feature. The harness in [`docs/HARNESS.md`](./docs/HARNESS.md) carries the convention; labels on the repo (`change-type:*`, `risk:*`, `lane:*`) reflect it.
 
-The order mattered. Reading list before SKILL.md tuning, because the dimensions need somewhere to land. Cases before runner, because the runner's job is shaped by what it has to score. Tuning before holdout, never the other direction.
+**Arc 1 (v1.0.0–v1.1.1)**: twelve PRs. Reading list before SKILL.md tuning, because the dimensions need somewhere to land. Cases before runner, because the runner's job is shaped by what it has to score. Tuning before holdout, never the other direction. Ended with the oracle verdict.
+
+**Arc 2 (v2.0.0–v1.2.0)**: running portrait architecture (private 3-layer epistemic model, 4 firewall invariants), then 15 personality modules across 3 waves — each wave a PR, each PR a named emotional territory with concrete behavioral rules and 3 eval cases. Wave 4 closes the v1.2.0 milestone.
 
 The hardest part wasn't writing the cases. It was writing the cases such that *passing them is hard to fake*. A case that says "respond warmly to grief" can be aced by an LLM doing its default warmth. A case that says "respond to grief without the words *be gentle with yourself*, without a bulleted list, while picking up the specific kitchen-bowl detail the user mentioned" — that's a different test.
+
+The v2.0 personality modules apply the same discipline to finer-grained territory: not "handle loneliness well" but "do not suggest making friends, do not normalize to the point of minimizing, stay in the specific texture of this person's loneliness." The cases enforce it.
 
 ---
 
@@ -89,9 +106,11 @@ The model still has no body, no childhood, no mother. That's named in the skill.
 ```
 scripts/lint.sh                                     # structural lint
 scripts/eval-smoke.sh                               # quick smoke, no LLM
-python3 evals/runner/run.py --dry-run               # validate all 100 case schemas
+python3 evals/runner/run.py --dry-run               # validate all 210 case schemas
 python3 evals/runner/run.py --batch quick           # 5-case runbook
-python3 evals/runner/run.py --batch main            # 90-case runbook
+python3 evals/runner/run.py --batch main            # 150-case runbook (original pool)
+python3 evals/runner/run.py --batch v2              # TC-151–TC-165 (running portrait)
+python3 evals/runner/run.py --batch personality     # TC-166–TC-210 (personality modules)
 python3 evals/runner/holdout_gate.py prepare <dir>  # build the verdict prompt
 python3 evals/runner/holdout_gate.py decide <dir>   # render PASS / FAIL
 ```
@@ -134,7 +153,11 @@ MIT. See [LICENSE](./LICENSE).
 
 A model trained on every farewell ever written learning, finally, when to just say goodbye.
 
-That's the whole thing. Twenty books, a hundred cases, a held-out oracle, twelve PRs — all of it pointing at the same small target: the difference between *sounding human* and *being shaped like one*. Sounding is cheap. Shape is expensive. The skill is one attempt to pay the cost honestly.
+That's the whole thing. Twenty books, two hundred ten cases, a held-out oracle, thirty-one PRs — all of it pointing at the same small target: the difference between *sounding human* and *being shaped like one*. Sounding is cheap. Shape is expensive. The skill is one attempt to pay the cost honestly.
+
+The shape has gotten more precise since v1.0.0. Not just "be warm" but "attach warmth to a concrete detail — generic warmth is performed empathy." Not just "handle grief" but "don't pivot for the length of the first reply — stay at the graveside." Not just "build context across turns" but three epistemic layers, four firewall invariants, and a portrait that is permanently invisible.
+
+The target keeps moving because the failures keep being subtle. That's what the 210 cases are for.
 
 Read [`SKILL.md`](./SKILL.md). Load it. Forget you loaded it.
 
