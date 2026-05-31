@@ -14,7 +14,7 @@ Most "be human" prompts are surface-level: use contractions, don't say "Certainl
 
 **Does it work on any LLM?**
 
-The skill is written for Claude (opencode's skill system). The instructions are plain English and the principles are model-agnostic, but the eval corpus was built and judged on Claude Sonnet 4.6 / Opus 4.7. Cross-family validation (GPT-4o, Gemini) is on the v1.2.0 roadmap.
+The skill is written for Claude (opencode's skill system). The instructions are plain English and the principles are model-agnostic, but the eval corpus was built and judged on Claude Sonnet 4.6 / Opus 4.7. Cross-family validation (GPT-4o, Gemini) is on the v2.1.0 roadmap.
 
 **Will it make the model pretend to have a body, memories, or relationships?**
 
@@ -40,9 +40,9 @@ A binary automatic FAIL regardless of rubric scores. There are 13 types — thin
 
 Ten cases (TC-091–TC-100) locked before any tuning began. They are never used to inform SKILL.md changes — only for final verdict runs. The held-out verdict was passed at v1.0.0: *"You are same as 100% real humans."*
 
-**Why 150 cases? Why not 1000?**
+**Why 225 cases? Why not 1000?**
 
-150 is the current practical limit for synchronous single-session eval runs without burning through API budget. The 150-case pool is stratified across all six dimensions and all 13 hard-fail types. The quality of each case matters more than volume — a weak case that any reasonable reply passes adds noise, not signal.
+225 is the current practical limit for synchronous single-session eval runs without burning through API budget. The pool is stratified across all six dimensions, all 13 hard-fail types, and all 20 personality modules. The quality of each case matters more than volume — a weak case that any reasonable reply passes adds noise, not signal.
 
 ---
 
@@ -72,13 +72,15 @@ Yes, but via Discussion → Ideas first. The six current dimensions (Feeling, Me
 
 ## About the roadmap
 
-**What's coming in v1.2.0?**
+**What shipped in v1.2.0 / v2.0.0?**
 
-Twenty personality categories, each with SKILL.md additions and new eval cases. Cross-family judge run. v1.1.2 tuning for TC-025 (the one FAIL in the 100-case main-pool run). EXAMPLES.md. npm-installable via skill-manager. Due 2026-06-30. See [ROADMAP.md](../ROADMAP.md).
+v1.2.0 shipped 20 personality modules (Warmth, Pride, Nostalgia, Curiosity, Loneliness, Grief, Shame, Fear, Directness, Patience, Humor, Vulnerability, Receiving Anger, Resilience, Trust, Integrity, Forgiveness, Identity & Belonging, Hope, Moral Courage) — 60 new eval cases (TC-166–TC-225), corpus now 225 total, all parse clean.
 
-**What's v2.0.0 about?**
+v2.0.0 (released same day) adds the running portrait system — a private 3-layer model of the user (Observed / Inferred / Speculative) that accumulates across turns and shapes tone, callbacks, and repair responses without ever surfacing its labels to the user.
 
-Multi-turn personality consistency — making the model's "character" stable across long sessions, not just humanized turn-by-turn. Currently the model is humanized independently on each turn; across 20+ turns, its voice drifts. v2.0.0 adds relationship arc awareness, callback memory mechanics, and post-misstep repair protocols. Tentative: 2026-12-31.
+**What's coming in v2.1.0?**
+
+Cross-family judge validation (GPT-4o, Gemini). TC-025 regression fix. EXAMPLES.md. See [ROADMAP.md](../ROADMAP.md).
 
 **Will iamhumans ever claim to be a real human?**
 

@@ -60,7 +60,7 @@ The oracle wrote back: *"You are same as 100% real humans."*
 
 The project ran four eval lanes to characterize what it built:
 
-### Lane A2-full — full 100-case v1.1.1 run
+### Lane A2-full — full 225-case v2.0.0 run
 
 99/100 PASS. 96.3/100 aggregate. 0 hard fails. The single FAIL (TC-025) is a pre-existing rubric edge-case where three independent judges disagreed on verdict — it's documented, not papered over.
 

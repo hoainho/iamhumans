@@ -1,8 +1,8 @@
 # Personality Categories
 
-v1.2.0 milestone targets 20 distinct human personality traits that iamhumans currently handles poorly. Each category has a dedicated GitHub issue with the exact failure mode, what SKILL.md needs to gain, and eval cases to write.
+20 personality modules shipped in v1.2.0 / v2.0.0. Each module adds concrete behavioral rules to SKILL.md and 3 eval cases to the corpus. All 20 are live — TC-166–TC-225 (60 cases total), all parse clean.
 
-This page is the index. Click through to the issue for the full spec.
+This page is the index. Click through to the issue for the original spec and failure-mode analysis.
 
 ---
 
@@ -48,16 +48,13 @@ The six existing SKILL.md dimensions (Feeling, Memory, Intelligence, Communicati
 
 ---
 
-## How to work on a category
+## How to contribute to an existing module
 
-Each issue is structured the same way:
+Each module's issue documents the original failure mode and the SKILL.md additions that addressed it. If you find a case the current rules still miss:
 
-1. **Failure mode** — what the model does wrong today, with a concrete example exchange
-2. **SKILL.md addition** — draft guidance for the new subsection
-3. **Eval cases** — 2–3 cases to write (TC-151 and beyond)
-4. **Acceptance criteria** — what the PR must include to be mergeable
-
-The easiest entry point is to write the eval cases first (no SKILL.md knowledge needed), then open a PR. The SKILL.md change can land separately.
+1. Open a Discussion → Show and tell with the exchange
+2. If it's a new edge case within an existing module, write a new eval case (TC-226+) and open a PR
+3. If it's a failure mode that doesn't fit any of the 20 — open a Discussion → Ideas for a new module proposal
 
 ---
 

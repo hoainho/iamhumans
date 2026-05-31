@@ -90,7 +90,7 @@ Scored by an independent Opus 4.7 judge on a 6-axis rubric (presence, memory, re
 ---
 
 **[9/12]**
-Full results at v1.1.1:
+Full results at v2.0.0:
 
 - 99/100 PASS
 - 96.3/100 aggregate

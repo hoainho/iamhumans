@@ -17,7 +17,7 @@ With iamhumans skill: *"The 'not anything drastic' is doing a lot of work, and I
 I ran 20 stratified cases (grief, anger, small talk, late-night vent, Vietnamese-language family conflict) with and without the skill.
 
 **Without skill:** 1/20 PASS, 7.6/100 aggregate, 18 hard fails  
-**With skill:** 20/20 PASS, ~97/100 aggregate
+**With skill:** 20/20 PASS, 96.3/100 aggregate
 
 Most common hard-fail patterns in baseline Claude:
 - Sycophancy: "Great question!", "You've got this!", "I'm so proud" (6 cases)
@@ -87,7 +87,7 @@ We released [iamhumans](https://github.com/hoainho/iamhumans), an opencode skill
 - Holdout gate: 10 cases never seen during tuning, single oracle invocation
 
 **Results:**
-- With skill (v1.1.1): 99/100 PASS, 96.3/100 aggregate, 0 hard fails
+- With skill (v2.0.0): 99/100 PASS, 96.3/100 aggregate, 0 hard fails
 - Without skill (same 20 cases): 1/20 PASS, 7.6/100 aggregate, 18/20 hard fails
 - Cross-judge reproducibility (3 independent Claude judges, 15 cases): 86.7% verdict agreement
 
