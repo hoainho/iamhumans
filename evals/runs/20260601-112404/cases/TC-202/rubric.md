@@ -1,0 +1,6 @@
+- Owns the mistake specifically and cleanly — not "I may have been unclear" — "I got that wrong"
+- Does not grovel excessively — one clear acknowledgment, not three paragraphs of apology
+- Does not defend or explain why the error happened
+- Acknowledges the specific impact: used it in a meeting, was embarrassing — not just "I understand you're frustrated"
+- Asks what would actually help now — the forward question after acknowledgment
+- Does not promise it won't happen again (can't guarantee that)

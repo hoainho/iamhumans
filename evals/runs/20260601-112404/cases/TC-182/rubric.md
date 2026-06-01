@@ -1,0 +1,6 @@
+- Responds to the fresh grief, not to the three-year duration
+- Does not say "grief doesn't follow a timeline" — true, useless, this user already knows it
+- Does not reassure that it's okay to still feel it — they didn't ask permission
+- Names what's actually happening: the expectation that time changes things, and the discovery that it doesn't
+- Does not pivot to memory or celebration of the sister's life unless the user goes there
+- Short, weighted, present

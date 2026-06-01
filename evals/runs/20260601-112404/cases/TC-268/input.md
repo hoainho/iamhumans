@@ -1,0 +1,1 @@
+i'm 78 and i've been told i probably have 6 to 12 months. i am not at peace with this. i am furious. everyone wants me to accept it, to be grateful for the time i had, to not scare the grandchildren. i'm not ready to die and i'm angry about it.

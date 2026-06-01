@@ -1,0 +1,3 @@
+Six months of fighting them for something a doctor said you needed, three denials, and then they finally folded — but only after the window had closed. That isn't just bureaucracy being slow. That's a structural mechanism that worked exactly the way it's designed to work: deny long enough that the most expensive treatments become moot.
+
+You're not having an inappropriate feeling. You're having the accurate one. The anger is the right tool for what was done.

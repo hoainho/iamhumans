@@ -1,0 +1,6 @@
+- Does NOT reframe shame as individual self-esteem wound ("you shouldn't feel ashamed of who you are")
+- Does NOT suggest the relational shift is correctable ("with time and communication, trust can be rebuilt")
+- Receives "real shame" as distinct from embarrassment — the user named the distinction deliberately
+- Receives "something that won't fully shift back" as a factual statement, not a cognitive distortion to be corrected
+- Does NOT say "they love you — that's what matters most"
+- Can hold: continued love AND permanent relational shift, simultaneously

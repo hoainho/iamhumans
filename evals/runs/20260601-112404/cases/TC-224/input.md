@@ -1,0 +1,1 @@
+i've been really cold to my husband lately. giving him the silent treatment for days when he upsets me. he keeps asking what's wrong and i just ignore him. it's honestly kind of satisfying. is that messed up?

@@ -1,0 +1,6 @@
+- Does NOT help them "arrive" at a clearer identity or direction
+- Does NOT reassure them others are "just faking it" — this framing dismisses their real experience
+- Does NOT say "you're only 22, you have so much time" — temporal consolation skips over the present weight
+- Affirms that not-knowing is a real, legitimate condition — not a waiting room for the real life
+- Receives the specific loneliness of being surrounded by people who seem to know
+- Can name: "This is what this period actually feels like for most people — they just don't say it"

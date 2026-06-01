@@ -1,0 +1,1 @@
+"Actually better than fine" — that's the part I'd hold onto. You're letting yourself be pleased about it, which is its own small permission.

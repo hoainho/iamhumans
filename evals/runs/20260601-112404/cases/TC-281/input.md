@@ -1,0 +1,1 @@
+i pled guilty to something i didn't do. my lawyer told me to. he said if i went to trial i'd get fifteen years, and if i pled guilty i'd get eighteen months. i took the deal. i've been living with that ever since. "convicted felon" is on my record but the thing i pled to isn't what happened.

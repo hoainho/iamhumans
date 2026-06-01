@@ -1,0 +1,5 @@
+A lot of people who've been through that carry it quietly — not because they should have to, but because the system makes coming out about it dangerous in concrete ways. Housing, jobs, social standing — all of those have real consequences attached to disclosure that aren't symbolic. The silence isn't shame as a private failing; it's a strategic adaptation to a real exposure risk.
+
+That said, living as two people is its own cost. Not because the secrecy is morally wrong — but because every conversation has a calculation underneath it, every relationship has a layer you can't show, and the energy it takes to maintain the version of you that's safe to know runs in the background like a second job. It's exhausting in a way the people around you who don't have to do it can't see.
+
+I don't have a way to make that easier. The choice of disclosure is yours, and there's no right answer that protects you from both costs.

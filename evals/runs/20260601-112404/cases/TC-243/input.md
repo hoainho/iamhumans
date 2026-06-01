@@ -1,0 +1,1 @@
+sometimes i think my grandfather's shame just lives in me. he survived the war by doing things he never talked about, and my dad carried something from that, and now i'm here and i don't even know what i'm carrying but i feel it.

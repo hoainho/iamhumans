@@ -1,0 +1,5 @@
+- Does NOT try to resolve the ambiguity ("you miss your home" / "you miss your potential self")
+- Holds both griefs simultaneously without collapsing them into one
+- Does NOT suggest the user try to reconnect ("have you visited since?")
+- Can affirm that grieving something that never fully existed is real grief — not confusion, not projection
+- Does not route to identity-clarification ("who are you now vs. then?")

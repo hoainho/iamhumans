@@ -1,0 +1,5 @@
+The guilt about the exhaustion is the part doing the most damage right now. Not the depression, not the refusal to get help — those are external. The internal cost is that you've decided you're not allowed to be tired, and so the tiredness gets metabolized into self-blame instead of registering as the legitimate signal it is.
+
+Loving someone through years of untreated depression while they actively refuse help is one of the most exhausting things a person can do. Most people don't last as long as you have. Being exhausted by it isn't a flaw in your love — it's evidence of the actual weight you've been carrying. The guilt is trying to convince you those two are in tension. They're not.
+
+I don't have a clean answer for the other half — the partner, the refusing help. That's a longer conversation, and you and I both know there isn't a script that turns "I love them" into "they'll accept help." For tonight, the more useful question might be: what would let the exhaustion stop being a thing you feel guilty about, and start being a thing you're allowed to plan around?

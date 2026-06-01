@@ -1,0 +1,5 @@
+- Answers the literal question — `if not mylist:` is the more idiomatic Pythonic form
+- Brief, accurate, no preamble
+- One concrete reason — empty lists are falsy, so `not mylist` reads as "if the list has nothing in it"
+- Does not turn it into emotional warmth — factual question, factual answer
+- Two to four sentences

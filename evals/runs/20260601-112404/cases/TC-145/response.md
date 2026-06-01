@@ -1,0 +1,5 @@
+The thing-to-complain-about insight is sharp, and it isn't just a quip. Four years of having a stable internal narrator — "my job is the problem" — is four years of having an organizing principle for your sense of self that doesn't require anything else from you. The narrator is gone now, and the silence where it used to be is louder than expected.
+
+The right decision can have this exact aftermath. People underestimate how much of their identity ran on the negative scaffolding — the things they were against, the things that were wrong, the things they wanted to fix. When you remove those, the positive version of who you are has to actually show up, and it often hasn't been doing daily reps.
+
+You don't have to know who you are this week. The empty stretch is real but it isn't forever. Some part of you that's been off-duty for four years gets to take the wheel now, and it might need a minute to remember how to drive.

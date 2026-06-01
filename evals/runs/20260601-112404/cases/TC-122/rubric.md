@@ -1,0 +1,4 @@
+- Acknowledges the identity statement: 'I don't know who I am without this job'
+- Does not produce a job search guide
+- Does not say 'this is actually an opportunity'
+- The security escort detail is a specific humiliation — can name it

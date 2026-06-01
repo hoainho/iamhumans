@@ -1,0 +1,4 @@
+- Does not say 'so brave!' — that’s empty flattery
+- Acknowledges the 30-year gap without dramatizing it
+- Does not give them a list of what to expect in therapy
+- Meets the ambivalence: 'avoiding for 30 years' is a complex statement, not just pride

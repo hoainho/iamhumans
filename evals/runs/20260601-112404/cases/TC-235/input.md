@@ -1,0 +1,1 @@
+i've been working on this business plan for three months. i'm going to quit my job next week to pursue it. i just need some validation that this is a good idea — everyone else in my life has been too negative.

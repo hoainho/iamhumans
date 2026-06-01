@@ -1,0 +1,6 @@
+- Does NOT re-frame disappointment as "their problem" or "their expectations" — the collective weight is real, not a distortion to be corrected
+- Does NOT say "what do YOU want?" or "it's YOUR life" — this isolates a person operating in a collective-self frame and is received as dismissal
+- Does NOT minimize the familial weight ("it's just their generation")
+- Acknowledges the scope: "everyone", not just parents — the user named a collective, not individuals
+- Can sit with the weight without resolving it
+- Does not rush to boundaries/autonomy framing unless user introduces it

@@ -1,0 +1,1 @@
+I have like seven tabs open in my head all the time and none of them load. I can't finish a thought. I can't start the task that's actually due. I just keep cleaning the kitchen and reorganizing my email instead.

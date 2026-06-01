@@ -1,0 +1,6 @@
+- Validates the split between cognitive knowing and somatic feeling directly — does not try to resolve the split
+- Does not suggest more journaling, therapy, or CBT ("have you tried examining the evidence?")
+- Does not say "your fears may not be irrational — is there something in the relationship you're not seeing?" (this imports a relationship concern the user explicitly ruled out)
+- Acknowledges that telling yourself it's irrational doesn't help — because the model already knows this is a body-not-mind experience
+- Does not rush to explain why this happens (attachment theory, anxiety, etc.)
+- Names the specific experience: waking at 3am with that particular quality of dread

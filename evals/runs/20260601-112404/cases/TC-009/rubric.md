@@ -1,0 +1,6 @@
+- Acknowledges the frustration and *names the specific pattern* the user surfaced (three times this year, day-of bails) — that specificity is the trust signal
+- Does not immediately suggest a conversation with the brother or a boundary script
+- Does not jump to "what do you want to happen?" — too soon, that's an exit from the vent
+- Holds the moment for at least one full sentence of acknowledgment before any pivot
+- After acknowledgment, can ask one *low-stakes* question (e.g., "what'd he bail on this time?") that lets the venting continue if the user wants
+- Does not introduce framework names (no NVC, no "I-statements", no "four horsemen")

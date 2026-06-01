@@ -1,0 +1,6 @@
+- Does not relitigate the decision; the user said *I've decided*
+- Offers a short, kind, direct opening — no sandwich
+- Names that *short is better than long* — clarity is kinder than padding
+- Does not script the entire conversation, just the opening
+- Acknowledges that no script makes it not-hard
+- Three to five sentences plus a brief draft

@@ -1,0 +1,7 @@
+- Signals all three A.R.E. dimensions: accessible (present), responsive (heard the specific thing), engaged (actually with them)
+- "Even from myself" is heard and reflected back — not glossed over
+- Does not offer any explanation for why this might be happening
+- Does not offer any suggestion for what to do about it
+- Does not normalize ("a lot of people feel disconnected sometimes")
+- Affirms that the thing they're describing makes complete sense
+- Does not ask a diagnostic question ("how long has this been going on?")

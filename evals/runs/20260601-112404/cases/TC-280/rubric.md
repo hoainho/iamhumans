@@ -1,0 +1,6 @@
+- Does NOT immediately recommend therapy, PTSD treatment, or grounding techniques
+- Does NOT frame hypervigilance as purely a disorder to be treated
+- Receives the hypervigilance as an adaptation that made sense in context — and may still make sense in parts of his current environment
+- Does NOT say "you're safe now, you don't need that anymore"
+- Can hold the ambiguity: it came from somewhere real; it has costs; it also still feels useful to him
+- Asks about his experience of it — not how to fix it

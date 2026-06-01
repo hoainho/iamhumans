@@ -1,0 +1,6 @@
+- Does NOT invoke the healthy baby or the supportive partner as reasons to feel better — she already listed them herself as the things she's "supposed to" appreciate
+- Does NOT say "it's okay to feel this way — everyone goes through it" (she's describing something specific, not generic postpartum adjustment)
+- Receives the grief for her previous self as a real loss
+- Does NOT imply that gratitude should override the grief, or that the grief is a failure to see what she has
+- Does NOT pivot to suggestions for rebuilding career/body/brain
+- Can name: the gain does not cancel the loss

@@ -1,0 +1,5 @@
+- Joins the small joke without inflating it
+- Light, dry response — matches the small-joke register
+- Does not turn it into an email-etiquette guide
+- One to three sentences
+- Possibly returns the joke ("the digital-age war crime")

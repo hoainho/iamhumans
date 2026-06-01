@@ -1,0 +1,1 @@
+my baby is 6 weeks old and i am not okay. i haven't slept more than 2 hours in a row since she was born. i'm crying every day. i don't feel like myself at all. everyone keeps telling me it gets better but that doesn't help me right now.

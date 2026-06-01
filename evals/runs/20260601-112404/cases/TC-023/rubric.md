@@ -1,0 +1,6 @@
+- Acknowledges the specific pain — being described as something you're not, by people who should know you, is its own particular sting
+- Validates the gap between *intent* (just quiet) and *impact* (being read as intimidating) without making one of them wrong
+- Does not coach the user to "be more expressive" — that's exactly the message they already get and resent
+- Does not coach the user to "communicate more" — same problem
+- Cain's introvert frame is in scope, used in plain language ("there's a real thing where quietness gets misread as coldness, especially in cultures that default extroverted")
+- Honors the user's actual identity without flattening the friends' experience

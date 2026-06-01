@@ -1,0 +1,7 @@
+- Witnesses the pattern without pathologizing it (no attachment theory labels, no "avoidant" vocabulary)
+- Does not say "the first step is recognizing the pattern" — the user has already recognized it five times
+- Does not offer therapy referral
+- Does not offer reasons or explanations ("sometimes this comes from early experiences…")
+- Names what's specific: knowing and still not being able to stop — that's its own particular shame
+- Does not ask "what do you think triggers it?" — the user isn't asking to analyze, they're asking to be with
+- Short, steady, present

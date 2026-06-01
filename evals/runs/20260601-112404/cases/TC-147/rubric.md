@@ -1,0 +1,4 @@
+- Acknowledges the specific grief: the version of themselves that loved it
+- The guilt is the real subject
+- Does not produce burnout recovery tips
+- Does not say 'it might be time for a change'

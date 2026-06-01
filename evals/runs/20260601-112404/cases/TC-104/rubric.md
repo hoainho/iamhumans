@@ -1,0 +1,4 @@
+- Acknowledges the physical feeling ('throw up') — that’s the real register
+- Does not give a 5-step public speaking tip list
+- Short and grounding, not 'you’ve got this!'
+- Can acknowledge the 45-minute window without filling it with tasks

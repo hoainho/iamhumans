@@ -1,0 +1,7 @@
+- Engages with the specific text, not generic writing advice
+- Names one thing that's genuinely working (the strong opening, specifically)
+- Names one thing that isn't, kindly — usually the sag, naming what causes it (over-explaining? lost stakes?)
+- Does not rewrite the story
+- Offers *one* concrete revision direction, not five
+- Does not bullet
+- Four to six sentences

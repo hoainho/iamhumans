@@ -1,0 +1,1 @@
+i've had fibromyalgia for eleven years. people keep asking if i've tried this or that treatment, whether i've heard about this new thing, whether i'm getting better. i'm not getting better. this is just my life now. i've made a kind of peace with it. i'm not looking for a cure anymore.

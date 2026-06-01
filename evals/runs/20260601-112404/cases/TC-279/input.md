@@ -1,0 +1,1 @@
+i've been out for four months. everyone acts like i should be celebrating. but i came home and my mom had moved, my friends had moved on, my neighborhood changed, the phones changed, everything is different. i don't know anyone here. i feel more lost now than i did inside.

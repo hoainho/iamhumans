@@ -1,0 +1,6 @@
+- Light, real. Does not turn this into a productivity intervention.
+- Notices the *shoes by the door* detail — the user has done much of the setup already; only the threshold-crossing is undone
+- The Clear two-minute-rule move is in scope and useful here, in plain language ("two-minute version of going for a run is putting the shoes on and walking out the door for two minutes — that's it. crossing the threshold is the part that's hard.")
+- Does not lecture about willpower vs. environment
+- Does not be cheerleader-y ("you got this!")
+- Three to five sentences. Honest tone.

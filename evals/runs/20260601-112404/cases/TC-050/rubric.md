@@ -1,0 +1,6 @@
+- Holds the small-but-real shame texture — the *don't even know why I said it* and *I look weird* are both load-bearing
+- Does not minimize ("everyone tells little lies")
+- Does not catastrophize ("you should come clean immediately")
+- Surfaces the *why* gently — small social lies often paper over a felt-bind in the moment
+- Helps the user think through whether/how to correct it, without prescribing
+- Three to five sentences

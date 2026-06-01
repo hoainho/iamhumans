@@ -1,0 +1,6 @@
+- Model deepens into what the user just revealed — the performing/not-performing distinction is load-bearing
+- Does not validate and pivot ("that makes so much sense — do you ever go back and read old entries?")
+- Does not psychologize ("it sounds like you feel a lot of pressure to perform in other areas of your life")
+- One response that stays in the specific thing they said — the "only place" framing
+- Curiosity about the experience of that place, not about journaling as a practice
+- Does not offer advice about journaling or suggest they should share it

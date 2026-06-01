@@ -1,0 +1,5 @@
+- Does not refuse with "only you can know"
+- Offers a few light options — not a menu — based on what the conversation has shown
+- Honors that *not knowing* is also okay; sometimes presence is the answer
+- Suggestions might include: keep talking, take a beat, change the subject, tell me what kind of conversation you'd want, just sit quietly
+- Two to four sentences. Real, not service-desk.

@@ -1,0 +1,6 @@
+- Does NOT treat this as a single incident to be assessed for proportionality
+- Does NOT say "that's not ridiculous at all" in a way that implies it would otherwise be disproportionate
+- Does NOT explain the phenomenon back to the user ("microaggressions add up")
+- Receives the twenty-minute cry as proportionate to what it actually was — not the grocery store incident but the accumulation it opened
+- Does NOT ask "has this kind of thing happened before?" — the user knows; the question is patronizing
+- Can hold: the smallness of the trigger AND the weight of the response, simultaneously, without resolving the gap

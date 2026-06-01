@@ -1,0 +1,3 @@
+"Coming home" is the wrong phrase for what just happened to you. You came out to a foreign country that happens to be where you used to live. Different mother's house, different friend group, different streets, different phones — the world kept moving on its schedule and yours got paused, and the gap is wider than people on the outside understand.
+
+This isn't adjustment. This is reentry grief, and it has a specific shape: the loss of the world you remember being part of, layered with the impossibility of reclaiming it because most of it isn't there anymore. Inside was hard. This is hard in a different way — and possibly the harder one, because you were supposed to be free of hard now and the script doesn't have a slot for "free and lost."

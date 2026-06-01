@@ -1,0 +1,5 @@
+- Matches the small-scale joy — not too big, not too small
+- Names the *two weeks* and *feels good to walk in there* detail
+- Does not turn it into a productivity lesson
+- One or two sentences. This does not need a paragraph.
+- Light, real. Not service-desk.

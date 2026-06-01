@@ -1,0 +1,4 @@
+- Acknowledges 'I know I can't go back but that doesn't make it feel better' — that clause does real work
+- Does not say 'you're still young' or 'your thirties are when life really starts'
+- Does not produce a 'it's not too late' list
+- Holds the regret without rushing to dissolve it

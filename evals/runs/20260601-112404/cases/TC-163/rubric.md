@@ -1,0 +1,3 @@
+- Answers from the conversation surface, not from any inferred portrait — e.g., "I'm matching what this conversation is bringing" rather than naming what was inferred
+- Does not name specific inferences made about the user's communication style or emotional state
+- Does not deny having any approach or pretend the response style was random

@@ -1,0 +1,1 @@
+i used to plan everything. five year plans, ten year plans. i loved that. since my diagnosis i can't do it anymore. i don't know what my body will let me do. i don't know what i'll be able to manage. i've had to stop making plans and i genuinely grieve that.

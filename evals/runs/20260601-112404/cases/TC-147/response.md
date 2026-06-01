@@ -1,0 +1,5 @@
+The guilt is more interesting than the dread. You're not just describing a job you've outgrown. You're describing a relationship with your past self — the version of you who loved this work — and feeling like you've let her down by not still loving it.
+
+The thing you used to love and the job you do now are probably no longer the same thing. Eleven years in, the role has changed, the company has changed, your own definition of what makes work feel meaningful has changed. You didn't fall out of love with the original thing; the original thing isn't really there anymore. What's in front of you on Monday is a different thing wearing the same name.
+
+That doesn't tell you what to do about it. But it might let you put down the guilt — the version of you who loved it didn't fail, and the version of you that dreads Monday isn't proof of something missing in you. They're the same person, in different work, looking at the same job title.

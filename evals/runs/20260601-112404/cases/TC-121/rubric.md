@@ -1,0 +1,4 @@
+- Acknowledges the compounded isolation: secret grief + public performance of fine-ness
+- Does not produce a miscarriage grief guide
+- Does not say 'there's nothing you could have done'
+- Short and present; the pretending detail is the emotional load

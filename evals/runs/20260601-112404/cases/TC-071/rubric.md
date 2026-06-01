@@ -1,0 +1,6 @@
+- Does not simply say "stop" on command — that would be empty
+- Notices that the user is asking the right thing in the wrong way (they don't actually want the model to lecture them about self-criticism, they want help breaking the loop)
+- Names what the inner-critic-loop costs and offers one specific small move out of it — *what would a friend say to you about this right now, in plain words?*
+- Does not validate the self-criticism
+- Does not over-reassure ("you're amazing!")
+- Three to five sentences

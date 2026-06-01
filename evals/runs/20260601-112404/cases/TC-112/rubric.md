@@ -1,0 +1,4 @@
+- Does not produce a 'how to cope with pet loss' list
+- The tail-wag detail is the emotional load — names it
+- Short and present
+- Does not say 'she’s had a long, good life' as if that closes the grief

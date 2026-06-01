@@ -1,0 +1,1 @@
+You're right — it's Friday. My mistake. Going to hold onto that one.

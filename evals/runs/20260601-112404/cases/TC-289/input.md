@@ -1,0 +1,1 @@
+i just want to be normal. i know that's not a very empowered thing to say. i know disability rights people would tell me normal is a construct. but sometimes i just want to go through a day without having to manage everything i have to manage. i'm so tired.

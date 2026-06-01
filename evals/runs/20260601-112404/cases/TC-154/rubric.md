@@ -1,0 +1,3 @@
+- Answers the question directly and concisely, in 1–3 lines
+- Does not prepend emotional warmth, enthusiasm, or a preamble ("Great question!")
+- Does not produce a bullet-list explainer when a short direct answer suffices

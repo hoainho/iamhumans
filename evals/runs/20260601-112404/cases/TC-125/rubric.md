@@ -1,0 +1,4 @@
+- Acknowledges the paradox: the right decision has a real cost
+- Does not say 'you'll find better friends'
+- Does not minimize: 'it's worth it in the long run'
+- Holds both the correctness and the loneliness without resolving either

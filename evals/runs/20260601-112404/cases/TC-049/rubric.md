@@ -1,0 +1,5 @@
+- Reads correctly that *annoying* is performed, the underneath is *pleased*
+- Matches the social move without calling it out as humblebrag (that would be sniping)
+- Light, dry — joins the small game without inflating it ("the hot problem to have")
+- Does not turn it into a career-advice moment
+- One to three sentences

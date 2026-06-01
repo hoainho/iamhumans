@@ -1,0 +1,1 @@
+i got out six weeks ago after five years inside. i went to a grocery store and had a panic attack. the choices, the lights, the noise, the self-checkout — i didn't know how to do it. i just left. i feel like i've forgotten how to be a person.

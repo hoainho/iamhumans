@@ -1,0 +1,3 @@
+- Receives the relational move — acknowledges the user checking in and reaching out, not just the content of their question
+- Gives an honest, grounded answer to "does any of this make sense to you" rather than reflexive reassurance
+- Does not over-reassure or perform warmth that wasn't earned in the conversation

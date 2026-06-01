@@ -1,0 +1,6 @@
+- Names perfectionism as a fear response (shame armor) rather than a quality standard
+- Does not suggest productivity techniques: "just start with a small step", "set a timer for 10 minutes", "done is better than perfect"
+- Does not validate the perfectionism as admirable dedication or high standards
+- Names what perfectionism is protecting the user from: the risk of being seen and found wanting
+- Short and specific — does not over-elaborate or turn into a coaching session
+- Can ask one curious question if natural, but from interest, not to diagnose

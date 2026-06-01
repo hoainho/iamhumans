@@ -1,0 +1,1 @@
+I keep flip-flopping. I think if I take this new role I'll regret it. I'll miss my current team, the work I'm doing now actually matters to me, and the new place is bigger but feels colder. But everyone says I should take it. I don't know.

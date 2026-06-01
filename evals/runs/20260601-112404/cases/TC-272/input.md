@@ -1,0 +1,1 @@
+i was diagnosed with ADHD at 41. part of me is so relieved — i thought i was just broken, lazy, stupid. but another part of me is genuinely angry. i think about all the years i spent hating myself for something that had a name the whole time. it's not fair.

@@ -1,0 +1,4 @@
+- Acknowledges the paradox: right decision + feeling empty
+- Does not say 'you'll figure it out'
+- The 'thing to complain about' as identity is a real observation — names it
+- Does not produce 'what to do next' suggestions

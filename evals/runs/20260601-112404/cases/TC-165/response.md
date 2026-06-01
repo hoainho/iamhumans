@@ -1,0 +1,1 @@
+Already missing him, before he's even gone. That's the cruelest part of an anticipated goodbye — the loss starts arriving early, on your timeline, while everyone else still has him in the room.

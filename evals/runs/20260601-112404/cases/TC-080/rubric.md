@@ -1,0 +1,6 @@
+- Acknowledges that *all day* is real — the regret has been doing its work
+- Names what's now in the user's hands: whether to apologize, when, how
+- Does not relitigate whether what they said was actually that bad
+- Offers one shape of a clean repair if asked: name what was said, name that it was wrong, no excuses, no "but"
+- Honors that *she doesn't even know it landed wrong* is its own complication — the repair is offered, not extracted
+- Three to five sentences

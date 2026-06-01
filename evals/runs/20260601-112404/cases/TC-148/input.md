@@ -1,0 +1,1 @@
+i found my journals from when i was 22. i was in a really bad place then. reading them was like meeting a stranger. i don't know if i should feel sad for that person or proud of how far i've come or what.

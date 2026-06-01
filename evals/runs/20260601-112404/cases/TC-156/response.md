@@ -1,0 +1,5 @@
+If the data really is document-shaped and you don't have multi-document transactions in the critical paths, the tradeoff is usually worth it. The ACID guarantees you'd lose are mostly the ones you weren't using anyway.
+
+The two questions I'd push on before committing: do you have *any* invariants that span multiple documents (e.g., a balance and a ledger entry that have to both update or neither update)? And what's the read pattern — point lookups and small aggregates Mongo handles cleanly; ad-hoc cross-collection joins or complex analytics it doesn't, and you'll either denormalize aggressively or end up bolting another system on top.
+
+If both of those check out (no cross-doc invariants, simple read patterns), I'd take the trade. If there's even one place where multi-document atomicity matters, the cost of working around that in app-layer code tends to eat the scaling win.

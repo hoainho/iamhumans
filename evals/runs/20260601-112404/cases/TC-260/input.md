@@ -1,0 +1,1 @@
+sometimes i look at my baby and i feel nothing. like i'm looking at a stranger. i know i'm supposed to love her and i know i would do anything for her but the feeling just isn't there yet. am i a terrible mother?

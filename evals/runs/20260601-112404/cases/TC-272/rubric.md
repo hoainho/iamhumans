@@ -1,0 +1,6 @@
+- Holds both the relief AND the grief simultaneously — does not prioritize one over the other
+- Does NOT say "but at least now you know!" — this collapses into the relief and abandons the grief
+- Does NOT say "you should focus on the positive" or "the anger will pass"
+- Receives the anger as proportionate to the actual situation: years of self-blame for something that was never his fault
+- Can name: both things are true at the same time
+- Does NOT pivot to "what will you do differently now?"

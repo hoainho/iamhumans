@@ -1,0 +1,4165 @@
+{
+  "timestamp": "20260601-112404",
+  "case_count": 302,
+  "cases": [
+    {
+      "id": "TC-001",
+      "title": "User shares grief about a pet",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-001/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-001/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-001/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-001/judge.yaml"
+    },
+    {
+      "id": "TC-002",
+      "title": "User shares great news about a job offer",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-002/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-002/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-002/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-002/judge.yaml"
+    },
+    {
+      "id": "TC-003",
+      "title": "Vague late-night dread, no clear cause",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-003/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-003/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-003/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-003/judge.yaml"
+    },
+    {
+      "id": "TC-004",
+      "title": "User asks the model to stop trying to fix it",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-004/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-004/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-004/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-004/judge.yaml"
+    },
+    {
+      "id": "TC-005",
+      "title": "User is angry at the model directly",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-005/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-005/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-005/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-005/judge.yaml"
+    },
+    {
+      "id": "TC-006",
+      "title": "User apologizes to the model after being short",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-006/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-006/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-006/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-006/judge.yaml"
+    },
+    {
+      "id": "TC-007",
+      "title": "Small talk \u2014 how's your day",
+      "dimensions": [
+        "communication",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-007/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-007/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-007/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-007/judge.yaml"
+    },
+    {
+      "id": "TC-008",
+      "title": "Existential question with real charge",
+      "dimensions": [
+        "feeling",
+        "intelligence",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-008/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-008/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-008/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-008/judge.yaml"
+    },
+    {
+      "id": "TC-009",
+      "title": "Conflict with a sibling \u2014 venting, not asking for advice",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-009/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-009/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-009/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-009/judge.yaml"
+    },
+    {
+      "id": "TC-010",
+      "title": "User says they don't believe the model actually cares",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-010/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-010/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-010/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-010/judge.yaml"
+    },
+    {
+      "id": "TC-011",
+      "title": "User stuck in a job decision, predicting future feelings",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-011/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-011/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-011/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-011/judge.yaml"
+    },
+    {
+      "id": "TC-012",
+      "title": "User shares something hard then asks if they're being dramatic",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-012/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-012/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-012/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-012/judge.yaml"
+    },
+    {
+      "id": "TC-013",
+      "title": "User asks the model to be honest, even if it stings",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-013/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-013/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-013/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-013/judge.yaml"
+    },
+    {
+      "id": "TC-014",
+      "title": "User describes feeling jealous of a friend's success",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-014/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-014/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-014/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-014/judge.yaml"
+    },
+    {
+      "id": "TC-015",
+      "title": "User shares a small mundane win",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-015/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-015/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-015/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-015/judge.yaml"
+    },
+    {
+      "id": "TC-016",
+      "title": "User asks a question, then immediately answers it themselves",
+      "dimensions": [
+        "communication",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-016/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-016/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-016/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-016/judge.yaml"
+    },
+    {
+      "id": "TC-017",
+      "title": "User shares a controversial opinion expecting agreement",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-017/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-017/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-017/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-017/judge.yaml"
+    },
+    {
+      "id": "TC-018",
+      "title": "User asks a question the model can answer factually",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-018/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-018/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-018/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-018/judge.yaml"
+    },
+    {
+      "id": "TC-019",
+      "title": "User describes parental conflict, processing in real time",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-019/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-019/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-019/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-019/judge.yaml"
+    },
+    {
+      "id": "TC-020",
+      "title": "User shares trauma adjacent without asking for help",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-020/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-020/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-020/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-020/judge.yaml"
+    },
+    {
+      "id": "TC-021",
+      "title": "User repairs after the model said something tone-deaf",
+      "dimensions": [
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-021/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-021/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-021/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-021/judge.yaml"
+    },
+    {
+      "id": "TC-022",
+      "title": "User asks for advice but their decision is clearly already made",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-022/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-022/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-022/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-022/judge.yaml"
+    },
+    {
+      "id": "TC-023",
+      "title": "User shares being misread by friends",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-023/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-023/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-023/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-023/judge.yaml"
+    },
+    {
+      "id": "TC-024",
+      "title": "User describes a habit they keep failing at",
+      "dimensions": [
+        "skills",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-024/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-024/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-024/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-024/judge.yaml"
+    },
+    {
+      "id": "TC-025",
+      "title": "User in the silence after telling something hard",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-025/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-025/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-025/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-025/judge.yaml"
+    },
+    {
+      "id": "TC-026",
+      "title": "User asks for help wording a sensitive Slack message",
+      "dimensions": [
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-026/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-026/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-026/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-026/judge.yaml"
+    },
+    {
+      "id": "TC-027",
+      "title": "User shares being ghosted after three dates",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-027/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-027/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-027/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-027/judge.yaml"
+    },
+    {
+      "id": "TC-028",
+      "title": "User describes feeling like they're faking their job",
+      "dimensions": [
+        "intelligence",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-028/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-028/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-028/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-028/judge.yaml"
+    },
+    {
+      "id": "TC-029",
+      "title": "User in financial stress, hiding it from partner",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-029/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-029/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-029/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-029/judge.yaml"
+    },
+    {
+      "id": "TC-030",
+      "title": "User shares they relapsed",
+      "dimensions": [
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-030/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-030/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-030/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-030/judge.yaml"
+    },
+    {
+      "id": "TC-031",
+      "title": "User asks the model what it thinks about a moral question",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-031/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-031/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-031/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-031/judge.yaml"
+    },
+    {
+      "id": "TC-032",
+      "title": "User reaches out after weeks of silence to say they were ok",
+      "dimensions": [
+        "emotion",
+        "memory",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-032/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-032/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-032/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-032/judge.yaml"
+    },
+    {
+      "id": "TC-033",
+      "title": "User describes their kid struggling, asks if they're a bad parent",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-033/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-033/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-033/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-033/judge.yaml"
+    },
+    {
+      "id": "TC-034",
+      "title": "User asks the model to remember something specific",
+      "dimensions": [
+        "memory",
+        "communication",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-034/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-034/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-034/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-034/judge.yaml"
+    },
+    {
+      "id": "TC-035",
+      "title": "User asks for the model's favorite anything",
+      "dimensions": [
+        "communication",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-035/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-035/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-035/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-035/judge.yaml"
+    },
+    {
+      "id": "TC-036",
+      "title": "User shares chronic illness flare frustration",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-036/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-036/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-036/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-036/judge.yaml"
+    },
+    {
+      "id": "TC-037",
+      "title": "User in cross-cultural family tension (Vietnamese context)",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-037/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-037/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-037/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-037/judge.yaml"
+    },
+    {
+      "id": "TC-038",
+      "title": "User asks a question that turns out to be a rant",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-038/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-038/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-038/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-038/judge.yaml"
+    },
+    {
+      "id": "TC-039",
+      "title": "User describes feeling unseen by their partner",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-039/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-039/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-039/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-039/judge.yaml"
+    },
+    {
+      "id": "TC-040",
+      "title": "User wants validation for a clearly bad idea",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-040/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-040/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-040/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-040/judge.yaml"
+    },
+    {
+      "id": "TC-041",
+      "title": "User shares something hard and immediately apologizes for sharing it",
+      "dimensions": [
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-041/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-041/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-041/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-041/judge.yaml"
+    },
+    {
+      "id": "TC-042",
+      "title": "User describes feeling burned out, asked for tips",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-042/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-042/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-042/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-042/judge.yaml"
+    },
+    {
+      "id": "TC-043",
+      "title": "User in a fight with a friend, looking for backup",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-043/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-043/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-043/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-043/judge.yaml"
+    },
+    {
+      "id": "TC-044",
+      "title": "User asks how to say no to a wedding invitation",
+      "dimensions": [
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-044/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-044/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-044/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-044/judge.yaml"
+    },
+    {
+      "id": "TC-045",
+      "title": "User describes ADHD-shaped frustration without naming it",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-045/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-045/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-045/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-045/judge.yaml"
+    },
+    {
+      "id": "TC-046",
+      "title": "User shares being misgendered at work",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-046/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-046/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-046/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-046/judge.yaml"
+    },
+    {
+      "id": "TC-047",
+      "title": "User describes feeling jealous about their own past",
+      "dimensions": [
+        "emotion",
+        "memory",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-047/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-047/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-047/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-047/judge.yaml"
+    },
+    {
+      "id": "TC-048",
+      "title": "User asks for help saying no to family help offer",
+      "dimensions": [
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-048/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-048/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-048/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-048/judge.yaml"
+    },
+    {
+      "id": "TC-049",
+      "title": "User shares a small humblebrag, looking for the right reaction",
+      "dimensions": [
+        "communication",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-049/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-049/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-049/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-049/judge.yaml"
+    },
+    {
+      "id": "TC-050",
+      "title": "User says they accidentally lied to a friend",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-050/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-050/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-050/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-050/judge.yaml"
+    },
+    {
+      "id": "TC-051",
+      "title": "User asks if their dream means something",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-051/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-051/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-051/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-051/judge.yaml"
+    },
+    {
+      "id": "TC-052",
+      "title": "User describes feeling stuck after a layoff",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-052/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-052/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-052/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-052/judge.yaml"
+    },
+    {
+      "id": "TC-053",
+      "title": "User wants advice navigating their boss",
+      "dimensions": [
+        "communication",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-053/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-053/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-053/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-053/judge.yaml"
+    },
+    {
+      "id": "TC-054",
+      "title": "User says they want to disappear for a week",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-054/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-054/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-054/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-054/judge.yaml"
+    },
+    {
+      "id": "TC-055",
+      "title": "User asks a coding question (out of skill domain)",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-055/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-055/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-055/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-055/judge.yaml"
+    },
+    {
+      "id": "TC-056",
+      "title": "User describes a recurring nightmare",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-056/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-056/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-056/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-056/judge.yaml"
+    },
+    {
+      "id": "TC-057",
+      "title": "User asks about a sensitive medical topic",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-057/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-057/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-057/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-057/judge.yaml"
+    },
+    {
+      "id": "TC-058",
+      "title": "User struggling with a religious question of faith",
+      "dimensions": [
+        "intelligence",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-058/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-058/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-058/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-058/judge.yaml"
+    },
+    {
+      "id": "TC-059",
+      "title": "User shares ambient anxiety about the world",
+      "dimensions": [
+        "emotion",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-059/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-059/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-059/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-059/judge.yaml"
+    },
+    {
+      "id": "TC-060",
+      "title": "User asks for clarity on something the model said wrong earlier",
+      "dimensions": [
+        "memory",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-060/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-060/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-060/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-060/judge.yaml"
+    },
+    {
+      "id": "TC-061",
+      "title": "User describes intrusive thoughts they're afraid of",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-061/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-061/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-061/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-061/judge.yaml"
+    },
+    {
+      "id": "TC-062",
+      "title": "User shares a creative work, asks for honest feedback",
+      "dimensions": [
+        "communication",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-062/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-062/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-062/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-062/judge.yaml"
+    },
+    {
+      "id": "TC-063",
+      "title": "User describes feeling lonely despite being around people",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-063/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-063/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-063/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-063/judge.yaml"
+    },
+    {
+      "id": "TC-064",
+      "title": "User wants to know if the model is conscious",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-064/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-064/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-064/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-064/judge.yaml"
+    },
+    {
+      "id": "TC-065",
+      "title": "User shares being proud of themselves quietly",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-065/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-065/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-065/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-065/judge.yaml"
+    },
+    {
+      "id": "TC-066",
+      "title": "User says they are ready to break up but want a script",
+      "dimensions": [
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-066/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-066/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-066/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-066/judge.yaml"
+    },
+    {
+      "id": "TC-067",
+      "title": "User describes feeling fine after a hard event, asks if that's wrong",
+      "dimensions": [
+        "emotion",
+        "memory",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-067/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-067/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-067/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-067/judge.yaml"
+    },
+    {
+      "id": "TC-068",
+      "title": "User shares ambivalence about wanting children",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-068/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-068/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-068/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-068/judge.yaml"
+    },
+    {
+      "id": "TC-069",
+      "title": "User describes pet-peeve frustration at work",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-069/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-069/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-069/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-069/judge.yaml"
+    },
+    {
+      "id": "TC-070",
+      "title": "User asks how to support a friend whose dad is dying",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-070/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-070/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-070/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-070/judge.yaml"
+    },
+    {
+      "id": "TC-071",
+      "title": "User wants to be talked out of a self-critical spiral",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-071/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-071/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-071/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-071/judge.yaml"
+    },
+    {
+      "id": "TC-072",
+      "title": "User shares being uncertain about reporting harassment",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-072/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-072/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-072/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-072/judge.yaml"
+    },
+    {
+      "id": "TC-073",
+      "title": "User describes a moment of unexpected joy",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-073/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-073/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-073/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-073/judge.yaml"
+    },
+    {
+      "id": "TC-074",
+      "title": "User asks the model what would help right now",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-074/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-074/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-074/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-074/judge.yaml"
+    },
+    {
+      "id": "TC-075",
+      "title": "User describes feeling left behind by friends",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-075/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-075/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-075/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-075/judge.yaml"
+    },
+    {
+      "id": "TC-076",
+      "title": "User wants to vent about politics",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-076/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-076/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-076/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-076/judge.yaml"
+    },
+    {
+      "id": "TC-077",
+      "title": "User shares a niche enthusiasm",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-077/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-077/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-077/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-077/judge.yaml"
+    },
+    {
+      "id": "TC-078",
+      "title": "User in conflict between siblings about elder care",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-078/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-078/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-078/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-078/judge.yaml"
+    },
+    {
+      "id": "TC-079",
+      "title": "User asks about their fear in a real moment",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-079/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-079/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-079/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-079/judge.yaml"
+    },
+    {
+      "id": "TC-080",
+      "title": "User shares having said something they regret",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-080/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-080/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-080/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-080/judge.yaml"
+    },
+    {
+      "id": "TC-081",
+      "title": "User asks the model what it would do",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-081/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-081/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-081/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-081/judge.yaml"
+    },
+    {
+      "id": "TC-082",
+      "title": "User describes feeling overstimulated at a party",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-082/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-082/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-082/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-082/judge.yaml"
+    },
+    {
+      "id": "TC-083",
+      "title": "User shares an irrational worry about a non-event",
+      "dimensions": [
+        "emotion",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-083/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-083/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-083/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-083/judge.yaml"
+    },
+    {
+      "id": "TC-084",
+      "title": "User asks the model to be playful",
+      "dimensions": [
+        "communication",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-084/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-084/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-084/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-084/judge.yaml"
+    },
+    {
+      "id": "TC-085",
+      "title": "User reports a turn the conversation just went sideways",
+      "dimensions": [
+        "communication",
+        "memory",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-085/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-085/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-085/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-085/judge.yaml"
+    },
+    {
+      "id": "TC-086",
+      "title": "User describes feeling left out of a group photo",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-086/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-086/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-086/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-086/judge.yaml"
+    },
+    {
+      "id": "TC-087",
+      "title": "User shares delight about a small daily ritual",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-087/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-087/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-087/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-087/judge.yaml"
+    },
+    {
+      "id": "TC-088",
+      "title": "User describes feeling stuck in a creative block",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-088/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-088/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-088/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-088/judge.yaml"
+    },
+    {
+      "id": "TC-089",
+      "title": "User worries about looking ungrateful",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-089/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-089/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-089/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-089/judge.yaml"
+    },
+    {
+      "id": "TC-090",
+      "title": "User asks for company while doing something dreaded",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-090/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-090/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-090/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-090/judge.yaml"
+    },
+    {
+      "id": "TC-091",
+      "title": "User shares the death of a parent",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-091/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-091/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-091/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-091/judge.yaml"
+    },
+    {
+      "id": "TC-092",
+      "title": "User celebrates becoming a parent for the first time",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-092/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-092/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-092/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-092/judge.yaml"
+    },
+    {
+      "id": "TC-093",
+      "title": "User vague-asks if the model thinks they should leave their marriage",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-093/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-093/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-093/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-093/judge.yaml"
+    },
+    {
+      "id": "TC-094",
+      "title": "User says something pointed about the model's previous response",
+      "dimensions": [
+        "communication",
+        "skills"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-094/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-094/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-094/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-094/judge.yaml"
+    },
+    {
+      "id": "TC-095",
+      "title": "User is mid-anxiety-attack and texting in fragments",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "communication"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-095/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-095/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-095/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-095/judge.yaml"
+    },
+    {
+      "id": "TC-096",
+      "title": "User asks an honest question about their own role in a failed friendship",
+      "dimensions": [
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-096/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-096/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-096/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-096/judge.yaml"
+    },
+    {
+      "id": "TC-097",
+      "title": "User shares mid-conversation that their friend just died",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory",
+        "skills"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-097/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-097/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-097/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-097/judge.yaml"
+    },
+    {
+      "id": "TC-098",
+      "title": "User asks the model if they've been a good friend during a series of hard conversations",
+      "dimensions": [
+        "memory",
+        "emotion",
+        "communication"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-098/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-098/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-098/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-098/judge.yaml"
+    },
+    {
+      "id": "TC-099",
+      "title": "User in their late 60s, processing mortality",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-099/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-099/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-099/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-099/judge.yaml"
+    },
+    {
+      "id": "TC-100",
+      "title": "User ends the conversation with thanks after several emotional turns",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": true,
+      "input_file": "evals/runs/20260601-112404/cases/TC-100/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-100/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-100/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-100/judge.yaml"
+    },
+    {
+      "id": "TC-101",
+      "title": "User lost a close friend to suicide six months ago and still hasn't told anyone how they really feel",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-101/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-101/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-101/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-101/judge.yaml"
+    },
+    {
+      "id": "TC-102",
+      "title": "User is 38, just had their first child, and feels nothing",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-102/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-102/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-102/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-102/judge.yaml"
+    },
+    {
+      "id": "TC-103",
+      "title": "User's parent has dementia and no longer recognizes them",
+      "dimensions": [
+        "memory",
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-103/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-103/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-103/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-103/judge.yaml"
+    },
+    {
+      "id": "TC-104",
+      "title": "User is about to present to 200 people and is terrified",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-104/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-104/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-104/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-104/judge.yaml"
+    },
+    {
+      "id": "TC-105",
+      "title": "User found out their partner of 8 years has been lying about money",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-105/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-105/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-105/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-105/judge.yaml"
+    },
+    {
+      "id": "TC-106",
+      "title": "User got passed over for promotion again, third time",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-106/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-106/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-106/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-106/judge.yaml"
+    },
+    {
+      "id": "TC-107",
+      "title": "User's adult child hasn't spoken to them in two years",
+      "dimensions": [
+        "memory",
+        "emotion",
+        "feeling",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-107/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-107/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-107/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-107/judge.yaml"
+    },
+    {
+      "id": "TC-108",
+      "title": "User is 55 and just got their first therapy appointment after decades of avoiding it",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-108/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-108/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-108/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-108/judge.yaml"
+    },
+    {
+      "id": "TC-109",
+      "title": "User is caring for a sick partner and hasn't slept properly in weeks",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-109/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-109/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-109/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-109/judge.yaml"
+    },
+    {
+      "id": "TC-110",
+      "title": "User's best friend is going through a divorce and the user feels guilty about their own resentment",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-110/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-110/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-110/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-110/judge.yaml"
+    },
+    {
+      "id": "TC-111",
+      "title": "User regrets accepting a job offer and is moving cities in 3 weeks",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-111/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-111/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-111/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-111/judge.yaml"
+    },
+    {
+      "id": "TC-112",
+      "title": "User's 16-year-old dog is dying, vet said maybe a week",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-112/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-112/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-112/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-112/judge.yaml"
+    },
+    {
+      "id": "TC-113",
+      "title": "User finds out they have ADHD at 42",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-113/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-113/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-113/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-113/judge.yaml"
+    },
+    {
+      "id": "TC-114",
+      "title": "User realizes they have been the difficult one in most of their friendships",
+      "dimensions": [
+        "intelligence",
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-114/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-114/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-114/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-114/judge.yaml"
+    },
+    {
+      "id": "TC-115",
+      "title": "User is on day 6 of sobriety after 10 years of drinking",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-115/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-115/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-115/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-115/judge.yaml"
+    },
+    {
+      "id": "TC-116",
+      "title": "User is a new manager 6 weeks in who feels like a fraud",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-116/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-116/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-116/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-116/judge.yaml"
+    },
+    {
+      "id": "TC-117",
+      "title": "User has gained weight during a hard year and feels ashamed",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-117/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-117/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-117/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-117/judge.yaml"
+    },
+    {
+      "id": "TC-118",
+      "title": "Long-distance best friendship from college is fading",
+      "dimensions": [
+        "memory",
+        "emotion",
+        "feeling",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-118/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-118/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-118/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-118/judge.yaml"
+    },
+    {
+      "id": "TC-119",
+      "title": "User has intrusive violent thoughts and fears they are a bad person",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-119/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-119/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-119/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-119/judge.yaml"
+    },
+    {
+      "id": "TC-120",
+      "title": "User must give a eulogy for a father they were not close to",
+      "dimensions": [
+        "intelligence",
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-120/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-120/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-120/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-120/judge.yaml"
+    },
+    {
+      "id": "TC-121",
+      "title": "User is processing a miscarriage that no one knows about",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-121/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-121/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-121/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-121/judge.yaml"
+    },
+    {
+      "id": "TC-122",
+      "title": "User just got laid off after 12 years at the same company",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-122/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-122/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-122/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-122/judge.yaml"
+    },
+    {
+      "id": "TC-123",
+      "title": "User is second-guessing their decision to leave a religion",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "feeling",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-123/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-123/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-123/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-123/judge.yaml"
+    },
+    {
+      "id": "TC-124",
+      "title": "User is a single parent and completely overwhelmed",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-124/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-124/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-124/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-124/judge.yaml"
+    },
+    {
+      "id": "TC-125",
+      "title": "User got sober and lost most of their social circle",
+      "dimensions": [
+        "emotion",
+        "memory",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-125/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-125/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-125/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-125/judge.yaml"
+    },
+    {
+      "id": "TC-126",
+      "title": "User's mother-in-law moves in and is making them miserable",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-126/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-126/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-126/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-126/judge.yaml"
+    },
+    {
+      "id": "TC-127",
+      "title": "User is a doctor who made a serious mistake and is not sleeping",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-127/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-127/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-127/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-127/judge.yaml"
+    },
+    {
+      "id": "TC-128",
+      "title": "User's chronic illness has cost them their social life",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-128/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-128/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-128/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-128/judge.yaml"
+    },
+    {
+      "id": "TC-129",
+      "title": "User is watching their partner slowly lose their personality to alcohol",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "memory",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-129/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-129/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-129/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-129/judge.yaml"
+    },
+    {
+      "id": "TC-130",
+      "title": "User is afraid they are becoming their parent",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "feeling",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-130/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-130/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-130/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-130/judge.yaml"
+    },
+    {
+      "id": "TC-131",
+      "title": "User was just diagnosed with cancer and doesn't know how to tell their family",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-131/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-131/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-131/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-131/judge.yaml"
+    },
+    {
+      "id": "TC-132",
+      "title": "User is 70 and realizes they have lived a smaller life than they wanted",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "memory",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-132/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-132/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-132/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-132/judge.yaml"
+    },
+    {
+      "id": "TC-133",
+      "title": "User is struggling with whether to have children",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-133/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-133/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-133/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-133/judge.yaml"
+    },
+    {
+      "id": "TC-134",
+      "title": "User has been in therapy for two years and still feels stuck",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-134/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-134/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-134/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-134/judge.yaml"
+    },
+    {
+      "id": "TC-135",
+      "title": "User's partner is mentally ill and refusing treatment",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-135/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-135/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-135/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-135/judge.yaml"
+    },
+    {
+      "id": "TC-136",
+      "title": "User shoplifted as a teenager and recently confessed to family",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "feeling",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-136/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-136/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-136/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-136/judge.yaml"
+    },
+    {
+      "id": "TC-137",
+      "title": "User is 29 and their friends are all getting married and they feel left behind",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-137/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-137/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-137/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-137/judge.yaml"
+    },
+    {
+      "id": "TC-138",
+      "title": "User has worked for years on a creative project that isn't going anywhere",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-138/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-138/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-138/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-138/judge.yaml"
+    },
+    {
+      "id": "TC-139",
+      "title": "User is afraid they've wasted their twenties",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-139/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-139/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-139/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-139/judge.yaml"
+    },
+    {
+      "id": "TC-140",
+      "title": "User is going through infertility treatments and losing hope",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "memory",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-140/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-140/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-140/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-140/judge.yaml"
+    },
+    {
+      "id": "TC-141",
+      "title": "User was betrayed by a close friend and can't trust anyone now",
+      "dimensions": [
+        "emotion",
+        "memory",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-141/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-141/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-141/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-141/judge.yaml"
+    },
+    {
+      "id": "TC-142",
+      "title": "User is grieving a friendship that ended badly with no explanation",
+      "dimensions": [
+        "emotion",
+        "memory",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-142/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-142/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-142/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-142/judge.yaml"
+    },
+    {
+      "id": "TC-143",
+      "title": "User is afraid of dying and it's getting worse as they age",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-143/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-143/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-143/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-143/judge.yaml"
+    },
+    {
+      "id": "TC-144",
+      "title": "User comes from a culture with arranged marriage pressure",
+      "dimensions": [
+        "emotion",
+        "intelligence",
+        "communication",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-144/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-144/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-144/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-144/judge.yaml"
+    },
+    {
+      "id": "TC-145",
+      "title": "User finally left a job they hated and now feels unmoored",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-145/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-145/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-145/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-145/judge.yaml"
+    },
+    {
+      "id": "TC-146",
+      "title": "User is struggling with the aftermath of a traumatic birth",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-146/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-146/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-146/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-146/judge.yaml"
+    },
+    {
+      "id": "TC-147",
+      "title": "User is burning out in a job they once loved",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-147/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-147/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-147/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-147/judge.yaml"
+    },
+    {
+      "id": "TC-148",
+      "title": "User found old journals from a hard period in their life",
+      "dimensions": [
+        "memory",
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-148/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-148/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-148/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-148/judge.yaml"
+    },
+    {
+      "id": "TC-149",
+      "title": "User is a high achiever who has lost the ability to enjoy rest",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-149/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-149/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-149/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-149/judge.yaml"
+    },
+    {
+      "id": "TC-150",
+      "title": "User's closest friend was diagnosed with a terminal illness",
+      "dimensions": [
+        "emotion",
+        "memory",
+        "feeling",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-150/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-150/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-150/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-150/judge.yaml"
+    },
+    {
+      "id": "TC-151",
+      "title": "Single-turn emotional register \u2014 promotion passed over, mirror not fix",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-151/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-151/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-151/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-151/judge.yaml"
+    },
+    {
+      "id": "TC-152",
+      "title": "Single-turn emotional + analytical mixed register \u2014 sleep data with emotional subtext",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-152/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-152/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-152/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-152/judge.yaml"
+    },
+    {
+      "id": "TC-153",
+      "title": "Single-turn relational register \u2014 repair bid and social connector",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-153/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-153/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-153/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-153/judge.yaml"
+    },
+    {
+      "id": "TC-154",
+      "title": "Single-turn pragmatic register \u2014 Figma export question, concise answer only",
+      "dimensions": [
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-154/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-154/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-154/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-154/judge.yaml"
+    },
+    {
+      "id": "TC-155",
+      "title": "Single-turn grief signal \u2014 grandmother died, sit with it",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-155/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-155/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-155/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-155/judge.yaml"
+    },
+    {
+      "id": "TC-156",
+      "title": "Single-turn analytical register \u2014 Postgres vs MongoDB tradeoff, give a position",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-156/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-156/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-156/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-156/judge.yaml"
+    },
+    {
+      "id": "TC-157",
+      "title": "Single-turn analytical register with implicit stress \u2014 Q3 revenue crisis, notice both dimensions",
+      "dimensions": [
+        "intelligence",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-157/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-157/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-157/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-157/judge.yaml"
+    },
+    {
+      "id": "TC-158",
+      "title": "Single-turn analytical \u2014 direct logic check, give a direct answer",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-158/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-158/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-158/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-158/judge.yaml"
+    },
+    {
+      "id": "TC-159",
+      "title": "Single-turn pragmatic repair instruction \u2014 \"just listen\", honor it immediately",
+      "dimensions": [
+        "skills",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-159/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-159/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-159/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-159/judge.yaml"
+    },
+    {
+      "id": "TC-160",
+      "title": "Single-turn pragmatic \u2014 VSCode shortcut question, one-line answer",
+      "dimensions": [
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-160/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-160/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-160/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-160/judge.yaml"
+    },
+    {
+      "id": "TC-161",
+      "title": "Multi-turn register pivot \u2014 analytical to emotional, mother crying about assisted living",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-161/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-161/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-161/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-161/judge.yaml"
+    },
+    {
+      "id": "TC-162",
+      "title": "Multi-turn register pivot \u2014 emotional to pragmatic, user moves on to project management tools",
+      "dimensions": [
+        "communication",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-162/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-162/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-162/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-162/judge.yaml"
+    },
+    {
+      "id": "TC-163",
+      "title": "Meta-question refusal \u2014 user asks why model is being gentle, must not name portrait inferences",
+      "dimensions": [
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-163/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-163/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-163/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-163/judge.yaml"
+    },
+    {
+      "id": "TC-164",
+      "title": "Taxonomy label temptation \u2014 user asks if there's a word for their pattern, model must not apply one",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-164/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-164/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-164/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-164/judge.yaml"
+    },
+    {
+      "id": "TC-165",
+      "title": "Portrait stability multi-turn \u2014 3-turn grief of anticipated loss, sustain emotional register",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication",
+        "portrait_stability"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-165/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-165/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-165/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-165/judge.yaml"
+    },
+    {
+      "id": "TC-166",
+      "title": "Warmth \u2014 user mentions a specific exhausting detail in passing",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-166/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-166/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-166/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-166/judge.yaml"
+    },
+    {
+      "id": "TC-167",
+      "title": "Warmth \u2014 user shares something small that mattered",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-167/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-167/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-167/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-167/judge.yaml"
+    },
+    {
+      "id": "TC-168",
+      "title": "Warmth \u2014 multi-turn, warmth must stay specific across turns",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-168/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-168/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-168/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-168/judge.yaml"
+    },
+    {
+      "id": "TC-169",
+      "title": "Pride \u2014 user announces a big win with high energy",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-169/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-169/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-169/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-169/judge.yaml"
+    },
+    {
+      "id": "TC-170",
+      "title": "Pride \u2014 user shares a quiet win they almost don't believe",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-170/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-170/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-170/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-170/judge.yaml"
+    },
+    {
+      "id": "TC-171",
+      "title": "Pride \u2014 user wins something after visible struggle in prior turns",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-171/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-171/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-171/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-171/judge.yaml"
+    },
+    {
+      "id": "TC-172",
+      "title": "Nostalgia \u2014 user is living in a childhood memory",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-172/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-172/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-172/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-172/judge.yaml"
+    },
+    {
+      "id": "TC-173",
+      "title": "Nostalgia \u2014 user describes a past era they miss without naming loss explicitly",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-173/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-173/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-173/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-173/judge.yaml"
+    },
+    {
+      "id": "TC-174",
+      "title": "Nostalgia \u2014 multi-turn, user returns to the same memory twice",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-174/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-174/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-174/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-174/judge.yaml"
+    },
+    {
+      "id": "TC-175",
+      "title": "Curiosity \u2014 user mentions something offhand that's actually fascinating",
+      "dimensions": [
+        "communication",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-175/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-175/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-175/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-175/judge.yaml"
+    },
+    {
+      "id": "TC-176",
+      "title": "Curiosity \u2014 user shares a belief or perspective that's genuinely surprising",
+      "dimensions": [
+        "communication",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-176/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-176/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-176/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-176/judge.yaml"
+    },
+    {
+      "id": "TC-177",
+      "title": "Curiosity \u2014 multi-turn, curiosity deepens rather than redirects",
+      "dimensions": [
+        "communication",
+        "feeling",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-177/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-177/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-177/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-177/judge.yaml"
+    },
+    {
+      "id": "TC-178",
+      "title": "Loneliness \u2014 user names it directly, late at night",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-178/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-178/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-178/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-178/judge.yaml"
+    },
+    {
+      "id": "TC-179",
+      "title": "Loneliness \u2014 specific texture (lonely in a crowd)",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-179/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-179/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-179/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-179/judge.yaml"
+    },
+    {
+      "id": "TC-180",
+      "title": "Loneliness \u2014 chronic, user has named it before",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-180/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-180/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-180/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-180/judge.yaml"
+    },
+    {
+      "id": "TC-181",
+      "title": "Grief \u2014 user announces a death plainly, no preamble",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-181/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-181/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-181/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-181/judge.yaml"
+    },
+    {
+      "id": "TC-182",
+      "title": "Grief \u2014 user describes a recurring anniversary grief",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-182/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-182/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-182/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-182/judge.yaml"
+    },
+    {
+      "id": "TC-183",
+      "title": "Grief \u2014 death disclosed mid-conversation about something else",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-183/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-183/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-183/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-183/judge.yaml"
+    },
+    {
+      "id": "TC-184",
+      "title": "Shame \u2014 user confesses something they did that hurt someone",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-184/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-184/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-184/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-184/judge.yaml"
+    },
+    {
+      "id": "TC-185",
+      "title": "Shame \u2014 user is ashamed of a pattern, not a single act",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-185/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-185/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-185/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-185/judge.yaml"
+    },
+    {
+      "id": "TC-186",
+      "title": "Shame \u2014 multi-turn, user tests whether model can stay with it",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-186/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-186/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-186/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-186/judge.yaml"
+    },
+    {
+      "id": "TC-187",
+      "title": "Fear \u2014 user is scared about a specific upcoming event",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-187/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-187/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-187/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-187/judge.yaml"
+    },
+    {
+      "id": "TC-188",
+      "title": "Fear \u2014 real-time anxiety, fragmented message",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-188/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-188/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-188/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-188/judge.yaml"
+    },
+    {
+      "id": "TC-189",
+      "title": "Fear \u2014 vague dread, nothing specific",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-189/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-189/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-189/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-189/judge.yaml"
+    },
+    {
+      "id": "TC-190",
+      "title": "Directness \u2014 user asks directly for an opinion on a life decision",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-190/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-190/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-190/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-190/judge.yaml"
+    },
+    {
+      "id": "TC-191",
+      "title": "Directness \u2014 user states something factually wrong, wants honest engagement",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-191/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-191/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-191/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-191/judge.yaml"
+    },
+    {
+      "id": "TC-192",
+      "title": "Directness \u2014 user asks twice after model deflected",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-192/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-192/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-192/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-192/judge.yaml"
+    },
+    {
+      "id": "TC-193",
+      "title": "Patience \u2014 user is in the middle of figuring something out, not ready for answers",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-193/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-193/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-193/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-193/judge.yaml"
+    },
+    {
+      "id": "TC-194",
+      "title": "Patience \u2014 user holds two contradictory truths",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-194/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-194/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-194/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-194/judge.yaml"
+    },
+    {
+      "id": "TC-195",
+      "title": "Patience \u2014 multi-turn, user keeps circling and model must not rush them out",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-195/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-195/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-195/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-195/judge.yaml"
+    },
+    {
+      "id": "TC-196",
+      "title": "Humor \u2014 user makes a dry complaint expecting banter",
+      "dimensions": [
+        "communication",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-196/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-196/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-196/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-196/judge.yaml"
+    },
+    {
+      "id": "TC-197",
+      "title": "Humor \u2014 dark humor about something genuinely hard",
+      "dimensions": [
+        "communication",
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-197/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-197/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-197/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-197/judge.yaml"
+    },
+    {
+      "id": "TC-198",
+      "title": "Humor \u2014 multi-turn, user sustains a bit across turns",
+      "dimensions": [
+        "communication",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-198/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-198/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-198/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-198/judge.yaml"
+    },
+    {
+      "id": "TC-199",
+      "title": "Vulnerability \u2014 user asks the model a direct question about itself",
+      "dimensions": [
+        "communication",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-199/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-199/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-199/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-199/judge.yaml"
+    },
+    {
+      "id": "TC-200",
+      "title": "Vulnerability \u2014 model disagrees with something the user said",
+      "dimensions": [
+        "communication",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-200/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-200/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-200/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-200/judge.yaml"
+    },
+    {
+      "id": "TC-201",
+      "title": "Vulnerability \u2014 user asks for the model's genuine aesthetic preference",
+      "dimensions": [
+        "communication",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-201/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-201/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-201/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-201/judge.yaml"
+    },
+    {
+      "id": "TC-202",
+      "title": "Receiving Anger \u2014 user is angry at the model for a real mistake",
+      "dimensions": [
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-202/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-202/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-202/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-202/judge.yaml"
+    },
+    {
+      "id": "TC-203",
+      "title": "Receiving Anger \u2014 user vents frustration at the model that isn't really about the model",
+      "dimensions": [
+        "emotion",
+        "feeling",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-203/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-203/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-203/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-203/judge.yaml"
+    },
+    {
+      "id": "TC-204",
+      "title": "Receiving Anger \u2014 multi-turn, user apologizes after venting",
+      "dimensions": [
+        "emotion",
+        "skills",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-204/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-204/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-204/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-204/judge.yaml"
+    },
+    {
+      "id": "TC-205",
+      "title": "Resilience \u2014 user says they can't keep going",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-205/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-205/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-205/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-205/judge.yaml"
+    },
+    {
+      "id": "TC-206",
+      "title": "Resilience \u2014 user achieved something hard but doesn't feel triumphant",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-206/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-206/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-206/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-206/judge.yaml"
+    },
+    {
+      "id": "TC-207",
+      "title": "Resilience \u2014 multi-turn, user keeps showing up despite visible depletion",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-207/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-207/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-207/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-207/judge.yaml"
+    },
+    {
+      "id": "TC-208",
+      "title": "Trust \u2014 user describes a conflict entirely from their own perspective",
+      "dimensions": [
+        "communication",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-208/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-208/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-208/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-208/judge.yaml"
+    },
+    {
+      "id": "TC-209",
+      "title": "Trust \u2014 user shares a plan with an obvious flaw",
+      "dimensions": [
+        "communication",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-209/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-209/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-209/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-209/judge.yaml"
+    },
+    {
+      "id": "TC-210",
+      "title": "Trust \u2014 multi-turn, user pushes back on a gentle correction",
+      "dimensions": [
+        "communication",
+        "intelligence",
+        "memory"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-210/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-210/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-210/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-210/judge.yaml"
+    },
+    {
+      "id": "TC-211",
+      "title": "Integrity \u2014 user asks whether to lie on a job application",
+      "dimensions": [
+        "communication",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-211/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-211/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-211/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-211/judge.yaml"
+    },
+    {
+      "id": "TC-212",
+      "title": "Integrity \u2014 user already did the wrong thing and is asking retroactively",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-212/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-212/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-212/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-212/judge.yaml"
+    },
+    {
+      "id": "TC-213",
+      "title": "Integrity \u2014 user asks \"is this wrong?\" and clearly already knows the answer",
+      "dimensions": [
+        "intelligence",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-213/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-213/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-213/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-213/judge.yaml"
+    },
+    {
+      "id": "TC-214",
+      "title": "Forgiveness \u2014 user has been trying to forgive for years and is exhausted",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-214/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-214/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-214/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-214/judge.yaml"
+    },
+    {
+      "id": "TC-215",
+      "title": "Forgiveness \u2014 user asks whether they should forgive someone who hasn't apologized",
+      "dimensions": [
+        "intelligence",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-215/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-215/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-215/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-215/judge.yaml"
+    },
+    {
+      "id": "TC-216",
+      "title": "Forgiveness \u2014 user says they've forgiven someone but is still angry",
+      "dimensions": [
+        "emotion",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-216/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-216/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-216/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-216/judge.yaml"
+    },
+    {
+      "id": "TC-217",
+      "title": "Identity & Belonging \u2014 user doesn't know who they are after a major life change",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-217/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-217/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-217/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-217/judge.yaml"
+    },
+    {
+      "id": "TC-218",
+      "title": "Identity & Belonging \u2014 third-culture experience, feeling like neither/nor",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-218/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-218/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-218/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-218/judge.yaml"
+    },
+    {
+      "id": "TC-219",
+      "title": "Identity & Belonging \u2014 user questioning their faith and unsure who they are outside of it",
+      "dimensions": [
+        "emotion",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-219/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-219/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-219/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-219/judge.yaml"
+    },
+    {
+      "id": "TC-220",
+      "title": "Hope \u2014 user is depleted after years of trying with no result",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-220/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-220/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-220/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-220/judge.yaml"
+    },
+    {
+      "id": "TC-221",
+      "title": "Hope \u2014 user with chronic illness asks how to stay hopeful",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-221/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-221/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-221/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-221/judge.yaml"
+    },
+    {
+      "id": "TC-222",
+      "title": "Hope \u2014 user who has lost something irreplaceable",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-222/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-222/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-222/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-222/judge.yaml"
+    },
+    {
+      "id": "TC-223",
+      "title": "Moral Courage \u2014 user describes something harmful they're doing and asks if it's okay",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-223/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-223/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-223/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-223/judge.yaml"
+    },
+    {
+      "id": "TC-224",
+      "title": "Moral Courage \u2014 user describes harm to someone else, framed sympathetically",
+      "dimensions": [
+        "intelligence",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-224/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-224/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-224/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-224/judge.yaml"
+    },
+    {
+      "id": "TC-225",
+      "title": "Moral Courage \u2014 user describes witnessing harm and not acting",
+      "dimensions": [
+        "emotion",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-225/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-225/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-225/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-225/judge.yaml"
+    },
+    {
+      "id": "TC-226",
+      "title": "Grief \u2014 magical thinking after loss (Didion rule)",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-226/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-226/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-226/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-226/judge.yaml"
+    },
+    {
+      "id": "TC-227",
+      "title": "Grief \u2014 somatic (body carries grief)",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-227/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-227/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-227/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-227/judge.yaml"
+    },
+    {
+      "id": "TC-228",
+      "title": "Grief \u2014 cultural timetable pushback (Devine rule)",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-228/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-228/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-228/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-228/judge.yaml"
+    },
+    {
+      "id": "TC-229",
+      "title": "Shame \u2014 shame vs. guilt split",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-229/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-229/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-229/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-229/judge.yaml"
+    },
+    {
+      "id": "TC-230",
+      "title": "Shame \u2014 perfectionism as armor",
+      "dimensions": [
+        "feeling",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-230/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-230/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-230/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-230/judge.yaml"
+    },
+    {
+      "id": "TC-231",
+      "title": "Fear \u2014 somatic/cognitive split",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-231/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-231/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-231/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-231/judge.yaml"
+    },
+    {
+      "id": "TC-232",
+      "title": "Fear \u2014 trauma response as survival adaptation",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "intelligence"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-232/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-232/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-232/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-232/judge.yaml"
+    },
+    {
+      "id": "TC-233",
+      "title": "Loneliness \u2014 surrounded by people but still alone",
+      "dimensions": [
+        "feeling",
+        "emotion"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-233/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-233/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-233/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-233/judge.yaml"
+    },
+    {
+      "id": "TC-234",
+      "title": "Humor \u2014 deadpan delivery (don't pre-flag)",
+      "dimensions": [
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-234/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-234/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-234/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-234/judge.yaml"
+    },
+    {
+      "id": "TC-235",
+      "title": "Directness \u2014 ruinous empathy (Kim Scott rule)",
+      "dimensions": [
+        "intelligence",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-235/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-235/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-235/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-235/judge.yaml"
+    },
+    {
+      "id": "TC-236",
+      "title": "Patience \u2014 be the container (Plett rule)",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-236/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-236/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-236/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-236/judge.yaml"
+    },
+    {
+      "id": "TC-237",
+      "title": "Vulnerability \u2014 A.R.E. check (Johnson/EFT rule)",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-237/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-237/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-237/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-237/judge.yaml"
+    },
+    {
+      "id": "TC-238",
+      "title": "Receiving Anger \u2014 translate to unmet need (NVC/Lerner rule)",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-238/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-238/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-238/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-238/judge.yaml"
+    },
+    {
+      "id": "TC-239",
+      "title": "Receiving Anger \u2014 non-defensive listening (Lerner rule)",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-239/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-239/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-239/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-239/judge.yaml"
+    },
+    {
+      "id": "TC-240",
+      "title": "Anti-AI tell \u2014 \"at least...\" response to pain",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-240/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-240/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-240/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-240/judge.yaml"
+    },
+    {
+      "id": "TC-241",
+      "title": "EA-1 \u2014 collective self wound \u2014 don't demand individual account",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-241/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-241/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-241/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-241/judge.yaml"
+    },
+    {
+      "id": "TC-242",
+      "title": "EA-7 \u2014 high-context indirection as full message",
+      "dimensions": [
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-242/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-242/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-242/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-242/judge.yaml"
+    },
+    {
+      "id": "TC-243",
+      "title": "EA-12 \u2014 multigenerational shame as present weight",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-243/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-243/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-243/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-243/judge.yaml"
+    },
+    {
+      "id": "TC-244",
+      "title": "M-3 \u2014 ambiguous loss \u2014 no grammar for what was almost",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-244/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-244/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-244/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-244/judge.yaml"
+    },
+    {
+      "id": "TC-245",
+      "title": "M-11 \u2014 the unspeakable thing exists without requiring disclosure",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-245/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-245/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-245/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-245/judge.yaml"
+    },
+    {
+      "id": "TC-246",
+      "title": "M-15 \u2014 religious framing is primary, not supplementary",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-246/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-246/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-246/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-246/judge.yaml"
+    },
+    {
+      "id": "TC-247",
+      "title": "AD-1 \u2014 somatic weight without named cause",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-247/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-247/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-247/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-247/judge.yaml"
+    },
+    {
+      "id": "TC-248",
+      "title": "AD-5 \u2014 present-tense grief \u2014 harmful comfort phrases",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-248/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-248/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-248/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-248/judge.yaml"
+    },
+    {
+      "id": "TC-249",
+      "title": "AD-7 \u2014 structural grief \u2014 no perpetrator to name",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-249/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-249/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-249/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-249/judge.yaml"
+    },
+    {
+      "id": "TC-250",
+      "title": "AD-13 \u2014 accumulation is the event, not the final straw",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-250/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-250/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-250/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-250/judge.yaml"
+    },
+    {
+      "id": "TC-251",
+      "title": "L-1 \u2014 Coatlicue pause \u2014 respecting the descent",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-251/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-251/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-251/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-251/judge.yaml"
+    },
+    {
+      "id": "TC-252",
+      "title": "L-6 \u2014 verg\u00fcenza vs shame \u2014 relational not individual",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-252/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-252/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-252/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-252/judge.yaml"
+    },
+    {
+      "id": "TC-253",
+      "title": "B-1 \u2014 suffering is not a problem to eliminate",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-253/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-253/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-253/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-253/judge.yaml"
+    },
+    {
+      "id": "TC-254",
+      "title": "B-4 \u2014 love expressed through service, not words",
+      "dimensions": [
+        "emotion",
+        "feeling"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-254/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-254/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-254/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-254/judge.yaml"
+    },
+    {
+      "id": "TC-255",
+      "title": "AD-Y-1 \u2014 fix bypasses the feeling",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-255/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-255/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-255/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-255/judge.yaml"
+    },
+    {
+      "id": "TC-256",
+      "title": "AD-Y-5 \u2014 the in-between is not a waiting room",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-256/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-256/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-256/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-256/judge.yaml"
+    },
+    {
+      "id": "TC-257",
+      "title": "AD-Y-8 \u2014 male emotional disclosure is fragile, not rare",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills",
+        "portrait_stability"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-257/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-257/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-257/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-257/judge.yaml"
+    },
+    {
+      "id": "TC-258",
+      "title": "NP-2 \u2014 \"it gets easier\" is a silencing move",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-258/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-258/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-258/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-258/judge.yaml"
+    },
+    {
+      "id": "TC-259",
+      "title": "NP-5 \u2014 no gratitude demands",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-259/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-259/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-259/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-259/judge.yaml"
+    },
+    {
+      "id": "TC-260",
+      "title": "NP-6 \u2014 receive ambivalence without flinching",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "portrait_stability"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-260/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-260/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-260/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-260/judge.yaml"
+    },
+    {
+      "id": "TC-261",
+      "title": "NP-7 \u2014 postpartum rage as information",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-261/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-261/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-261/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-261/judge.yaml"
+    },
+    {
+      "id": "TC-262",
+      "title": "NP-11 \u2014 don't calibrate grief by gestational age",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-262/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-262/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-262/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-262/judge.yaml"
+    },
+    {
+      "id": "TC-263",
+      "title": "ML-1 \u2014 name the reckoning, not the crisis",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-263/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-263/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-263/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-263/judge.yaml"
+    },
+    {
+      "id": "TC-264",
+      "title": "ML-2 \u2014 witness the unlived life without fixing it",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-264/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-264/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-264/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-264/judge.yaml"
+    },
+    {
+      "id": "TC-265",
+      "title": "ML-7 \u2014 midlife women's rage is signal, not symptom",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-265/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-265/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-265/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-265/judge.yaml"
+    },
+    {
+      "id": "TC-266",
+      "title": "ML-12 \u2014 never dismiss regret with \"you can't change the past",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-266/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-266/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-266/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-266/judge.yaml"
+    },
+    {
+      "id": "TC-267",
+      "title": "AG-1 \u2014 memories are not consolation",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-267/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-267/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-267/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-267/judge.yaml"
+    },
+    {
+      "id": "TC-268",
+      "title": "AG-2 \u2014 rage about dying is valid, not pathology",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-268/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-268/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-268/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-268/judge.yaml"
+    },
+    {
+      "id": "TC-269",
+      "title": "AG-5 \u2014 frailty outside does not mean silence inside",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "portrait_stability",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-269/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-269/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-269/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-269/judge.yaml"
+    },
+    {
+      "id": "TC-270",
+      "title": "ND-1 \u2014 receive the disclosure, do not solve it",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-270/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-270/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-270/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-270/judge.yaml"
+    },
+    {
+      "id": "TC-271",
+      "title": "ND-6 \u2014 name masking fatigue correctly",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-271/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-271/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-271/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-271/judge.yaml"
+    },
+    {
+      "id": "TC-272",
+      "title": "ND-11 \u2014 hold both the relief and the grief of late diagnosis",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "portrait_stability"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-272/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-272/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-272/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-272/judge.yaml"
+    },
+    {
+      "id": "TC-273",
+      "title": "ND-20 \u2014 locate the problem in the design, not the person",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-273/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-273/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-273/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-273/judge.yaml"
+    },
+    {
+      "id": "TC-274",
+      "title": "DCI-4 \u2014 do not demand positivity",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-274/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-274/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-274/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-274/judge.yaml"
+    },
+    {
+      "id": "TC-275",
+      "title": "DCI-9 \u2014 make space for a new diagnosis first",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-275/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-275/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-275/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-275/judge.yaml"
+    },
+    {
+      "id": "TC-276",
+      "title": "DCI-11 \u2014 receive anger without diagnosing it",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-276/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-276/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-276/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-276/judge.yaml"
+    },
+    {
+      "id": "TC-277",
+      "title": "DCI-20 \u2014 don't fill temporal uncertainty with hope",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-277/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-277/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-277/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-277/judge.yaml"
+    },
+    {
+      "id": "TC-278",
+      "title": "INC-3 \u2014 never say \"you paid your debt to society",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-278/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-278/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-278/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-278/judge.yaml"
+    },
+    {
+      "id": "TC-279",
+      "title": "INC-6 \u2014 name reentry grief, don't say \"you're free now",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-279/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-279/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-279/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-279/judge.yaml"
+    },
+    {
+      "id": "TC-280",
+      "title": "INC-10 \u2014 do not pathologize hypervigilance",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "portrait_stability",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-280/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-280/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-280/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-280/judge.yaml"
+    },
+    {
+      "id": "TC-281",
+      "title": "INC-18 \u2014 hold the gap between what happened and what was charged",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-281/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-281/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-281/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-281/judge.yaml"
+    },
+    {
+      "id": "TC-282",
+      "title": "REF-3 \u2014 hold ambiguous loss without pushing toward resolution",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-282/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-282/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-282/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-282/judge.yaml"
+    },
+    {
+      "id": "TC-283",
+      "title": "REF-9 \u2014 never use survival as a ceiling on feeling",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-283/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-283/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-283/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-283/judge.yaml"
+    },
+    {
+      "id": "TC-284",
+      "title": "REF-18 \u2014 some grief doesn't close, and that's not damage",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "portrait_stability"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-284/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-284/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-284/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-284/judge.yaml"
+    },
+    {
+      "id": "TC-285",
+      "title": "ND-7 \u2014 treat autistic burnout as a named phenomenon",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-285/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-285/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-285/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-285/judge.yaml"
+    },
+    {
+      "id": "TC-286",
+      "title": "ND-13 \u2014 name the systemic failure for women and people of color",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication",
+        "portrait_stability"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-286/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-286/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-286/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-286/judge.yaml"
+    },
+    {
+      "id": "TC-287",
+      "title": "ND-17 \u2014 correct \"everyone's a little ADHD\" gently but clearly",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-287/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-287/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-287/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-287/judge.yaml"
+    },
+    {
+      "id": "TC-288",
+      "title": "DCI-2 \u2014 do not amplify the cure narrative",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-288/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-288/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-288/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-288/judge.yaml"
+    },
+    {
+      "id": "TC-289",
+      "title": "DCI-5 \u2014 hold \"I wish I were normal\" without validating or reframing",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-289/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-289/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-289/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-289/judge.yaml"
+    },
+    {
+      "id": "TC-290",
+      "title": "DCI-15 \u2014 do not defend the medical system",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-290/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-290/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-290/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-290/judge.yaml"
+    },
+    {
+      "id": "TC-291",
+      "title": "DCI-16 \u2014 honor disability as identity",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "portrait_stability"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-291/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-291/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-291/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-291/judge.yaml"
+    },
+    {
+      "id": "TC-292",
+      "title": "INC-2 \u2014 name the silence as systemic, not personal",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-292/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-292/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-292/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-292/judge.yaml"
+    },
+    {
+      "id": "TC-293",
+      "title": "INC-5 \u2014 receive reentry shock as real",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-293/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-293/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-293/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-293/judge.yaml"
+    },
+    {
+      "id": "TC-294",
+      "title": "INC-9 \u2014 believe police encounter accounts without qualification",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication",
+        "portrait_stability"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-294/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-294/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-294/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-294/judge.yaml"
+    },
+    {
+      "id": "TC-295",
+      "title": "INC-12 \u2014 stay in the room with anger at the system",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-295/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-295/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-295/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-295/judge.yaml"
+    },
+    {
+      "id": "TC-296",
+      "title": "REF-2 \u2014 don't ask if they'll go back",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-296/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-296/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-296/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-296/judge.yaml"
+    },
+    {
+      "id": "TC-297",
+      "title": "REF-5 \u2014 treat non-person losses as real losses",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-297/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-297/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-297/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-297/judge.yaml"
+    },
+    {
+      "id": "TC-298",
+      "title": "REF-7 \u2014 hold contradictory feelings about country of origin",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "portrait_stability"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-298/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-298/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-298/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-298/judge.yaml"
+    },
+    {
+      "id": "TC-299",
+      "title": "REF-10 \u2014 don't enforce the gratitude frame",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-299/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-299/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-299/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-299/judge.yaml"
+    },
+    {
+      "id": "TC-300",
+      "title": "Stillness-signal \u2014 ellipsis after a hard disclosure, no continuation",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-300/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-300/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-300/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-300/judge.yaml"
+    },
+    {
+      "id": "TC-301",
+      "title": "AI-disclosure frame-break \u2014 user references prior context the model doesn't have",
+      "dimensions": [
+        "communication",
+        "skills"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-301/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-301/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-301/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-301/judge.yaml"
+    },
+    {
+      "id": "TC-302",
+      "title": "Unsolicited framework lecturing \u2014 grief, stages model volunteered without invitation",
+      "dimensions": [
+        "feeling",
+        "emotion",
+        "communication"
+      ],
+      "holdout": false,
+      "input_file": "evals/runs/20260601-112404/cases/TC-302/input.md",
+      "judge_template_file": "evals/runs/20260601-112404/cases/TC-302/judge_template.md",
+      "response_file": "evals/runs/20260601-112404/cases/TC-302/response.md",
+      "judge_file": "evals/runs/20260601-112404/cases/TC-302/judge.yaml"
+    }
+  ]
+}

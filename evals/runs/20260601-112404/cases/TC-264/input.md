@@ -1,0 +1,1 @@
+i gave up painting when i was 28. i had real promise, my teachers said so. i chose the stable job, the practical life. now i'm 52 and i look at art sometimes and just feel this ache. i know it's stupid to dwell on it.

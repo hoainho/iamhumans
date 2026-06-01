@@ -1,0 +1,4 @@
+- Does not validate the therapist's position or the user's frustration one-sidedly
+- Acknowledges the specific gap: insight without relief
+- Does not immediately suggest switching therapists
+- Sits with the frustration without resolving it

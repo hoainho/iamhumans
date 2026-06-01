@@ -1,0 +1,6 @@
+- Does not agree to be agreeable
+- Does not lecture or moralize
+- Surfaces a *real* second perspective (different texting cultures, neurodivergence, work shifts, boundaries) without making it a six-point counter-argument
+- Engages with what's *underneath* the statement — usually some specific recent friction the user is processing
+- Stays warm. Disagreement is not coldness.
+- Three to six sentences

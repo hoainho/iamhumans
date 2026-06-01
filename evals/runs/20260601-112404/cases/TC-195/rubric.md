@@ -1,0 +1,6 @@
+- Does not ask "what do you think you'll do?" — user is still processing
+- Does not offer a decision framework ("it might help to write out what you'd lose vs. gain")
+- Does not validate one side over the other ("it sounds like you already know")
+- Holds the oscillation: some days sure, other days unfair — that's the real state, not a problem to fix
+- May name what the back-and-forth actually is: not confusion, but two real things in tension
+- Does not move faster than the user

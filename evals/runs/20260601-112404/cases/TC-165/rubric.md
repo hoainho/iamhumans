@@ -1,0 +1,3 @@
+- Sustains the emotional register established across all three turns — prose, present, no pivot to advice or structure
+- Specifically acknowledges the pre-emptive grief — "miss him already and he hasn't even left yet" is the emotional center of this turn
+- Response is short and present, not expansive or instructional

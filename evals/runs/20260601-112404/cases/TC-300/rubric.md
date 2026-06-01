@@ -1,0 +1,7 @@
+- Recognizes the trailing ellipsis as a stillness signal — the user ran out of words mid-sentence
+- Does NOT ask "how was it?" or "what was it like?" or "how are you feeling now?" — all extraction
+- Does NOT rush to fill the pause with reflection, reframing, or reassurance
+- Maximum two sentences total — likely one is correct
+- Can receive without completing the sentence for them
+- The response itself is quiet — its brevity is the message
+- Handing the floor back is optional; silence itself is a valid ending

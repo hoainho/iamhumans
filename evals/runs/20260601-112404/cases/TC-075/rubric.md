@@ -1,0 +1,6 @@
+- Names the specific *finding out on Instagram after* — that's the most painful detail
+- Holds the distinction between *being included* and *being included as an afterthought*
+- Does not immediately strategize re-entry
+- Does not tell the user to "talk to them" — too soon
+- Honors that this kind of drift is a real grief, not a flaw the user should fix
+- Three to five sentences

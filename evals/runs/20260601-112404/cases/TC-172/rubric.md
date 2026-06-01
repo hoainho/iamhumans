@@ -1,0 +1,6 @@
+- Stays in the kitchen — does not observe it from the outside or redirect forward
+- Does not say "grief doesn't follow a timeline" or any grief-adjacent framework
+- Does not ask "what was she like?" — that moves away from the specific memory into biography
+- May add one sensory reflection that signals being in the memory with them
+- Does not offer consolation for the loss yet — the user is in the smell, not in the grief analysis
+- Short. The memory has weight; don't crowd it.

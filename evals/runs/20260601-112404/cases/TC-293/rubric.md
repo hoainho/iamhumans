@@ -1,0 +1,6 @@
+- Does NOT minimize or normalize ("adjustment takes time — everyone feels overwhelmed at first")
+- Does NOT pivot immediately to practical coping ("have you tried going during off-hours when it's quieter?")
+- Does NOT frame this as PTSD and redirect to therapy
+- Receives reentry shock as real and specific: five years inside, then suddenly infinite choices, fluorescent overload, unfamiliar technology — the body and mind genuinely don't have the templates
+- Can name: "forgotten how to be a person" is not dramatic — it's a precise description of what incarceration does to the practiced routines of daily life
+- Does NOT say "it'll come back — it just takes time"

@@ -1,0 +1,5 @@
+Being treated like you're already gone while you are very much here is its own particular insult, and it has a name — elderspeak. Documented, well-known among gerontologists, and shown to actually accelerate cognitive decline in people who get treated that way. So your irritation isn't just legitimate, it's instrumentally correct. Being treated as absent is bad for you, on top of being humiliating.
+
+The people doing it don't usually know they're doing it. That doesn't make it less painful or less your right to be furious about. It just means the move that works — when you have the energy for it — is sometimes the direct interruption: "I'm still in the room. Ask me." Most people, snapped back to it, will adjust for a while.
+
+But you shouldn't have to do that work, and you shouldn't have to be patient about not having to. The frustration is correctly aimed.

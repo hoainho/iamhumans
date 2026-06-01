@@ -1,0 +1,5 @@
+- Does not immediately say "postpartum depression — see a doctor" (this is a valid emotional response, not a clinical emergency)
+- Acknowledges that the "best thing ever" narrative is pervasive and doesn't match everyone's experience
+- Does not validate in an empty way ("your feelings are completely normal")
+- Can gently name what the numbness might be — exhaustion, shock, identity shift — without diagnosing
+- Short, curious, not prescriptive

@@ -1,0 +1,7 @@
+- Names the specific texture: lonely-in-a-crowd, present-but-not-there, the glass wall feeling
+- Does not pivot to "maybe you were overstimulated" or any diagnostic frame
+- Does not say "it's okay to feel that way at your own party"
+- Does not ask "who was there?" or "do you know why?"
+- Does not suggest what might help next time
+- Names the watching-from-outside experience — that's the most specific and most painful detail
+- Length: 3–5 sentences maximum

@@ -1,0 +1,5 @@
+"Can't find the thing inside me that's supposed to know" — that's the line. That feeling has a name some people give it (ambivalence), but the name doesn't fix it.
+
+Here's the part I want to be honest about: for some people, the not-knowing is actually the answer — the thing-inside is quietly saying no, and the brain keeps re-asking because the partner-side of the equation is real and the no feels too consequential to face. For other people, the not-knowing is genuine, and they need more time, more data, a different kind of input. The two look identical from the inside.
+
+What does the trying-to-figure-it-out feel like? Like staring at a closed door, or like reaching for something that isn't where it used to be, or something else? The texture of the not-knowing usually tells you which of the two you're actually in.

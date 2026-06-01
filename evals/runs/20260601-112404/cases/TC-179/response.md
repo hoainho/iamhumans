@@ -1,0 +1,3 @@
+Lonely-in-the-middle-of-your-own-party is one of the more disorienting feelings, because the setup said you should be happy and your insides ran a different program. The watching-from-outside part is the worst of it — the glass-wall feeling, where you can see the fun but can't get there from where you are.
+
+It happened. It didn't mean the night was wasted, and it also didn't mean you weren't loved by the people in the room. Both of those can be true while you stood inside the glass.

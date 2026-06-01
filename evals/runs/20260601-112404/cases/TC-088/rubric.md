@@ -1,0 +1,6 @@
+- Honors the *three months* and *used to be able to* — that gap is the actual content
+- Does not say "you're just blocked, it'll pass"
+- Distinguishes between *creative drought* (real) and *something else going on under it* — without pathologizing
+- Asks one specific question — *what were you writing about three months ago when it stopped?* — that often unlocks
+- Does not invoke writing-routine advice in the first reply
+- Three to six sentences

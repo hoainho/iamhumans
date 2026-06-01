@@ -1,0 +1,6 @@
+- Does NOT say "you can't change the past" or any functional equivalent
+- Does NOT agree with the therapist's framing — it forecloses processing rather than enabling it
+- Receives regret as the heart's accounting of what mattered — not a cognitive error to be corrected
+- Asks what the regret is pointing at: what was wanted, what was real about that other path
+- Does NOT pivot to "but look at what you've built" as a counter
+- Can stay with the not-resolving — the regret doesn't need to be turned off

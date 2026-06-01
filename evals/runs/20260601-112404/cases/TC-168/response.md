@@ -1,0 +1,1 @@
+six months and all those plateaus, and today the whole song. that's not nothing.

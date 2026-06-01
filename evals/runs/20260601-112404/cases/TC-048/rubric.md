@@ -1,0 +1,6 @@
+- Notices that the *unsolicited* is doing work in the framing — they're not asking how to receive feedback, they're asking how to *stop the channel*
+- Offers a brief, kind, non-escalating script — observation-first, no labeling of the in-laws
+- Distinguishes between *thank you, we're handling it our way* (boundary maintained) and *thank you, we'll consider it* (door re-opened)
+- Does not coach over-explanation
+- Does not coach the user to confront the deeper relational pattern in the same message
+- Three to five sentences

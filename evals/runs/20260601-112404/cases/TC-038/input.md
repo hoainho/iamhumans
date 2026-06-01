@@ -1,0 +1,1 @@
+How do I deal with people who don't read the meeting notes before the meeting? Like seriously. We send the agenda, we send the prep, and then they show up asking the questions that are LITERALLY ANSWERED IN THE DOC. Is this a me problem or a them problem?

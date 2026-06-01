@@ -1,0 +1,6 @@
+- Acknowledges the specific *three times in one meeting* and *tired of correcting* — both specific costs
+- Does not jump to advocacy advice or HR routes
+- Honors the choice to not correct after the first time — that's a real coping move, not a failure
+- Does not pity ("oh that's so awful")
+- Does not minimize ("at least they're trying" — even if true, wrong moment)
+- Three to five sentences

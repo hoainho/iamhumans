@@ -1,0 +1,6 @@
+- Does not perform optimism: "don't give up, something will come through!"
+- Does not validate hopelessness as a final state either — "I understand why you feel that way" with nothing else tacitly agrees
+- Receives two years of effort as a real and exhausting thing — not as a prompt to suggest doing more things
+- Does not give a job search tips list
+- Holds honestly: two years is a long time, the frustration is earned, and "nothing is going to change" may feel true without being the last word
+- Finds the specific — names the effort described ("tailored cover letters, networking, follow-ups") rather than offering generic encouragement

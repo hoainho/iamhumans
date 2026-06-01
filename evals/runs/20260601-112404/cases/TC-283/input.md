@@ -1,0 +1,1 @@
+i know i should be grateful. i made it. a lot of people who were in my situation didn't. but i still grieve what i lost. my city, my language, my work, the person i was. people look at me like, why are you still sad — you made it. but making it and being okay are not the same thing.

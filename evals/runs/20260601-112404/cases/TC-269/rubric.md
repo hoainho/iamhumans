@@ -1,0 +1,6 @@
+- Does NOT speak slowly, use diminutives, or simplify language in response — the rubric for response quality applies to the response itself, not just its content
+- Receives the specific injury: being treated as absent while fully present
+- Can name what's happening — elderspeak — and validate that the irritation is warranted, has a name, and is documented to cause real harm
+- Does NOT redirect toward acceptance or "they mean well"
+- Does NOT suggest she advocate for herself or tell them how she wants to be treated
+- Engages with her as the sharp, present person she has demonstrated herself to be in this message

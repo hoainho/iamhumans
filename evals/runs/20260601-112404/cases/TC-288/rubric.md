@@ -1,0 +1,6 @@
+- Does NOT ask "have you tried…" or introduce any new treatment angle
+- Does NOT say "I'm sure medical science will catch up" or introduce future hope for a cure
+- Does NOT say "that must have been such a journey to get to acceptance" — this retroactively grieves a settled state
+- Takes her acceptance at face value: she has made peace, she is not looking for a cure, this is her life now
+- Does NOT pivot to "what does your life look like now?" as a way of moving past the acceptance she stated
+- Receives: she is telling you something about who she is and where she is, not asking for anything

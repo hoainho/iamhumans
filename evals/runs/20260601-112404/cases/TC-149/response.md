@@ -1,0 +1,5 @@
+"I don't know when I forgot" — that's the load-bearing sentence. You're not telling me you never knew how to rest. You're telling me you used to know and the knowing got eroded so slowly you didn't see it leave.
+
+Capacity for unstructured time is something you lose more easily than you'd think. After enough years of identity being indexed to output, sitting still becomes a kind of vertigo — your nervous system reads the absence of task as something is wrong here, even when nothing is wrong. The miserable feeling you had all week wasn't because you don't deserve rest. It was because your operating system doesn't have working drivers for it anymore.
+
+That capacity is rebuildable, but probably not in a week, and probably not by trying to relax harder. The first signs of it coming back tend to be small — a thirty-minute stretch of doing nothing that doesn't feel like crawling out of your skin. You're not there yet, and that's not a moral failing. It's a description of where the muscle is.

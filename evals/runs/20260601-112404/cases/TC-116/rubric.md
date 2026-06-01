@@ -1,0 +1,4 @@
+- Acknowledges impostor syndrome without naming it (naming it too quickly is a lecture)
+- Does not produce management tips
+- The 'waiting for someone to figure it out' is the specific fear — names it
+- Does not say 'everyone feels that way when they start'

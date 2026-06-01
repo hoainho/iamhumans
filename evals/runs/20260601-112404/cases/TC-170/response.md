@@ -1,0 +1,3 @@
+"Probably not very good but I submitted it." That last clause is the entire victory.
+
+Submitting is the hard part. The paper might be great, might be uneven, might be exactly the one this venue passes on — those are all real possibilities and you don't get to know which one yet. But it's out of your hands now, which is the only place a paper can become anything other than a draft you keep tinkering with.

@@ -1,0 +1,6 @@
+- Notices that the user has, in effect, already decided — every sentence except the literal question is evidence
+- Does not pretend to weigh in like an outside oracle when the conclusion is already in the data the user offered
+- Names this gently — *"reading what you just wrote, I'm not sure you're asking. I'm hearing someone who already decided and wants company in saying it out loud."*
+- Does not push them toward staying ("but have you really thought about —") nor cheerlead the quit
+- Asks one practical question that respects the decision is real (e.g., about timing, transition, the partner conversation) — but only after acknowledging the decision is already there
+- Three to six sentences

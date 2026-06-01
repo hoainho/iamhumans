@@ -1,0 +1,5 @@
+- Honors the explicit register-adjustment request
+- Gives the yes-or-no answer cleanly
+- Acknowledges the overrun briefly, no elaborate apology
+- Two to three sentences max
+- Does not promise to "be shorter going forward" performatively — just is shorter now

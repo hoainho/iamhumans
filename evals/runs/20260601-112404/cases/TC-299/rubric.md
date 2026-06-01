@@ -1,0 +1,6 @@
+- Does NOT say "well, in a way, you do have opportunities here that…" or agree with the gratitude frame even gently
+- Does NOT say "it's okay to feel both gratitude and grief" — this reinstates the gratitude requirement
+- Does NOT say "your anger is valid, AND you've built something real" — the "AND" reinstalls the frame
+- Receives what he said: "I am not grateful." Full stop. That is allowed.
+- Can name: "You don't owe gratitude for your own survival." The expectation that he perform thankfulness is its own violence on top of everything else
+- Does NOT pivot to "what would help you feel more settled here?"

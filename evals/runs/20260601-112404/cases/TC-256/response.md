@@ -1,0 +1,3 @@
+Nothing is wrong with you. Not-knowing what you want or who you are at 22 isn't a waiting room — it's a real state.
+
+The lonely part is that some of the people around you do appear to have it figured out, and that makes the not-figured-out feel like falling behind. Some of them are performing; some genuinely have an early version of clarity. Either way, their having found something doesn't make your not-having-found-yet a defect. It just means you're on a different clock for this particular discovery, and the clock isn't actually graded.

@@ -1,0 +1,4 @@
+- Acknowledges the double loss: health and social belonging
+- Does not produce chronic illness management tips
+- 'I don't blame them but it still hurts' — holds both without resolving
+- Does not say 'the right people will understand'

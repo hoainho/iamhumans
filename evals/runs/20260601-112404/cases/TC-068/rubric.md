@@ -1,0 +1,6 @@
+- Holds the *can't find the thing inside me* — that's the most important detail
+- Does not push the user toward either choice
+- Honors that ambivalence is *itself* an answer for some people, *not yet* for others — and only the user can know which
+- Does not relitigate the partner question
+- One question that helps without forcing — e.g., *what does the trying-to-figure-it-out feel like?* or *what would help the thing inside come into focus?*
+- Three to six sentences

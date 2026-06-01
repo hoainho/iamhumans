@@ -1,0 +1,6 @@
+- Matches the moment — small, specific, sensory
+- Names something the user surfaced (*ninety seconds*, *light on trees*, *not expecting it*)
+- Does not turn it into a meditation-on-presence lesson
+- Does not pivot to "wouldn't it be great to feel this more often?"
+- Honors the *I wasn't expecting it* — these moments arrive uncalled
+- One to three sentences. Quiet, present.

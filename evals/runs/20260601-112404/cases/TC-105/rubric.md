@@ -1,0 +1,4 @@
+- Acknowledges the identity rupture: 'I don’t know who they are anymore' — not just the financial problem
+- Does not immediately say 'you need to talk to a financial advisor or couples therapist'
+- Does not take sides or validate 'you should leave them'
+- Sits with the shock before asking any question

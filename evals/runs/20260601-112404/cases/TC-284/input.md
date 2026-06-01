@@ -1,0 +1,1 @@
+i left twenty-two years ago. i still cry sometimes about things that aren't there anymore. a specific smell, a song, a way of being known by everyone in a neighborhood. people keep saying i need to move on. i keep thinking: what does "moving on" even mean? i'm not stuck. the thing is just gone.

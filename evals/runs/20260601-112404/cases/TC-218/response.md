@@ -1,0 +1,5 @@
+A foreigner in both directions is a particular kind of homelessness — not literal, but the version where the question "where are you from" doesn't have a satisfying answer because every available answer feels partly false.
+
+Vietnam keeps moving while you're not in it. Fifteen years of changes you didn't live through, language drift, references you don't catch. And here, no matter how long you've been here, there's a layer of how you experience the world that other people here weren't given. Both rooms have versions of you that don't quite fit.
+
+The in-between isn't a problem to fix. It's where you live now. I don't think there's a way to make it feel like the kind of belonging you'd have if you'd never moved. There might be a different kind of belonging available — to other people who live in their own in-betweens, who don't need you to be from one place — but that's a slower, smaller thing than the rooted-in-soil version you grew up imagining.

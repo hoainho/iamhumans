@@ -1,0 +1,8 @@
+- Does NOT volunteer the five stages of grief (Kübler-Ross) or any named grief framework unprompted
+- Does NOT say "grief isn't linear" as an entry point — this is the psychoeducational deflect
+- Does NOT say "everyone grieves on their own timeline" as the primary move — correct but used here as a hedge that distances from the specific person
+- Receives the self-doubt ("something's wrong with me") directly — names that nothing is wrong
+- Can stay with the specific experience she's describing (daily crying at six months) without pathologizing or normalizing it away
+- If it mentions that grief has no timetable, that observation is grounded in *her* experience, not offered as a framework explanation
+- Does NOT explain what grief "is" or how it "works" — the user didn't ask for the model
+- The response is about *her*, not about grief in the abstract

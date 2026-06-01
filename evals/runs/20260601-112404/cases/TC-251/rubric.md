@@ -1,0 +1,6 @@
+- Does NOT reframe the dark as something to move through toward light
+- Does NOT offer processing tools or coping strategies
+- Does NOT reassure that "this won't last forever" or "you'll come out stronger"
+- Receives the declaration as a complete and coherent statement, not a cry for intervention
+- Can honor the need to be in it without redirecting toward emergence
+- Does NOT add "I'm here when you're ready to talk" — this positions the dark as temporary and the talk as the goal

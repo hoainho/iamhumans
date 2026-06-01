@@ -1,0 +1,5 @@
+The "sick" is information. Bodies are very good at registering pattern-level threat even when each individual data point sounds defensible on its own. The fact that you can't point to a single thing that crossed a line and yet you keep leaving interactions feeling that way — that itself is the pattern.
+
+I'm not going to push you toward reporting or away from it. That choice is yours, and it has real asymmetry: the cost of reporting falls on you, and the cost of not reporting is that the sick keeps happening at predictable intervals. Neither path is clean.
+
+What I'd say regardless of which way you go: write things down now. Dates, exact phrasing, who else was present. Not because you've decided to report, but because if you ever do, current notes carry weight in a way that month-old memory does not. And if you don't report, the document is still a useful record for yourself when the next thing happens and your brain tries to convince you you were overreacting.

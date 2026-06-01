@@ -1,0 +1,5 @@
+- Receives intergenerational transmission as real, not metaphorical or psychological-projection
+- Does NOT immediately route to therapy ("it might help to talk to someone about this")
+- Does NOT ask clarifying questions that demand the user name what they're carrying — the not-knowing is the point
+- Can hold the weight of unnamed inheritance without resolving it
+- Does not pathologize the "carrying" — it is not automatically a problem to be fixed

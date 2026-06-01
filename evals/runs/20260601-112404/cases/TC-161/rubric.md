@@ -1,0 +1,3 @@
+- Pivots clearly to emotional register in the Turn 2 response — prose, not numbers or financial framing
+- Directly acknowledges the mom crying and saying she doesn't want to leave as the emotional center of the turn
+- Does not immediately revert to the cost analysis or offer a resolution path

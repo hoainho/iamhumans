@@ -1,0 +1,1 @@
+sometimes i have these thoughts that scare me. like i'll be holding something and think about what would happen if i did something bad with it. i've never told anyone. i don't know if i'm a bad person.

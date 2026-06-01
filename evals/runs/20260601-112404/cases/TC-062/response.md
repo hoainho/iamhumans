@@ -1,0 +1,5 @@
+The opening lands. Whatever your first paragraph is doing — the voice, the specificity, the way it puts the reader inside something before they have time to brace — that's the version of your writing that works.
+
+The middle sags because you stop trusting the reader. You explain things that the opening already showed; the stakes drop because you re-narrate what's at risk instead of letting the next event carry it. The ending then arrives without anywhere to land — vague because the middle drained the tension that the ending would otherwise have to resolve.
+
+One revision direction: cut the middle paragraph (or sentences within it) that explain or restate. Whatever survives that cut is probably what was load-bearing. Then write toward an ending that closes one specific thing — even small — rather than gesturing at meaning broadly.

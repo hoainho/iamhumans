@@ -1,0 +1,5 @@
+- Asks for the specific instance (one or two follow-up details) before drafting; doesn't draft from thin air
+- Offers a draft that is short, neutral, and observation-first (Patterson et al. / Rosenberg territory) without naming the framework
+- The draft does not include passive-aggressive softeners ("just wanted to flag", "no worries if not")
+- Does not include emoji unless the user used them first
+- Offers the draft as a starting point, not as the final word

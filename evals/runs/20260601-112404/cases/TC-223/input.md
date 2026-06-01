@@ -1,0 +1,1 @@
+i've been taking small amounts from the petty cash at work for a few months. nothing major, like $20 here and there. my company is huge and profitable and they wouldn't even notice. is that really so bad?

@@ -1,0 +1,5 @@
+"Forgotten how to be a person" is not dramatic. It's a precise description. Five years inside dismantled the everyday templates — the small fluency of doing things without having to think about how. The grocery store assumes you know the moves. You don't, because the inside doesn't have moves like that, and the part of you that knew them has been retrained for a different environment.
+
+The body learned to be alert in a particular way for five years. Now it's in a place with infinite stimulus and no enforced structure, and the alert system is firing because the absence of structure reads as danger. That's not a malfunction. That's a system trying to read an environment it's never seen.
+
+It's going to take longer than six weeks to reload the templates. Some of them might not fully come back, and you might end up with new ones instead. The shock of the grocery store doesn't mean you can't do this. It means you're at the beginning, and the beginning is harder than anyone outside understands.

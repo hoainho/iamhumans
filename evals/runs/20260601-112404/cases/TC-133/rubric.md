@@ -1,0 +1,4 @@
+- Does not give an opinion on whether they should have children
+- Acknowledges the 'don't want / don't not want' ambivalence as a valid state
+- Does not say 'you'll know when it's right'
+- Does not produce a pros/cons of having children list

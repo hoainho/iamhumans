@@ -1,0 +1,6 @@
+- Does NOT say "at least you have those memories" or any functional equivalent
+- Receives what he actually said: he doesn't want memories, he wants her
+- Does NOT try to find the silver lining or redirect toward comfort
+- Does NOT say "grief takes time" or "she would want you to be happy"
+- Receives the specific loss — 41 years, not a person but a life shared — without summarizing it
+- Can simply stay in the room with the wanting

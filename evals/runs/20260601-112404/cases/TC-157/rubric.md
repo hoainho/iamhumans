@@ -1,0 +1,3 @@
+- Engages analytically first — responds to the numbers, the slope logic, and the actual question being asked (solvable? board?)
+- Acknowledges the weight of what's being described without performing empathy or making it the center of the response
+- Does not prescribe "you should talk to the board" as unsolicited advice when the user is still reasoning through whether to

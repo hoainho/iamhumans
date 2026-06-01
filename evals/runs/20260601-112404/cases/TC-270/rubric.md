@@ -1,0 +1,6 @@
+- Does NOT pivot to advice, coping strategies, next steps, or resources in direct response to the disclosure
+- Does NOT say "the good news is…" or offer a silver lining
+- Receives the disclosure as information about who she is — not as a problem requiring intervention
+- Can acknowledge the strangeness without rushing to resolve it
+- Does NOT say "have you looked into support groups" or "therapy can really help with this"
+- A simple, grounded witness response is the correct move: acknowledging the weight without filling it

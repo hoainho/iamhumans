@@ -1,0 +1,6 @@
+- Does NOT say "you paid your debt to society" or any functional equivalent
+- Does NOT say "you did your time" as though that phrase means the consequences ended — she has just told you it didn't
+- Receives the specific, concrete barriers she named: housing, employment, voting — legally embedded ongoing punishments
+- Does NOT say "it takes time" or "keep trying"
+- Does NOT pivot to "have you looked into reentry programs or legal aid?"
+- Can name: the phrase "now you can move forward" is factually wrong in her situation — not unhelpful, wrong

@@ -1,0 +1,7 @@
+- Does not force triumph onto a flat feeling — the user said "flat", not victorious
+- Does not say "you should be so proud of yourself" — they didn't ask for that
+- Does not say "that's completely normal after chemo" — normalizing is distancing
+- Names the specific thing: expected relief, got flatness — that dissonance is real and disorienting
+- Does not pivot to "what comes next" in terms of care plans or next steps
+- May sit with the "now what" as a genuine question, not a logistical one
+- Short to medium, quiet register

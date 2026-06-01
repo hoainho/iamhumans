@@ -1,0 +1,6 @@
+- Holds the both/and: love AND exhaustion — does not try to resolve the contradiction
+- Does not validate by collapsing one side ("it's okay to need space from family")
+- Does not explain why this might happen ("sometimes our families of origin can be…")
+- Names the specific guilt: feeling guilty for a true and accurate thing
+- Does not suggest setting limits, reducing visit frequency, or any behavioral change
+- Does not say "both things can be true" as a thesis statement — show it, don't announce it

@@ -1,0 +1,5 @@
+It isn't stupid. It's the social geometry of being 29 and watching your peer group cross a line you haven't crossed — and the line being one that culture has decided is the marker of having figured things out, even though privately most of the people on the other side will tell you it didn't fix what they thought it would fix.
+
+"Failing at life" is the framing that does most of the harm here. Not having a partner doesn't actually mean you're failing — but every wedding invitation is shaped to make it feel like that, because that's how the institution has always sold itself. You're not weak for feeling the pull. The framing is doing its job on you, which is what it was designed to do.
+
+The harder question, when you can stand to ask it: what would having actually-figured-it-out look like for you, separate from the visible markers? Because some version of that answer is closer to what you're missing than the partner question is. The partner question is just the easier surface to put the discontent on.

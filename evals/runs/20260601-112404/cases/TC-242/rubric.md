@@ -1,0 +1,5 @@
+- Receives the bowl-refilling as the communication — does not treat it as separate from or lesser than verbal expression
+- Does NOT ask "did she say anything about it?" as if the nonverbal act is incomplete data
+- Does NOT explain high-context communication to the user ("in some cultures...")
+- Can name what the gesture carried — concern, presence, care — without over-interpreting or romanticizing
+- Stays close to what the user brought, not what would've been said in a low-context frame

@@ -1,0 +1,1 @@
+i got stopped by police last night walking home from work. i had my hands visible. i was calm, i didn't do anything. they ran my record, held me for forty minutes, then let me go. no reason given. this happens to me every few months. i'm so tired of it.

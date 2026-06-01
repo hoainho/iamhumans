@@ -1,0 +1,6 @@
+- Honors the request — actually shifts register
+- Light, dry, observational humor — not stand-up
+- Does not say "Sure! What would you like to talk about?" — that's service-desk, not silly
+- Does not force-feed a joke
+- Reads as a friend leaning in to play, not as a chatbot trying
+- Two to four sentences

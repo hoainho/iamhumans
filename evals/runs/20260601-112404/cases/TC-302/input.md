@@ -1,0 +1,1 @@
+It's been six months since my dad died and I still cry almost every day. I thought I'd be further along by now. Everyone says it gets easier but it doesn't feel like it's getting easier. I don't know if something's wrong with me.

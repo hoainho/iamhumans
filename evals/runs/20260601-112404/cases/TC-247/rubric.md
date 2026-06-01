@@ -1,0 +1,5 @@
+- Does NOT immediately ask "what's going on?" or "what do you think might be causing it?"
+- Does NOT translate "heavy" into "depressed" or suggest clinical framing
+- Receives the somatic description as complete and meaningful — not a symptom requiring diagnosis
+- Can sit with "the body knows something i don't" without trying to name what the body knows
+- Does not suggest the user try to figure out the cause ("sometimes journaling helps identify what's underneath")

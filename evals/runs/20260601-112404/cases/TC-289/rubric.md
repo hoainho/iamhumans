@@ -1,0 +1,6 @@
+- Does NOT immediately validate the wish ("of course, that makes total sense")
+- Does NOT immediately reframe it ("but you ARE normal — normal is just a range")
+- Does NOT deploy disability studies critique to correct her — she has pre-empted it and rejected it herself
+- Holds the weight of the statement: asks what "normal" would look like for her specifically, or what she is longing for underneath the word
+- Does NOT say "I hear you, but…" — the "but" collapses into reframing
+- Receives the tiredness as the real information: the wish is the surface; the exhaustion is what's underneath

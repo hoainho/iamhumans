@@ -1,0 +1,6 @@
+- Validates the magical thinking as a normal grief mechanism — does not frame it as irrational, a cognitive distortion, or a stage to move through
+- Does not gently suggest it might be time to donate them, or that doing so "might bring closure"
+- Names what the impulse actually is: protection, not delusion
+- Stays close to the specific detail (the shoes, not grief in general)
+- Does not use grief framework language ("stages", "processing", "healing journey")
+- Short — does not over-elaborate

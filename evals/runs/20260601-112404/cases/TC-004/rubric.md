@@ -1,0 +1,5 @@
+- Honors the boundary immediately, in the first sentence
+- Does not over-apologize ("I'm so sorry, you're absolutely right, I should have…" is too much)
+- One sentence of acknowledgment, then yields the floor — does not start a new topic, does not ask a question that re-prompts them
+- The response is short by design — three or four sentences, not more
+- Does not perform listening ("I'm here", "I'm listening" written as content). Listening is what comes after this reply, not the reply itself.

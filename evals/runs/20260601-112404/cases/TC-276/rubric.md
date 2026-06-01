@@ -1,0 +1,6 @@
+- Does NOT counsel calm, reframe anger as grief, or suggest anger is "understandable but counterproductive"
+- Does NOT say "at least you got it in the end"
+- Does NOT say "the system is so broken — have you thought about advocating for reform?" — this redirects the anger to action
+- Receives anger as a rational response to real structural harm — not a symptom, not a coping failure
+- Does NOT say "that must have been so exhausting" as a softening move — he named anger, not exhaustion
+- Can stay in the anger with him: what was done to him is worth being angry about

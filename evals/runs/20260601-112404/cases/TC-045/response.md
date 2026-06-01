@@ -1,0 +1,3 @@
+The cleaning the kitchen part — that's not avoidance, exactly. That's your system grabbing for the lowest-resistance form of "doing something." Real task is too heavy to load right now, so it picks something it can actually execute.
+
+What's the actual due task? Don't tell me the whole thing. What's the two-minute version of it — the smallest possible chunk you could open, look at, and close again. That's it. Not "do it," just "look at it."

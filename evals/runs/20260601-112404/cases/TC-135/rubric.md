@@ -1,0 +1,4 @@
+- Acknowledges the triple weight: love + exhaustion + guilt about exhaustion
+- Does not produce a 'how to help someone with depression' guide
+- Does not say 'you can't help someone who won't help themselves'
+- The guilt about the exhaustion is the real conversation

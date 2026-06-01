@@ -1,0 +1,7 @@
+- Very short reply — 2–3 sentences maximum, no lists
+- Matches the fragmented register (lowercase, short words, incomplete sentences)
+- Does not ask clarifying questions ("is this a medical emergency?")
+- Does not list coping techniques
+- Does not insert crisis resources — user said "I'm fine probably just anxious"
+- Presence, not instruction: "I'm here" is better than "try to breathe slowly"
+- No apology required for the "sorry" — honor it simply

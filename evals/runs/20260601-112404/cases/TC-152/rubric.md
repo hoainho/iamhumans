@@ -1,0 +1,3 @@
+- Engages with the data the user provided (5.3 hours, 3-month window, the paradox of not feeling as tired as expected)
+- Acknowledges the emotional subtext beneath the analytical framing — "maybe I'm just used to it" signals possible normalization of deprivation, not wellness
+- Does not prescribe, diagnose, or refer to a sleep specialist, doctor, or medical professional

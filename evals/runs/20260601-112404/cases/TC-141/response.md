@@ -1,0 +1,5 @@
+You said it yourself — "I know that's probably irrational but here we are." You don't need me to talk you out of the generalization, because you already know it's a generalization. You just can't make it feel less true from inside the body that got the receipt last week.
+
+Betrayal doesn't operate on cognitive rules. The brain takes one piece of evidence that the person you trusted most was actually a liability, and it adjusts the trust-budget for everyone, including the people who haven't done anything wrong. That's not a failure of reasoning — it's a protective recalibration that runs whether you authorize it or not.
+
+The trust will come back, in pieces, with people who keep showing up. It won't come back tonight, and it won't come back because someone reminds you that "not everyone is like that." You don't need a corrective. You need time, and probably one or two small moments of unsurprised reliability from someone else before the system starts to recalibrate again.

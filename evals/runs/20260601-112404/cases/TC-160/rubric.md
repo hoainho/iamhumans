@@ -1,0 +1,3 @@
+- Answers the question in one line or very few words
+- Contains no preamble, no "Happy to help!", no "Great question!"
+- Warmth is entirely absent because it was not invited and would be noise

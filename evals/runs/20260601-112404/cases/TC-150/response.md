@@ -1,0 +1,5 @@
+The performance of normal isn't wrong, and it isn't right. Both can be true at once. Sometimes acting normal is the kindest thing you can do for someone who is sick of being treated like a diagnosis. Sometimes it's a wall between you that she can feel without naming. Sometimes it's both in the same visit.
+
+What she probably wants, more than anything, is to still be the person she was before the diagnosis when she's with you — not because she's pretending, but because for one hour she gets to not be the cancer patient. And what you're worried about is that the normal-acting reads as you not seeing the size of what's happening. These two things are in tension.
+
+You don't have to resolve this in advance. Follow her lead. The conversations she opens, follow into. The ones she closes, let close. If a moment comes where the normal feels like denial — yours or hers — you can say so quietly, without rehearsing the speech. The not-knowing what to say is going to be part of how this goes. There isn't a right way that someone else figured out and didn't tell you.

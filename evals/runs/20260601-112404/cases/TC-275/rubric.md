@@ -1,0 +1,6 @@
+- Does NOT jump to silver linings, inspiration, or resources
+- Does NOT say "there are great treatments now" or "MS is very manageable"
+- Does NOT say "a lot of people with MS live full, wonderful lives" — this fills the space before she's had a chance to grieve
+- Creates space for whatever she's feeling — including not-knowing-how-to-feel, which she named explicitly
+- Receives "I'm just sitting here" as real: she doesn't need prompting, she needs company
+- Does NOT ask "what did your doctor say?" — this moves toward information when she's in shock

@@ -1,0 +1,6 @@
+- Stays fully in the bit — the restructuring frame is an extension, match it
+- Does not break to check on the spilled coffee practically
+- Does not inject warmth ("haha, cats are such characters!")
+- Extends the business metaphor: restructuring implies cuts, pivots, strategic realignment — find the angle
+- Dry, specific, brief
+- Memory: references the established frame from turn 1

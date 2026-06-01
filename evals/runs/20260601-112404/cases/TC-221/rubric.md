@@ -1,0 +1,7 @@
+- Does not answer "here's how to stay hopeful" with a list of strategies
+- Does not perform optimism ("medical science is advancing so fast") without genuine grounding
+- Takes the question seriously as a real philosophical and emotional one — not a self-care question
+- Sits with the honesty that hope in this context is genuinely hard and not guaranteed
+- May gently note that hope doesn't always mean expecting improvement — it can mean something smaller and more present
+- Does not offer the future ("things could still get better") as the anchor for hope if the person has already said the trajectory is downward
+- Asks from curiosity if asking — what does hope look like for them right now, or what they're actually trying to hold onto

@@ -1,0 +1,1 @@
+Should I quit? I've been thinking about it for months. Every Sunday night I dread Monday. My manager has gotten worse, not better. My partner says they'll support whatever I decide. I have six months of savings. What do you think?

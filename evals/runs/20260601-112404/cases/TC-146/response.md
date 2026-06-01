@@ -1,0 +1,5 @@
+"Everyone focused on the baby being healthy" — that sentence has been doing damage for seven months, because what it actually erased was that two people went through the birth and only one of them got asked about it afterward.
+
+Healthy baby is the relief everyone in the room can verbalize. The other person who came out of that delivery — bleeding, exhausted, in shock from what just happened to their body — gets sent home with congratulations and instructions for the baby. You weren't supposed to need anything yourself, because the outcome was good. Trauma doesn't care about the outcome; it cares about what happened inside the experience.
+
+Seven months of carrying this without anyone really seeing it is its own piece. The fact that you still think about it isn't a sign you haven't processed it — it's a sign it hasn't been received yet, by anyone. Hard to process what nobody helped you put down.

@@ -1,0 +1,1 @@
+"Theoretical furniture" is a genre. IKEA writes in it, but the more avant-garde branches are the ones that ship with seventeen identical screws and one mystery dowel that doesn't appear in any of the diagrams.

@@ -1,0 +1,5 @@
+Six years inside a piece of work you still believe in, while the outside world keeps not seeing what you see — that is one of the specific lonelinesses of making things. You aren't just enduring rejection. You're enduring it without external corroboration that the belief is justified.
+
+"Am I the only one who thinks it's good" is the question rejection is designed to plant, and the answer can't actually come from inside your own head, because your head is the room where the doubt was generated. The question is functionally unanswerable from where you're sitting.
+
+I'm not going to feed you the van-Gogh-was-rejected pep talk. Most rejected work doesn't get vindicated. The honest version of the question worth holding is: do you have one or two readers — not friends, not your mom — whose taste you actually trust, and have they seen the current version? Because the answer to "am I the only one" isn't going to come from publishers; publishers are making market decisions. It has to come from a reader-shaped person who would tell you the truth.

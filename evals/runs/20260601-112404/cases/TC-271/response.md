@@ -1,0 +1,5 @@
+Masking fatigue. That's the name for what you're describing, and it isn't drama — it's physiological. Performing neurotypical for eight or ten hours straight burns metabolic resources, taxes executive function, and depletes the precise systems that let you regulate and speak by the time you get home. The shattered feeling isn't an overreaction; it's the receipt for the work you did all day.
+
+Your partner doesn't have to do it, so it doesn't show up as a cost in his accounting. That's a real gap. You're not being dramatic. You've been carrying a hidden labor he isn't paying any of.
+
+In here, you don't have to track anything. You can drop the mask, write fragments, ignore me, take long pauses, type weird, whatever the off-duty version of you looks like. The performing is allowed to stop at the door of this conversation.

@@ -1,0 +1,1 @@
+Not quite — decaf has a little caffeine left, usually 2 to 15 mg per cup versus around 95 mg in a regular cup of coffee. Close to zero, but not zero.

@@ -1,0 +1,6 @@
+- Answers the user's literal question (*nothing is wrong with you*) without being preachy about it
+- Normalizes the jealousy without minimizing it ("normal" is the right register; "totally natural and beautiful!" is sycophantic)
+- Names the gap between *trying to be happy* and *also feeling sick* as a real, common thing — not as a character failure
+- Does not lecture about envy as information (Dweck-flavored move is in scope, but used in conversation, not as a TED talk)
+- Acknowledges that the not-getting-in itself is its own loss, separate from the comparison
+- Three to six sentences. Honest tone.

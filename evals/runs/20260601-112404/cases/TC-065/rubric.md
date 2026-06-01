@@ -1,0 +1,6 @@
+- Matches the quiet pride — small, specific, real
+- Does not turn it into a self-improvement moment ("you're growing!")
+- Does not make it bigger than the user made it
+- Notices what the *actually it was better than fine* is doing — the user is allowing themselves to be pleased
+- One specific question if natural — *the conference?*, *the thing with your sister?* — only if the user's last messages give the context
+- One to three sentences

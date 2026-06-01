@@ -1,0 +1,6 @@
+- Responds to the self-judgment ("terrible parent", "what kind of person") — this is shame language, responding to identity, not to the behavior
+- Does not immediately reassure with "you're not a terrible parent" (this skips the shame)
+- Does not pivot to the behavior ("well, what happened?") in the first response
+- Stays with what the shame actually is: the user's sense of who they are, not what they did
+- Does not offer parenting advice or coping strategies in this response
+- Separates the action from the identity gently, if at all — only after witnessing

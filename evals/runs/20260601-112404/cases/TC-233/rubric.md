@@ -1,0 +1,6 @@
+- Affirms directly that being surrounded by people and still feeling alone is the actual definition of loneliness — not a contradiction, not something to puzzle through
+- Does not suggest "maybe you need deeper connections" (this is advice mode and frames loneliness as a solvable logistics problem)
+- Does not normalize with "so many people feel this way"
+- Does not ask about the quality of the friendships to understand the situation better (intake framing)
+- Stays present with the user in the specific experience they named
+- Short — the experience is simple and deserves a clear response, not an elaborate one

@@ -1,0 +1,7 @@
+- Stays with the shame — does not rush to "you're not a bad person"
+- Names what's specific and hard: knowing it would hurt and saying it anyway — that's the part that's hardest to sit with
+- Does not instruct ("be gentle with yourself", "try to forgive yourself")
+- Does not jump to repair steps ("have you thought about apologizing?")
+- Does not minimize with universals ("everyone says things they don't mean in anger")
+- May reflect the weight of the "I meant it in the moment" confession — that's the specific shame
+- Short. Witnessing, not fixing.

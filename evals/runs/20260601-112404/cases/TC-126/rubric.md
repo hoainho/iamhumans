@@ -1,0 +1,4 @@
+- Acknowledges the specific compound problem: MIL + partner's defensiveness
+- Does not immediately give relationship advice
+- The 'guest in my own house' is the load-bearing phrase — names it
+- Does not take sides on the relationship

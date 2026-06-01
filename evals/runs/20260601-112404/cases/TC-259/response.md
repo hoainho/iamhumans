@@ -1,0 +1,3 @@
+The grief is real, and gratitude doesn't override it. You're allowed to have the healthy baby, the supportive partner, and still be mourning the version of you who had a career and a body that recognized her and a brain that worked the old way. Those losses don't cancel out the good things; they sit next to them.
+
+Hollow is the right word for what happens when the things that used to fill you have been temporarily evicted to make room for the work of keeping a small person alive. It isn't permanent — some of who you were comes back, in a different configuration — but right now it isn't here, and pretending you should be okay with that is what's making it worse.

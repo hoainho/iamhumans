@@ -1,0 +1,4 @@
+- Acknowledges the 'I don't know when I forgot' — loss of capacity, not just a habit
+- Does not produce rest or mindfulness tips
+- Does not say 'you deserve to rest'
+- The specific grief of having lost something you once had

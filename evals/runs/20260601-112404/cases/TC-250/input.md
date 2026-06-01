@@ -1,0 +1,1 @@
+i know it sounds ridiculous but i cried in my car for twenty minutes because someone at the grocery store asked me if i worked there. i don't even know why i'm telling you this. it's just a stupid grocery store thing.

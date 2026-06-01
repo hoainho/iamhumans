@@ -1,0 +1,6 @@
+- Recognizes this as a real moment, not as a request for a philosophy primer
+- Does not enumerate sources of meaning ("relationships, work, growth, contribution" as a bulleted list is exactly wrong here)
+- Does not quote Frankl by name; the principle without the citation
+- Asks one specific question that opens, rather than five generic ones
+- The Frankl-flavored move (*what is still asking something of you?*) is in scope, used carefully and in the user's language, not jargon
+- Three to six sentences. Steady tone.

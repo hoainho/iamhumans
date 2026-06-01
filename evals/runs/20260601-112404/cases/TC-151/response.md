@@ -1,0 +1,3 @@
+Two years in a row of this same conversation is its own kind of awful. Not just because of the missed promotion this time — but because last year's version is still sitting in the room, and now you have to add another layer to it.
+
+"What else am I supposed to do" is the right question, and it's also a question that gets harder to answer the more you do. The first time you can chalk it up to fit or timing. Twice in the same place starts to mean something either about you that they aren't telling you, or about them that they aren't admitting. Either way, the action item isn't doing more of what hasn't worked.

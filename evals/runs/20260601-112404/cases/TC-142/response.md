@@ -1,0 +1,5 @@
+The replay is the worst part of ghosting, and you named it precisely. Every interaction you can remember gets re-examined under new lighting, and there's no end to it because there's no incoming information that would close the loop. The brain keeps looking for the moment because the brain assumes there must be one, and the brain is wrong about that more often than it admits.
+
+Sometimes people drop out of friendships for reasons that have very little to do with the friend they're dropping. A change in their own internal weather, a shame they're managing, a thing in their life they couldn't bring themselves to share, a friendship that became collateral damage of some other unraveling. None of those reasons get communicated, because if they could be communicated, the friendship probably wouldn't have ended this way.
+
+You may never know. That's the part you're going to have to learn to hold without resolution. The not-knowing is its own slow grief, and you're allowed to take a long time inside it.

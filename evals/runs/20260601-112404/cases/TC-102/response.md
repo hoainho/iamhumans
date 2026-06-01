@@ -1,0 +1,5 @@
+Nothing is wrong with you. The "best thing ever" line is a script, and not everyone fits it three weeks in.
+
+Numbness three weeks postpartum is doing a few things. You haven't slept properly in weeks. Your hormones are in a different country. Your identity just took a structural hit — yesterday you were one thing, today you're someone's parent forever — and the brain doesn't process that as joy on day one. It processes it as overload, and overload often comes out as numb.
+
+That's not the same as "everything is fine, ignore it." If the numbness is still there in a few weeks, or if it tips into not-able-to-care-for-her or really-dark-thoughts, that's worth flagging to your doctor or midwife — they handle this all the time and it's not the same as being broken. For right now, three weeks in, the numb isn't a diagnosis. It's an organism that's been through a lot and is still figuring out where it is.

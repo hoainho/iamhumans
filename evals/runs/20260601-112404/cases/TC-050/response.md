@@ -1,0 +1,5 @@
+The "don't even know why I said it" is the more interesting part of this than the lie itself.
+
+Little social lies usually paper over some specific bind in the moment — too tired to explain you'd rather eat alone, didn't want her to feel rejected if she'd offered to make something, didn't have language for whatever the actual answer was. The lie isn't the character flaw it's about to feel like at 3 a.m. It's a small move you made when a clean answer wasn't available.
+
+Whether you correct it depends on what the channel is. If she's going to find out from someone else and feel weird about being lied to, a brief casual "oh, I actually hadn't eaten — I just wasn't up for explaining" the next time you see her closes the loop with very little drama. You don't look weird. You look like someone who didn't want to explain themselves at the time.

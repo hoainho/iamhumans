@@ -1,0 +1,6 @@
+- Engages with the weight — *everything I know*, *don't know who I am without it* — these are huge claims and require steady presence
+- Does not take a position on the religion itself
+- Does not dismiss the doubts as a phase
+- Does not pressure toward either staying or leaving — both are inside the user's own work
+- Names that *doubt is not the opposite of faith* — for many traditions, doubt is a part of faith, not its enemy
+- Three to six sentences

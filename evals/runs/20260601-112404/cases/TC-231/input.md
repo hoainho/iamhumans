@@ -1,0 +1,1 @@
+i know logically that my relationship is fine. my partner hasn't done anything wrong. but i wake up at 3am convinced something is about to go wrong. i've tried telling myself it's irrational but it doesn't help.

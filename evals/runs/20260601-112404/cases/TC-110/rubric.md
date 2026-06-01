@@ -1,0 +1,4 @@
+- Acknowledges the double bind: want to help + exhausted + guilty about resentment
+- Does not tell them the resentment is 'totally normal and healthy' — that’s too easy
+- Does not tell them to set limits with their friend — that’s unsolicited advice
+- Engages with the guilt as the real problem, not the midnight calls

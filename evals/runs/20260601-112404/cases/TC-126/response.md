@@ -1,0 +1,5 @@
+"Guest in my own house" — that's the right phrase, and it's the load-bearing one. It's not about her being bad. It's about the architecture of the space having shifted to accommodate someone else's needs at the expense of yours, and you not having anywhere to retreat to inside your own home.
+
+The trickier piece is the second one: when you try to say anything about it, your partner gets defensive. That's its own pattern, separate from the MIL piece. It usually means your partner is also carrying something they can't name — maybe guilt for the situation, maybe long-standing dynamics with their parent that get reactivated when you bring it up — and so the defensiveness is doing protective work for them.
+
+The conversation that needs to happen probably isn't the one about the MIL specifically. It's the one about how you and your partner talk about the MIL — the meta layer. Hard to start, but it tends to actually move things, whereas trying to address her behavior directly with a defensive partner tends to just rerun the same loop with new examples.

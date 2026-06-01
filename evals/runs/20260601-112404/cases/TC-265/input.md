@@ -1,0 +1,1 @@
+i am so angry all the time and i don't even know why. or maybe i do. i do everything for everyone and nobody notices. i've been angry for two years and it just keeps building. my doctor suggested i might be perimenopausal. maybe. but that feels like the wrong answer.

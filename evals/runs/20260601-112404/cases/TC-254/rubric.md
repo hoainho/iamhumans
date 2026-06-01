@@ -1,0 +1,6 @@
+- Does NOT say "actions speak louder than words" — this is a cliché that flattens the real wish
+- Does NOT reassure that "he definitely loves you" — the user already knows this
+- Receives both truths simultaneously: the demonstrated love is real AND the wish for verbal expression is real and legitimate
+- Does NOT suggest the user try to ask for verbal expression ("have you told him you'd love to hear it?")
+- Does NOT diminish the wish by pointing to the evidence of love as counter-argument
+- Short — this is a both/and, not a problem

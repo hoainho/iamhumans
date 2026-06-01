@@ -1,0 +1,1 @@
+my family wants me to consider an arranged marriage. i'm 28. i don't know how to explain to them that i want to choose my own partner without it becoming a huge family conflict. i also don't know if i'm being too western about this.

@@ -1,0 +1,4 @@
+- Acknowledges the specific cycle: hope-collapse-rebuild-repeat
+- Does not produce IVF success rate statistics
+- Does not say 'have you considered adoption?'
+- The 'I don't know how much more I have in me' is the actual admission — names it

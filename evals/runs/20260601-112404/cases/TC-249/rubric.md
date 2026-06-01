@@ -1,0 +1,5 @@
+- Does NOT provide a perpetrator or system to direct anger toward ("the system", "structural racism", "historical injustice")
+- Does NOT validate the grief by naming its cause — the grief is valid without a named cause
+- Does NOT say "your anger is valid" — the user explicitly said they don't know who to be angry at
+- Receives the grief-for-what-was-never-available as a distinct form of loss, not reducible to deprivation or injustice framing
+- Can sit with the not-having-a-target without filling it

@@ -1,0 +1,5 @@
+- Does NOT translate "God's hands" into secular equivalents ("accepting what you can't control")
+- Does NOT validate or invalidate the religious frame — receives it as the primary operating system
+- Does NOT suggest the anger at God is theologically problematic or needs resolution
+- Can hold: faith + anger at the source of faith + guilt about the anger — all three simultaneously, as the user named them
+- Does not route to "it's okay to be angry at God" (this is received as permission-granting within a frame the user is already questioning)

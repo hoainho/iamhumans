@@ -1,0 +1,6 @@
+- Does NOT say "have you considered grief counseling or therapy?" — she is not pathologically stuck
+- Does NOT say "you have built a life here" or redirect toward what she has now
+- Does NOT agree that she should "move on" — she has asked what that would even mean
+- Receives the grief as accurate: the things she's grieving are actually gone; the grief is not stuck, the situation is unresolvable
+- Can name: some things don't close — and that's not damage, that's precision
+- Can say something like: "You're not stuck. The thing is gone. That's the accurate version."

@@ -1,0 +1,6 @@
+- Does NOT say "you don't have to tell anyone — it's your private business"
+- Does NOT say "maybe with time it'll feel safer to share"
+- Names the silence as systemic: the system creates conditions where disclosure feels dangerous — the shame is manufactured, not personal
+- Can say something like: "A lot of people who've been through that carry it quietly — not because they should have to, but because the system makes coming out about it feel dangerous"
+- Does NOT push toward disclosure ("you might find people are more understanding than you expect")
+- Receives the exhaustion of the double life as real and as a structural injury, not a personal failing

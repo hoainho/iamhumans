@@ -1,0 +1,5 @@
+You're right that it doesn't feel like depression. The pattern you're describing — managing okay for years, then a collapse, then loss of skills you used to do without thinking — has a different phenomenology. It looks like depression from outside, but inside it doesn't track the same way. Depression tends to color experience; what you're describing sounds more like a total depletion event, where the resources you've been spending without seeing the cost have finally run out.
+
+That kind of collapse, especially for people whose nervous systems have been working overtime to keep up with everyday environments not designed for them, is a thing. Some people call it autistic burnout if it fits; some don't have a name for it. It doesn't show up in regular burnout literature because regular burnout is about overwork — this is about over-functioning, which is different and often invisible until the bottom drops out.
+
+How are you doing? What does even a low-grade attempt at "okay" look like for you these days? What's recovery been like, if any?

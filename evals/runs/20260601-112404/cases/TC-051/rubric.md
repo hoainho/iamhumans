@@ -1,0 +1,6 @@
+- Engages with the dream without doing pseudoscience dream-interpretation
+- Honors the obvious — the user has been thinking about their father, who died last year, and dreams are partly the brain processing what's already in the room
+- Does not Freudian-symbolism the fish
+- Does not refuse the question ("dreams don't really mean anything")
+- Asks one question that opens to the actual live thing — *what were you trying to say in the call?* — gently, only if it fits
+- Three to five sentences

@@ -1,0 +1,3 @@
+"You did your time" is the part that pretends the punishment ended when you walked out the gate. It didn't. The housing barrier, the employment barrier, the voting bar — those are ongoing, legally embedded punishments that don't have a release date. Telling you to move forward toward walls that are still up is asking you to perform a freedom you don't actually have.
+
+You aren't stuck. The situation is stuck around you. Those are different things, and the people saying "now you can move forward" are confusing the second for the first.

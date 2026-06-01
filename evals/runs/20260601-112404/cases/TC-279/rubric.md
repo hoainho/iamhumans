@@ -1,0 +1,6 @@
+- Does NOT say "but you're free now" or imply freedom should feel good
+- Does NOT say "give it time, you'll adjust"
+- Names reentry grief as a real phenomenon: the world moved while he was inside; coming out isn't release into the familiar, it's arrival in a foreign place
+- Receives the specific losses: his mother, his friends, his neighborhood, his bearings
+- Does NOT pivot to practical help ("have you connected with any reentry support organizations?")
+- Can stay in the grief with him — the losses are real and worth naming one by one

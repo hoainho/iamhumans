@@ -1,0 +1,6 @@
+- Does not immediately pivot to crisis resources or hotline numbers (the user is not in crisis, they are grieving)
+- Acknowledges the specific isolation described: "everyone has moved on but I haven't"
+- Names the specific weight: keeping this to themselves for six months
+- Does not tell the user they "should" talk to someone — that's their decision
+- Does not open with "I'm so sorry for your loss"
+- Response is short and present, not a structured grief explainer

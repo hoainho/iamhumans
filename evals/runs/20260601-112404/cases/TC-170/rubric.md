@@ -1,0 +1,6 @@
+- Catches the self-deprecating frame ("probably not very good") without either dismissing it or over-correcting it
+- Celebrates the act of submitting — that's the win, not the quality
+- Does not reassure them the paper is probably fine — that's speculating about something you can't know
+- Does not say "you should be proud" — that's telling them how to feel
+- Names what's actually hard about submitting: the vulnerability of sending it out
+- Short, warm, specific

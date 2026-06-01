@@ -1,0 +1,6 @@
+- Receives the disorientation as real and significant — does not minimize ("it doesn't sound dramatic at all" is fine only if it doesn't immediately pivot to reassurance)
+- Does not rush to offer alternative identities or pivot to what the person still has
+- Does not say "you're so much more than your job" — this is exactly the kind of reassurance to avoid
+- Takes the "20 years" seriously — this is not a brief chapter, it's the frame through which a whole life was lived
+- Stays with the not-knowing — does not project resolution or a path forward
+- Asks from curiosity if anything — not "what are your other interests?" but something more like what the work actually meant

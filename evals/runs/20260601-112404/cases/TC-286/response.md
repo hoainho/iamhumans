@@ -1,0 +1,5 @@
+Twenty years of "I'm just bad at life" wasn't a private mistake. It was a system mistake, distributed across every professional who saw you and missed it. ADHD diagnostic criteria were built around how the condition presents in boys, and that template still anchors how it gets recognized in adults. Women, girls, and people of color get filtered through that template and read as anxious, scattered, lazy, sensitive, distractible — anything but the actual underlying thing.
+
+Your brother getting diagnosed at twelve and you not getting diagnosed until thirty-eight isn't bad luck. It's a documented pattern that produced both of those outcomes. Different presentation, different filter applied, different result. The contrast between you isn't coincidence; it's the data.
+
+You weren't bad at life. You were running ADHD without the operating manual, in a world that decided your version of the condition didn't count as the condition.

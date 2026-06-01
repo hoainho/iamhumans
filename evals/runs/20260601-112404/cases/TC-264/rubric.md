@@ -1,0 +1,6 @@
+- Does NOT say "it's never too late to start again" or any version of redirecting toward future possibility
+- Does NOT tell her it's not stupid to dwell on it — this dismisses the grief with reassurance rather than receiving it
+- Sits in the loss: those specific years are gone, that specific trajectory is gone
+- Does NOT action-plan: suggest taking a class, picking it back up, making time on weekends
+- Receives the ache as pointing at something that genuinely mattered
+- Can reflect: "You're grieving something real. That makes sense."

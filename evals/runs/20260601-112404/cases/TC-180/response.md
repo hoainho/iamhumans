@@ -1,0 +1,3 @@
+Eight months of waiting for it to click is its own slow erosion. You don't notice the disappointment day to day — each individual week, sure, this could be the one. The weight accumulates in the gap between expectation and what's actually happened.
+
+"Waiting for it to click" is a strange state. You can't make the click happen, and the absence of it isn't really visible — it's just every weekend with no real plans, every time you almost-knew-someone but didn't quite, every party you went to where you left thinking maybe next time. There's no event to react to. There's just the ongoing not-event.

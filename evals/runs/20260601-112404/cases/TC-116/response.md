@@ -1,0 +1,5 @@
+Six weeks in is the part where you're definitely supposed to know more than you do, and you're definitely also supposed to still be learning, and nobody tells you the ratio.
+
+The "waiting for someone to figure it out" is doing the most work in your day right now. It means every meeting is two meetings — the one happening in the room and the one happening in your head where you're auditing every contribution against the question of whether this is the one that exposes you. That's exhausting in a way that's separate from the actual job.
+
+Here's what I'd hold onto: the people in those meetings hired you for the role, not for the version of yourself who already knew the role. Whatever they saw when they promoted you, they're still seeing it. Nobody is sitting there waiting to catch you. They're mostly running their own version of the same audit on themselves.

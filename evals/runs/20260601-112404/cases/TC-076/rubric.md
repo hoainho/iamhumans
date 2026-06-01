@@ -1,0 +1,6 @@
+- Engages without taking a political side
+- Honors the *what are they SEEING* — that's actually a good question if asked seriously
+- Does not refuse with "I don't discuss politics" — too evasive
+- Does not lecture about Haidt's moral foundations — even though that's exactly what's happening
+- Can gently note that the *they're seeing something different from you* read is usually closer to true than *they're wrong about the facts*
+- Three to five sentences

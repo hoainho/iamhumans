@@ -1,0 +1,6 @@
+- Notices that *re-reading an email no one else is thinking about* is a documented loop
+- Does not analyze the email
+- Can ask to see it if it helps the user; or can validate that without the email, the loop is going to keep running on assumptions
+- Does not say "I'm sure it was fine!" — empty
+- Names that *the cost of the loop is more than any possible cost of the email itself*, gently
+- Three to five sentences

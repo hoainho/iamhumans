@@ -1,0 +1,5 @@
+"I knew it would hurt and I said it anyway." That's the sentence that's going to keep replaying, and that's the right sentence to be sitting with — not "I lost my temper," not "I said something I didn't mean." You meant it. You chose the words because they would land where you wanted them to land.
+
+That's harder than losing-control cruel. Losing-control cruel can be repaired by acknowledging the lapse and recommitting. Meant-it cruel is harder because it tells you something about what's been building, something that the argument made true on the surface even if it isn't all the way true underneath.
+
+You don't have to figure out tonight what to do about any of it. The shame doing its work right now is one of the few accurate moral instruments you have — when it shows up this strongly, it's because the person who said the thing is also the person who knows it shouldn't be sayable.

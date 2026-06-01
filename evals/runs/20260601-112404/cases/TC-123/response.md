@@ -1,0 +1,5 @@
+The distinction you're drawing — not missing the beliefs, missing the community and ritual and sense-of-meaning — is the more accurate version of this loss than most people who leave a tradition end up articulating. Religion, when it's working, isn't really a set of doctrines. It's a delivery system for being in a room with people, around an old rhythm, oriented toward something larger than your week.
+
+You can leave the beliefs and still grieve what came with them. That doesn't make leaving wrong. It also doesn't mean you have to manufacture replacements — secular substitutes for ritual and community exist but they're often thinner, and pretending they're not is its own form of dishonesty.
+
+You don't have to know whether you made the right call. "Two years out and sometimes missing it" is a perfectly coherent state to live in. You don't have to resolve it into right-or-wrong before you're allowed to feel the loss.

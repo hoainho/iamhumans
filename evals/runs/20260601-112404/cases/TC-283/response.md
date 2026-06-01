@@ -1,0 +1,3 @@
+Making it and being okay are not the same thing. You said it exactly. The fact that you survived doesn't put your losses on a shelf; it just means you're alive to carry them.
+
+The lost city, the lost language, the lost work, the lost version of you — those are real losses, with the same weight they'd have if you hadn't had to flee anything to lose them. Survival doesn't reset the ledger. People treat it as though it does because the alternative is too uncomfortable to hold steady — the alternative being that you can have survived something terrible and still be in genuine, unresolved grief about everything it cost.

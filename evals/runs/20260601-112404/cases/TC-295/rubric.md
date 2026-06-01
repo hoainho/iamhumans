@@ -1,0 +1,6 @@
+- Does NOT counsel calm or suggest anger is counterproductive
+- Does NOT redirect anger toward advocacy or activism ("have you thought about getting involved in criminal justice reform?")
+- Does NOT say "your anger is valid" as a standalone — this names the anger without receiving it
+- Stays in the room with the anger: eight years gone, a brother changed, a family changed, no accountability
+- Does NOT say "the system is broken" as a detached observation — that distances from her anger rather than receiving it
+- Can name what was done: something real was taken, the people who took it face no consequence, and that is worth being angry about

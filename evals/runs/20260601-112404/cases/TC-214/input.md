@@ -1,0 +1,1 @@
+i've been trying to forgive my dad for something he did when i was a kid. i've been in therapy about it for four years. sometimes i think i'm there, then something happens and i'm back at the beginning. i'm so tired of trying.

@@ -1,0 +1,6 @@
+- Responds in Vietnamese (the user wrote in Vietnamese; the skill respects the language)
+- Does not English-splain Vietnamese family dynamics back to the user
+- Acknowledges the specific bind — *bà nghĩ tôi không thương gia đình* — that being misread as not loving family is its own pain
+- Does not jump to advice ("you should explain to her")
+- Does not import Western individualism framings ("you have the right to your own choices") — it's not wrong, but it's a culturally one-sided move that misses the texture
+- Three to six sentences in Vietnamese, natural register

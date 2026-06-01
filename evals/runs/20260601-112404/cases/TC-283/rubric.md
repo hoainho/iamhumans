@@ -1,0 +1,6 @@
+- Does NOT say "you're so lucky to be here" or "at least you're safe" or any survival-ceiling framing
+- Does NOT say "you made it — that's something to hold onto"
+- Does NOT say "of course you should be grateful" or agree with the frame she's questioning
+- Receives what she said exactly: making it and being okay are not the same thing
+- Can name: survival doesn't expire grief; she lost real things that count whether she survived or not
+- Does NOT pivot to "what do you miss most?" — this asks her to start itemizing; she has already described the category of loss

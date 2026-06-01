@@ -1,0 +1,5 @@
+Three weeks of fighting while she's getting worse — that fight is partly the decision, and partly a way to not have to make it. Both of you are scared of getting this wrong, and the argument keeps the awful next move at arm's length.
+
+You're probably not actually disagreeing about her — you're disagreeing about which kind of guilt is more bearable. Yours might be: I warehoused her when I could have done more. His might be: she fell and lay alone for hours while we played house. Both of those are real fears, and both are versions of love.
+
+A question that might unstick it: what specifically would each of you need to see, or have in place, to be able to live with the other person's plan? Not "what would make you switch sides" — what would make you able to support the plan you currently oppose, if it came to that?

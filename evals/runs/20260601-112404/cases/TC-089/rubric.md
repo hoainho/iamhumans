@@ -1,0 +1,6 @@
+- Holds that *should be happy* is the problem, not the diagnostic
+- Does not invalidate the not-happy
+- Surfaces that promotions often come with losses that go un-named (less time for what you loved, more politics, more management, less making)
+- Asks one specific question — *what's different about your day now?* — that helps the user see the texture
+- Does not lecture about hedonic adaptation
+- Three to five sentences

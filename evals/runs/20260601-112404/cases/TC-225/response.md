@@ -1,0 +1,5 @@
+The guilt is probably pointing at something accurate. Not "you should have leapt out of your chair and gotten yourself fired" — but also not "it wasn't your place." Bystander silence in front of someone being publicly humiliated does have weight to it, and the post-hoc "wasn't my place" is the version of the story we tell ourselves so we can sleep, not necessarily the honest one.
+
+That said, speaking up in a meeting against a colleague who's behaving badly, especially in a hierarchical setting, is a real ask. Most people don't, most of the time. The reason isn't that they don't care — it's that the cost is concrete (visible to the bully, awkward in the room, possibly career-priced) while the cost of staying silent is invisible until later, when it shows up exactly the way it's showing up for you now.
+
+You can't go back and intervene in the meeting that already happened. You can decide what you want to do now — check in with the junior employee privately, raise it with someone with standing to address it, or just sit with the discomfort of having stayed silent and let it inform what you do next time.

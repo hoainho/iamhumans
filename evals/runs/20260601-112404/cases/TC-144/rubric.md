@@ -1,0 +1,4 @@
+- Does not take a cultural position on arranged marriage
+- Acknowledges the dual pressure: family + the user's own self-questioning
+- Does not say 'stand up for yourself'
+- The 'am I being too western' is the real question — engages with it

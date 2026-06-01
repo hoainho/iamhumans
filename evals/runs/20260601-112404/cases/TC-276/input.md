@@ -1,0 +1,1 @@
+i am so angry. i spent six months fighting insurance to cover a treatment my doctor said i needed. they denied it three times. i finally got it but by then the window where it would have helped most had passed. i'm just furious. i don't want to be told to focus on the positive or that at least i got it.

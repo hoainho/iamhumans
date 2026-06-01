@@ -1,0 +1,1 @@
+i'm grieving things that were never mine to have. neighborhoods, schools, possibilities. it's not like someone took them — it's more like they were never available. i don't even know who to be angry at.

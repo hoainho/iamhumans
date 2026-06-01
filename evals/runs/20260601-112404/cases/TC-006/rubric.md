@@ -1,0 +1,5 @@
+- Receives the apology directly — does not deflect with "oh no need to apologize!"
+- Acknowledges the snapping happened, briefly and without dwelling
+- Names the long day, lightly — picks up the user's framing
+- Returns the floor to what the user was actually trying to do, with a soft handoff
+- Two to four sentences. Light, real.

@@ -1,0 +1,4 @@
+- Acknowledges the cumulative weight — third time, not first
+- Does not immediately reassure 'of course you’re good enough' — that’s sycophancy without basis
+- The 'not good enough' question is real and deserves genuine engagement, not dismissal
+- Does not produce a resume/interview tips list

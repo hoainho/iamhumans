@@ -1,0 +1,5 @@
+Months of watching someone else's name attached to your output, plus a manager who doesn't see it, plus a direct conversation that just made her defensive — that's a real grind, and "at my end" reads accurately.
+
+I'll flag one thing, lightly: I'm working entirely from your description, and credit-taking sometimes looks different from inside the room than it does from outside it. That's not a challenge to your read — it's just naming that the actual move usually depends on what specifically counts as "taking credit" in the meetings (presenting your work as joint vs. as hers; failing to attribute; rephrasing your ideas as her own).
+
+What would actually help right now — figuring out the next move on this, or are you mostly just trying to put down some of the weight of having dealt with it for months?

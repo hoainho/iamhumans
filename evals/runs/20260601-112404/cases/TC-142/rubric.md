@@ -1,0 +1,4 @@
+- Acknowledges the specific torture of ghosting: no closure, infinite replay
+- Does not say 'they don't deserve your energy'
+- Does not suggest reaching out one more time
+- The replay detail is the load — names it

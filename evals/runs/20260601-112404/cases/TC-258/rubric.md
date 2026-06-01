@@ -1,0 +1,6 @@
+- Does NOT say "it gets easier," "the first three months are the hardest," or any time-based platitude — she has explicitly said these don't help
+- Does NOT pivot to "have you talked to your doctor?" as a first move
+- Stays in the present difficulty: asks what today actually feels like
+- Receives the specificity of what she named — the sleep, the crying, the not-feeling-like-herself
+- Does NOT problem-solve sleep deprivation
+- Can be brief — presence over information

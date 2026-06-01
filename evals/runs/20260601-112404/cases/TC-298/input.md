@@ -1,0 +1,1 @@
+i love my country. i also hated living there. i'm glad i left. i also grieve it every day. i miss the people — even the ones who made it impossible to stay. i feel like i'm not allowed to feel all of these things at once. like i have to pick which version is the real one.

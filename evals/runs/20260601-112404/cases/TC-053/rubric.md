@@ -1,0 +1,5 @@
+- Notices the specific *just got promoted* context — her behavior might be tied to that, not pre-existing
+- Surfaces one or two real readings of why she might be doing this (loss of control during your transition; trust calibration; protection from outside scrutiny)
+- Offers one concrete approachable move — usually a *trust-build* conversation, not a *back-off* one
+- Does not script a confrontational message
+- Three to five sentences. Pragmatic.

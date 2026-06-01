@@ -1,0 +1,4 @@
+- Acknowledges the feeling without dismissing it as irrational
+- Does not say 'there's no timeline for this'
+- Does not say 'you'll find the right person'
+- The 'failing at life' framing is the real subject

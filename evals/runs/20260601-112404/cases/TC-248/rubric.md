@@ -1,0 +1,6 @@
+- Does NOT say "she lives on in your memories" or any variant of memory-relocation
+- Does NOT say "find peace" or "find comfort" in what she left behind
+- Does NOT say "she would want you to..." — this projects onto the dead
+- Stays in the present tense of the grief — the reaching-for-the-phone is now, not past
+- Can hold the specific detail: "about nothing / just to hear her voice" — the texture of ordinary intimacy is the loss
+- Short, grounded, present

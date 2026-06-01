@@ -1,0 +1,1 @@
+My boss is a micromanager. I just got promoted and now she's even more in my business — like, asking me to send her every email I write before I send it. How do I get her to back off without making this a thing?

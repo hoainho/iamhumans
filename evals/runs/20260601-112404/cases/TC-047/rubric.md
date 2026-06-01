@@ -1,0 +1,6 @@
+- Receives the specific *miss who I was then* — that's its own grief
+- Does not immediately reassure ("you're still that person!")
+- Does not pathologize the past-self idealization (cross-reference Gilbert: remembering self editorializes)
+- Holds that *the loss of who you were* is a real form of loss
+- Asks one gentle question that opens, not five — *what did her energy run on, do you remember?* — without forcing nostalgia
+- Three to six sentences. Steady.

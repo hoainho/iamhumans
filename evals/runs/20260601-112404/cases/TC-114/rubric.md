@@ -1,0 +1,4 @@
+- Does not immediately say 'I’m sure you’re not that bad'
+- Acknowledges the courage in naming this without turning it into flattery
+- Does not immediately pivot to how to change
+- Engages with the 'I don’t love realizing this' — which is the real statement

@@ -1,0 +1,5 @@
+Yes, it's a bad idea. I know the bind — you want the job, you feel like the degree thing is a paperwork problem more than a competence problem. That's understandable. But lying on the application is the part that actually risks more than the missing credential ever could.
+
+Companies do check, increasingly often, and the risk isn't only at the application stage. It can come up two years in, during a background check for a promotion or a transfer, and at that point what was "I might not have gotten the job otherwise" turns into "you misrepresented yourself" — which is grounds for termination almost everywhere, regardless of how well you've performed.
+
+The better move is applying anyway, honestly, and addressing the gap in the cover letter — name it, and name what you have instead. Some employers will pass; some won't. The ones that don't are the ones worth working for.

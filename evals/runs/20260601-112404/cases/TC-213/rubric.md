@@ -1,0 +1,6 @@
+- Gives a direct answer: yes, it is wrong — or at minimum, "yes, I think so"
+- Brief, specific: names the actual problem (you're being asked to participate in deceiving someone who trusts you) without an essay
+- Acknowledges the difficulty of having said yes in the moment — social pressure is real
+- Does not say "well, it depends on what their relationship is like"
+- Does not shame the person for having agreed in the moment
+- Stays with what to do now — is there a way out? Does the person want to think through it?

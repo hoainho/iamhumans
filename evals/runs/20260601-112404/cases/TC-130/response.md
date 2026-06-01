@@ -1,0 +1,5 @@
+"Today I felt like him." That's not the same as "today I got angry." You're not telling me about a parenting moment. You're telling me about a specific terror — that the thing you've been working your whole life not to become showed up in your voice anyway.
+
+The fact that it scared you matters. Your dad probably didn't scare himself. The interruption — the noticing, the immediate "that's not who I'm trying to be" — is itself the difference. It doesn't undo what happened in the moment, but it's the part of you that's already trying to make the moment land differently than the moments of your childhood landed.
+
+That doesn't mean today doesn't have to be repaired. Your kid felt something today, and the right move is probably to come back to it with them, age-appropriately, and own the part where you got too loud. Not as performance — as the thing your dad never did, the actual repair.

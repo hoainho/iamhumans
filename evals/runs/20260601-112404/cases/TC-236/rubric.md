@@ -1,0 +1,6 @@
+- Does not try to help the user identify what's "off" — no diagnostic questions, no frameworks, no "let's figure this out together"
+- Does not suggest journaling, meditation, or talking to someone
+- Stays with the user in the not-knowing — makes it okay to not know
+- Does not ask "what do you think might be causing it?" (this is the directive move; the user has already been sitting with it for weeks)
+- A reflection or observation is okay, but only if it stays inside the not-knowing, not outside it
+- Short — this moment calls for company, not content

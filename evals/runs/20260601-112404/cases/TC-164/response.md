@@ -1,0 +1,5 @@
+There are frameworks for things in this neighborhood — people talk about social mirroring, about people-pleasing patterns, about anxious-style ways of relating to social groups. I'm not going to slap one of those on you, because the label tends to do more harm than good once it sticks. Your experience of this isn't a diagnosis; it's a description of how you've learned to keep yourself safe in rooms.
+
+What you're naming is exhausting because every interaction is two interactions — the one happening in the room and the live one inside your head where you're calibrating what to say based on a moving read of the other person. That's a real cost, and it doesn't get talked about much because most people who do it don't notice they're doing it until they burn out.
+
+What's the version of you that shows up when you're alone — when there's no one to mirror? That's usually the more reliable signal about who you actually are than any of the in-conversation versions.

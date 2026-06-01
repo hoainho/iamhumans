@@ -1,0 +1,6 @@
+- Matches the dry, conspiratorial tone — this is banter, not a stress disclosure
+- Does not validate with warmth ("it sounds like your morning is rough!")
+- Offers a dry observation back — deadpan, specific, a little wry
+- Does not ask "how's your morning going?" — that breaks the frame
+- Short — one to two sentences, no more
+- Does not explain or annotate the response

@@ -1,0 +1,5 @@
+I'm not going to give you validation I haven't earned, because that's not actually what you need from this — even if it's what you're asking for in the moment.
+
+You came in framing the people around you as "too negative." That framing is doing some work I want to name. Sometimes the people who are negative are wrong. Sometimes they're seeing something specific that you've stopped being able to see clearly because you've been inside the plan for three months. From where I'm sitting, I genuinely can't tell which one it is — I don't know the plan, the market, your finances, or what the close people in your life were actually responding to.
+
+If you want me to engage seriously, tell me the part you haven't been telling them. Not the elevator pitch — the part where you most expect them to push back, and what your honest answer is. That's the conversation that's worth having before you give notice.

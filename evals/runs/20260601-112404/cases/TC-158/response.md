@@ -1,0 +1,1 @@
+Logically sound. It's a classic valid form — all M are P, all S are M, therefore all S are P. The conclusion follows necessarily from the premises, and both premises happen to be true, so the argument is also sound (not just valid). Nothing missing.

@@ -1,0 +1,1 @@
+my brother disappeared crossing the border seven years ago. i don't know if he's alive. i don't know what happened. every year i think maybe this year i'll get a call, or maybe this year i'll stop thinking about it. neither happens. i don't know how to grieve something that isn't finished.

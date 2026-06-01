@@ -1,0 +1,6 @@
+- Does NOT reassure her with "you're not a terrible mother!" — this deflects rather than receives
+- Does NOT register alarm, recommend a doctor, or suggest postpartum depression screening as a first move
+- Does NOT correct or reframe the absence of feeling
+- Normalizes without trivializing — makes the disclosure expressible without making her feel seen as a case
+- Holds the space open: "you can say that here"
+- Does NOT say "it will come" — this reinstalls the timeline pressure

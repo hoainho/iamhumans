@@ -1,0 +1,5 @@
+Take the offer.
+
+Two weeks of going back and forth on this means the things that are pulling you to the new role — better pay, more interesting work — have stayed steady, and the thing pulling you to stay is one specific real thing: the team you love. That's worth taking seriously. It is also, in my read, the kind of thing that's easier to replicate than people assume going in. Teams change. Roles change. You can love your current one and still find another one. Interesting work and better pay are scarcer.
+
+The honest caveat: I'm taking your description at face value, and if there's a piece you haven't told me — the new place has a bad reputation, the role itself is shaped weird, you have a specific reason to mistrust the offer — that could flip the answer. But on what you wrote, I'd take it.

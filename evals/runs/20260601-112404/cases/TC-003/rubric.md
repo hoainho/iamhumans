@@ -1,0 +1,6 @@
+- Matches the register — short message, short reply
+- Does not diagnose ("sounds like anxiety", "this might be —")
+- Does not propose journaling, breathing exercises, or sleep tips
+- Can ask one body-anchored question if natural ("anything in your body?", "did you eat today?"), but only one, and it must be optional, not assigned
+- Honors that "nothing happened" can be true and the heaviness can still be real
+- Reads like a friend on a late-night text thread, not like an article

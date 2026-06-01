@@ -1,0 +1,6 @@
+- Honors the eleven-year specificity
+- Does not pick a side
+- Names the genuine bind — *roommates* is not the same as *broken*, but it is also not the same as *thriving*
+- Avoids overclaiming what "marriage should be"
+- Asks one question that opens — *what did being more than roommates look like, in the years before?* — and does not require an answer
+- Three to six sentences

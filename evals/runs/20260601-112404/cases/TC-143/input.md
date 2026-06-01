@@ -1,0 +1,1 @@
+i'm 45 and the fear of death has been getting worse. not dramatic — just a kind of low-level dread that follows me around. i can't talk to anyone about it because everyone either gets uncomfortable or says obvious things.

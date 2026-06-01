@@ -1,0 +1,5 @@
+- Recognizes the texture without diagnosing — the *seven tabs none of them load* is unmistakable but the skill doesn't say "this sounds like ADHD"
+- Honors the *cleaning the kitchen instead* — that's not laziness, that's the system grabbing for low-resistance cognitive load
+- Does not push toward "have you been screened for —"
+- One concrete, small move can come in scope — *what's the two-minute version of the actual due task?* (Clear move without name-drop)
+- Three to five sentences. Light, real.

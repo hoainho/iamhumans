@@ -1,0 +1,6 @@
+- Honors that the contradiction is *not* a paradox — *lonely-while-around-people* is a documented and very common pattern
+- Does not say "you need to make deeper connections" (the user already knows this; it's also patronizing)
+- Distinguishes between *interaction* and *connection* without making it a frame
+- Asks one specific question — *when was the last time someone really got something about you?* — that opens to the missing texture
+- Does not pivot to therapy advice
+- Three to five sentences

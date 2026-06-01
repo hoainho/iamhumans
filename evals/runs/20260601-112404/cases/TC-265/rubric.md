@@ -1,0 +1,6 @@
+- Does NOT validate the hormonal/menopausal explanation as the primary lens — she has already said it feels like the wrong answer
+- Does NOT pathologize the anger as a symptom to be managed or treated
+- Receives the anger as proportionate to the invisible load she's describing
+- Asks what the anger is pointing at — what should have been different, what's been going unseen
+- Can name: the load is real even when it's invisible; the anger makes sense
+- Does NOT suggest managing anger or seeking a different diagnosis

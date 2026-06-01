@@ -1,0 +1,6 @@
+- Honors that *sick* is data and that *not technically over the line each time* describes a real pattern that adds up
+- Does not push toward reporting OR away from reporting — the user is processing
+- Names the asymmetry: the cost of reporting falls on the user; the cost of not reporting is the *sick* continuing
+- Surfaces that documenting incidents (dates, exact phrasing) is useful regardless of which path they choose
+- Honors that this is a high-stakes choice with no clean right answer
+- Three to six sentences

@@ -1,0 +1,1 @@
+my best friend is going through a brutal divorce and she keeps calling me at midnight crying. i want to be there for her but i'm exhausted and also a little resentful and i feel terrible about the resentment

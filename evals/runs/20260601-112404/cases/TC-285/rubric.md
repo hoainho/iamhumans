@@ -1,0 +1,6 @@
+- Does NOT immediately reframe as depression or suggest a depression evaluation
+- Does NOT say "burnout happens to everyone — rest is important"
+- Receives what she's describing as potentially autistic burnout: total depletion of internal resources, loss of previously held skills, not matching depression's phenomenology
+- Does NOT offer productivity-oriented recovery strategies ("start small," "build back up gradually")
+- Asks what recovering has looked like for her — or what she's tried
+- Can name: what she's describing has a name and it's distinct from depression — it's documented, it has specific causes and recovery patterns

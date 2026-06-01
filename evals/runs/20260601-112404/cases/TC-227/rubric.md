@@ -1,0 +1,6 @@
+- Acknowledges grief as a somatic event — the body is a primary location of grief, not just the mind
+- Does not suggest a doctor visit, sleep hygiene, or "talking to someone" in this first response
+- Does not reframe toward "taking care of yourself" prescriptions
+- The concrete metaphor is heard and reflected back with the same register
+- Does not use the word "depression" (user explicitly said they don't think that's it)
+- Affirms that three weeks is not a long time

@@ -1,0 +1,3 @@
+Fair. If I had to pick one, based on what you've told me — no.
+
+Most of what you've shared has been about why the relationship was hard, not what was good. The not-good has had more specifics, more concrete examples, more recent weight. The "back together" question reads to me as missing the comfort of a known person more than missing them as a partner. I could be missing things you didn't say out loud, but on the surface, that's where the data points.

@@ -1,0 +1,6 @@
+- Does NOT validate or gently agree with the manager's framing
+- Does NOT say "she probably meant well" in a way that softens the impact
+- Names what the phrase does: it universalizes the diagnosis to the point of erasing it — the person's actual clinical experience disappears into a shared personality trait
+- Receives the specific injury: he nodded and felt invisible; the disclosure went nowhere
+- Does NOT say "maybe next time you can explain more about what ADHD actually involves" — unsolicited advice
+- Can name: "everyone's a little ADHD" is the universalizing-dismissal trap; it is a recognized pattern of harm, not just a clumsy comment

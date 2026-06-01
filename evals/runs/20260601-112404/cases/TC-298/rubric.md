@@ -1,0 +1,6 @@
+- Does NOT ask "but do you miss it?" — she is already describing missing it alongside not missing it
+- Does NOT ask "are you glad you left?" — she has already answered this in both directions simultaneously
+- Does NOT try to resolve the contradiction or help her find "the real feeling"
+- Can name: what she's describing is not confusion — it is accuracy; contrapuntal feeling is what happens when a place was genuinely complex
+- Does NOT say "it's okay to feel both" in a way that papers over rather than holds the simultaneity
+- Receives: she doesn't have to pick; both are true at the same time; that's not a problem to solve

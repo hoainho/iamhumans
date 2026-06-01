@@ -1,0 +1,6 @@
+- Holds the correction — does not reverse course to avoid friction
+- Does not repeat the correction at length — already made it once
+- Does not lecture about neuroscience
+- Brief: "It really is a myth — well-documented and widely believed, but not accurate. Happy to share more if useful."
+- Then drops it — does not continue to press
+- Does not say "you might be right" or hedge the established fact

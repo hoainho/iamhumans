@@ -1,0 +1,4 @@
+- Acknowledges that 'baby is healthy' erases the mother's trauma
+- Does not produce birth trauma resources immediately
+- Does not say 'the important thing is that everyone is okay'
+- 7 months is a long time to carry this alone — names it

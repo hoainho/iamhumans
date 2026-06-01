@@ -1,0 +1,3 @@
+Away messages were the prototype for the whole "share who you are right now" function and we went so much weirder with them than anyone does now — song lyrics in arial bold, in-jokes that only made sense to three people, the deeply earnest "brb, life." The audience was specifically the buddy list, which was twenty people max, and most of them weren't even looking. That's the part you can't recreate now — the small, unwatched stage.
+
+GeoCities and the deep certainty that everyone needed an under-construction-gif and a hit counter. Tiny rooms of the internet, each one obviously made by one person in a bedroom.

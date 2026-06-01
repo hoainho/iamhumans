@@ -1,0 +1,5 @@
+You don't have to forgive him. Whether you do is your call, and "everyone keeps telling me" is doing pressure work that I'd be careful about.
+
+The thing your question is actually noticing is a real distinction that gets blurred. Forgiveness, in most usable forms, is something that happens inside you — letting go of the live charge of what he did, so it stops being an active force in your life. Reconciliation is a separate thing — letting the person back into your life with some kind of standing. The first doesn't require him to apologize, because it doesn't actually involve him. The second usually does.
+
+You can keep him out of your life forever and still, eventually, not be carrying the weight of him around with you. Or you can decide that the weight is part of the price of having lived through what happened, and you'd rather feel it than let him off the hook in your own head. Both of those are coherent positions. Neither one is owed to anyone else's preference for your timeline.

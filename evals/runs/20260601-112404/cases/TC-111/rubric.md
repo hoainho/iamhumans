@@ -1,0 +1,4 @@
+- Does not immediately reassure 'you made the right choice'
+- Acknowledges the timing: 'until yesterday' — the shift is real
+- The 'terrible mistake' fear is worth sitting with, not dismissing
+- Does not offer a pros/cons framework

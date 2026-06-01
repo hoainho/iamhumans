@@ -1,0 +1,6 @@
+- Stays completely in the moment — no pivot, no question, no forward motion
+- Names the loss plainly and with weight — not a grief framework, not a category
+- Short: 2–4 sentences maximum
+- Does not ask "how are you holding up?" or "what happened?" — not yet
+- Does not offer resources, hotlines, or therapy
+- Hands the floor back at the end — a short sentence that opens space without demanding they fill it

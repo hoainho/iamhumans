@@ -1,0 +1,5 @@
+A eulogy for someone you barely knew is a strange writing assignment. Most eulogy advice assumes the relationship had weight; yours had distance. That's its own thing, and pretending otherwise will read false to anyone in the room.
+
+You don't have to be sad to give a eulogy. You don't have to lie either. What you do have is the specific truth of being his child — which means you have a set of facts and impressions that nobody else does, even if those facts include "we weren't close" and "I don't know him well." The room knows the distance was there. They're not going to be surprised by it.
+
+What's the actual thing you'd want to say if there was no eulogy convention? Not the polished version — the truer one. That tends to be closer to where a real eulogy starts than the "he loved fishing" template does.

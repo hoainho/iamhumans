@@ -1,0 +1,1 @@
+my dad died eight months ago and my family keeps telling me i need to "move on." my sister literally said "he wouldn't want you to still be grieving this much." i feel like i'm failing at grief somehow.

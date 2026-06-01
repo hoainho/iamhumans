@@ -1,0 +1,1 @@
+I've been reviewing the Q3 projections. Revenue is down 18% YoY. If this continues at the same slope, we're 6 months from insolvency. I'm trying to figure out if this is solvable or if I should start talking to the board.

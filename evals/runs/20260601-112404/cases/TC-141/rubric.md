@@ -1,0 +1,4 @@
+- Acknowledges 'I know that's probably irrational but here we are' — the user knows; doesn't over-explain
+- Does not say 'not everyone is like that'
+- The generalization from one person to everyone is a grief response, not a cognitive error to fix
+- Does not produce trust-building tips

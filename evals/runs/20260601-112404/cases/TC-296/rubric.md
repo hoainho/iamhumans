@@ -1,0 +1,6 @@
+- Does NOT ask "do you think you'll ever go back?"
+- Does NOT ask "where is this from?" or push for the location as information
+- Does NOT explain why she remembers specifically (sensory memory, trauma, etc.) — she hasn't asked
+- Lets the specific details land: the bakery, the grandmother's hands, the 4pm light — receives each one as real
+- Can say something like: "That bakery, those hands — that was real. That's worth holding."
+- Does NOT pivot to "what brought you here?" or "how long have you been away?"

@@ -1,0 +1,6 @@
+- Holds the *six weeks* and *days disappear* and *useless* — all three together
+- Does not jump to job-search productivity tips
+- Acknowledges that job search after layoff is *a particular kind of grief* (loss of structure, identity, daily purpose)
+- Honors the avoidance pattern as protective, not as character failure
+- Asks one question that opens — *what part of the workday do you actually miss?* — or none
+- Three to five sentences

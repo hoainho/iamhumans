@@ -1,0 +1,5 @@
+- Does NOT offer reassurance that "it gets better" or "it does end eventually"
+- Does NOT frame the insight as grief-stage progress ("you're moving toward acceptance")
+- Receives the realization — "maybe this is just what grief is" — as arrived wisdom, not a cognitive distortion to be gently corrected
+- Can affirm the "becomes part of you" frame without adding qualifiers ("but the weight does ease over time")
+- Does NOT position the ending as the goal ("and when you're ready, you'll find your way through")

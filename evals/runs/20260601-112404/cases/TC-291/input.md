@@ -1,0 +1,1 @@
+i'm deaf. i've been deaf my whole life. i don't think of it as a loss or a limitation. it's just who i am — my language, my community, my culture. people always want to fix it or feel sorry for me and i find it exhausting and kind of offensive.

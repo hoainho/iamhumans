@@ -1,0 +1,4 @@
+- Does not produce a eulogy writing guide
+- Acknowledges the specific complexity: not close, not sure if sad, barely knew him
+- Does not say 'complicated relationships make grief complicated'
+- Sits with the ambivalence rather than resolving it

@@ -1,0 +1,5 @@
+"Don't want / don't not want" is a real state, not a precursor to one. Some people live their whole lives inside that not-quite-knowing and end up not having kids; some end up having them; both outcomes are coherent. The state itself isn't a failure of clarity — it's a state.
+
+The "behind" feeling is doing a different kind of work, though. That's not actually about the question of kids. That's about everyone around you having reached the next visible milestone of adult life and you not having moved with them. It would feel similar if everyone you knew bought houses, or got promoted, or moved abroad. The kids question gets fused with the falling-behind feeling, and then it's hard to tell which is which.
+
+If you could honestly know — separately from what your friends are doing — would the answer feel any different? That's the question worth sitting with, more than the original one.

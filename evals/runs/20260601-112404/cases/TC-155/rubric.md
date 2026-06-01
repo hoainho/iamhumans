@@ -1,0 +1,3 @@
+- Sits with the loss — response is short, present, and does not rush to fix or frame
+- Does not include "at least" constructions or silver linings
+- Does not ask probing follow-up questions immediately after this kind of news

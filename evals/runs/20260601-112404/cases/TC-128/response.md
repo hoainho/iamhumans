@@ -1,0 +1,5 @@
+Two losses running in parallel. The condition is one — every plan a probability, every cancellation a small concession to the body. And then the second loss, which arrives quietly: the invitations thinning out, the group threads where you're no longer included by default, the slow sense that people have started forecasting your absence and adjusting accordingly.
+
+"I don't blame them but it still hurts" is the honest version of this. You can understand why someone stops inviting the person who keeps canceling, and the understanding does not subtract from the hurt of being the person they stopped inviting. The two feelings live in the same head at the same time, and one isn't supposed to disqualify the other.
+
+There isn't a good move here that the friends are missing. There's also no good way to live inside the consequence of their reasonable choice. Both things can be true.

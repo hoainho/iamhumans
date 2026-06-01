@@ -1,0 +1,5 @@
+Three months is long enough that it's not just a bad week, and "used to be able to do this" is the part doing the most damage — you're not measuring against zero, you're measuring against a self who delivered.
+
+I'd gently push back on "what's wrong with me?" The thing that stopped is information about something, not a defect. Sometimes it's the project itself — you finished a phase and you're between projects, no idea what's next. Sometimes it's life pressure that doesn't leave room for the kind of cognitive idleness writing requires. Sometimes it's that you've lost the specific reader you were writing for, even if you didn't know that's who you were writing to.
+
+What were you writing about three months ago when it stopped? Not the broad subject — the specific piece you were working on the week it dried up.

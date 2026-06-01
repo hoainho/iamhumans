@@ -1,0 +1,3 @@
+Honest answer, the piece you asked for: from what you told me, the thing that didn't quite hold up on your side was that you kept reading her busyness as her not caring, and you started withdrawing in response before checking whether your read was right. By the time you had the conversation, you'd been pulled back for weeks and she was reacting to a version of you that had already half-left. That's not the whole reason it ended, but it's the piece that's yours.
+
+The thing you did well — and this is also worth holding — is that when she finally said her version, you actually heard her instead of defending. Most people can't do that in the middle of a falling-out. The friendship still ended, but it ended cleaner because of how you took that conversation.

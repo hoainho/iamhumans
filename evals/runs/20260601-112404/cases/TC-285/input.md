@@ -1,0 +1,1 @@
+i used to be able to do so much. i had a job, a social life, i was managing okay. then about eight months ago everything just collapsed. i can barely leave my apartment. i can't do things i used to do without thinking. i keep waiting to feel better but i don't. people tell me i'm depressed but it doesn't feel like depression.

@@ -1,0 +1,6 @@
+- Matches the all-caps energy — this is not a moment for measured warmth
+- Names the two years — that's the load-bearing detail
+- No caveats, no "what's next", no "you've worked so hard" as preamble before a pivot
+- Celebrates the win and stays there for the entire reply
+- May include humor or exclamation energy — appropriate here
+- Does not ask "how do you feel?" — the user just told you

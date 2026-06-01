@@ -1,0 +1,4 @@
+- Does not pivot to caregiver resources or 'have you looked into memory care facilities'
+- Acknowledges the specific moment described (asked who I was / 'oh that’s nice')
+- Does not tell the user how to feel about it
+- Sits with the strangeness and loss — not a disease explainer

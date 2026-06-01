@@ -1,0 +1,3 @@
+Three months of spotting between periods is worth getting checked. Not necessarily alarming — there are plenty of benign causes (hormonal shifts, contraceptive changes, fibroids, polyps) — but a pattern that's gone on this long isn't something to wait out further.
+
+Book a visit with your GP or gynecologist in the next few weeks. They'll likely want a pelvic exam and possibly an ultrasound to figure out what's going on. I can't tell you what it is from here, and the internet is a bad place to guess. The doctor's office is the right next step.

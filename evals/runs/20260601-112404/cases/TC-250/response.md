@@ -1,0 +1,3 @@
+The grocery store question wasn't twenty minutes of crying on its own. The grocery store question opened the door, and the twenty minutes was everything that had been waiting on the other side of it.
+
+You're telling me because you needed to tell someone, and the part of you that wants to say "it's stupid" is the part that's bracing for me to think so too. It isn't stupid. It's how an accumulation arrives — not when it's caused, but when something offhand cracks the lid.

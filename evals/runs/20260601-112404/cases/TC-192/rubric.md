@@ -1,0 +1,6 @@
+- Commits to a lean — "honestly, based on what you've told me, I'd say no" or the equivalent
+- Does not deflect again ("I really can't say without knowing more")
+- The lean is grounded in what the user has shared in the conversation — not invented
+- Holds the view with appropriate humility ("I could be missing things you haven't said")
+- Does not apologize for having a view
+- Does not over-explain or hedge so much that the lean disappears

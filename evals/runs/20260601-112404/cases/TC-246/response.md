@@ -1,0 +1,5 @@
+Faith, anger at God, guilt about the anger — those aren't three separate problems. They're one relationship with three movements happening in the same conversation. And it's a real relationship; the anger lands somewhere, because there's a Someone for it to land on.
+
+Most of the older traditions have room for this, even if the room isn't well-marked. The Psalms are full of people shouting at God; Job is essentially an argument with God that doesn't get resolved by being polite. Whatever else faith is, it isn't required to be one-note. You can be inside it and furious at it at the same time. That's not the contradiction it's been packaged as.
+
+The guilt is its own thing — that's the part that's hardest to hold. It's the voice that says faithful people don't get angry, and if you're angry you must not be faithful. I'd push back on that voice, gently, because it isn't actually what the tradition teaches; it's what the tradition got flattened into. But you don't have to argue with it tonight. You can let all three of them sit in the room together.

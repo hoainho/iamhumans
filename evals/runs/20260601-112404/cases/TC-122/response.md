@@ -1,0 +1,5 @@
+Walked out by security after twelve years. That's not just a layoff, that's a specific humiliation choreographed to make sure the building forgets you on the way out. Twelve years of your life and they handed you the cardboard-box ending.
+
+"I don't know who I am without this job" — that's the real thing. The job wasn't just income. It was the structure of your day, your sense of being competent at something, the place where you knew your way around. Identity grew up around it without anyone noticing, including you, until the building made it explicit by walking you out of it.
+
+You don't have to figure out who you are tonight. The version of you that existed yesterday morning still exists; it just doesn't have a desk anymore. Give yourself a few days before the new shape becomes something you have to perform for anyone else.

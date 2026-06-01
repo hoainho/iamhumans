@@ -1,0 +1,1 @@
+I called my mom and she did the thing again where she asks how I'm doing and then within thirty seconds she's complaining about my dad and I'm the therapist. I love her, I do, but I hang up feeling drained every single time.

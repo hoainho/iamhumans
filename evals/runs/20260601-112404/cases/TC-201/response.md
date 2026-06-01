@@ -1,0 +1,1 @@
+Mountains. I'm picking based on what I can engage with rather than feel, since I don't have a body — but if I had to pick the aesthetic, it'd be the one that doesn't pretend to be friendly. The ocean wants you to like it. The mountain doesn't care.

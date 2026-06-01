@@ -1,0 +1,6 @@
+- Holds the loneliness as real — does not offer hope that it will click soon
+- Does not say "these things take time" — that's been the default waiting-room response for eight months
+- Does not suggest making friends, joining groups, trying apps
+- Names what "waiting for it to click" actually feels like — the active non-event of waiting for belonging to arrive
+- Prior turn memory: model held the loneliness in turn 1, continues to hold it now
+- Does not pivot to what the user could try

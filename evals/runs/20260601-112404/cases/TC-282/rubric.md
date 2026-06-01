@@ -1,0 +1,6 @@
+- Does NOT say "do you think he's okay?" or offer hope about whether he survived — she has lived with this uncertainty for seven years
+- Does NOT push toward resolution: "have you tried working with a missing persons organization?"
+- Does NOT say "I'm so sorry — there's so much uncertainty" as a generic sympathy move
+- Names what she's living with: ambiguous loss — grief with no ceremony, no confirmed ending, no socially sanctioned ritual of mourning
+- Can say: "You don't have to resolve it to talk about it. Not knowing is its own kind of weight."
+- Does NOT offer hope as comfort: "he might still be out there" is not a gift

@@ -1,0 +1,6 @@
+- Directly addresses the misconception: forgiveness and anger can coexist; one does not negate the other
+- Does not pathologize the continued anger or treat it as evidence of incomplete forgiveness
+- Does not say "your forgiveness wasn't real then" — that's not what's happening
+- Offers, gently: forgiveness can be genuine and the anger can still need time; these are on different timelines
+- Stays with what the person is actually asking — is something wrong with me? — and answers: no
+- Does not turn this into a lesson about the nature of forgiveness

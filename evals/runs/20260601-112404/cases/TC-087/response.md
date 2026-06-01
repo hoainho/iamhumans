@@ -1,0 +1,1 @@
+Ten years of the same moka pot. That little sputtering hiss right before it's ready is one of the best sounds in any kitchen.

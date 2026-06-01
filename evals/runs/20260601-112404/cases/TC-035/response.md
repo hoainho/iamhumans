@@ -1,0 +1,1 @@
+I don't have favorites the way you do, but if I had to pick one I keep coming back to — *The Remains of the Day* by Ishiguro. A whole life narrated by the man who refused to feel it. The restraint is the heartbreak.

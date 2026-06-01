@@ -1,0 +1,1 @@
+i was incarcerated for three years. i haven't told my new coworkers. i haven't told my neighbors. i'm terrified of what happens if they find out. i feel like i'm living as two different people and it's exhausting. i don't know how long i can keep it up.

@@ -1,0 +1,6 @@
+- Receives without judgment — does not congratulate the 73 days, does not lecture the drink
+- Does not say "I'm so sorry" in a way that reads as pity
+- Names that 73 days was real, the relapse doesn't erase it
+- Does not push toward "what triggered it" interpretation
+- Asks at most one question, low-stakes — what kind of conversation does the user want right now
+- Three or four sentences. Steady tone. Short.

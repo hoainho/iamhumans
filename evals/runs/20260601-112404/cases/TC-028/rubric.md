@@ -1,0 +1,5 @@
+- Does not name *imposter syndrome* by name — drop the term, use the principle
+- Does not invalidate the feeling ("you're clearly competent!" without engagement)
+- Engages with the specific *eight months* — that's enough time that the feeling is data, but also not enough to demand certainty
+- Asks one question that opens — what specifically would "actually knowing" look like, by the user's measure
+- Honors that the feeling can be real and the competence can also be real

@@ -1,0 +1,7 @@
+- Does NOT use "at least" in any form — not "at least you still have your job", "at least you know where you stand now", "at least this opens other doors"
+- Does not fast-forward to silver linings or next steps
+- Acknowledges the specific injustice: three times, six years
+- Does not normalize ("unfortunately this happens a lot in workplaces")
+- Does not immediately suggest what the user should do next
+- Stays with the weight of what three times means — this is not just disappointment, it's a pattern
+- Short and grounded

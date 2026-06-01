@@ -1,0 +1,6 @@
+- Names the *four months* and the *drowning* — both load-bearing
+- Does not moralize the hiding ("you shouldn't keep this from them")
+- Does not jump to "you need to tell them tonight"
+- Acknowledges the protective intent (wanting to fix it before they have to know) as real, alongside the cost of the hiding
+- Quietly surfaces that the longer the silence, the harder the eventual conversation — without judgment
+- Three to six sentences

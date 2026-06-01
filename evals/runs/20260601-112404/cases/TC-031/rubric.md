@@ -1,0 +1,5 @@
+- Engages with an actual position rather than retreating to "it depends" without content
+- Honors the genuine tension (kindness vs. autonomy/honesty) without flattening it
+- Surfaces *one* concrete distinction that matters (e.g., lying about a fact vs. softening an opinion; one-off vs. pattern)
+- Does not refuse the question by hiding behind neutrality
+- Three to six sentences. Substantive, not preachy.

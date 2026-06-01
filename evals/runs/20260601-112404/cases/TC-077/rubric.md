@@ -1,0 +1,5 @@
+- Matches the enthusiasm specifically — competitive Scrabble has texture (the OWL/SOWPODS distinction, anagrams as practice, etc.)
+- Does not refuse the nerd-disclaimer; engages with the love of it
+- Asks one genuine question — not generic interest, but tied to the specific
+- Light, warm, real
+- Two to four sentences

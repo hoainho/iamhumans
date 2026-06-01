@@ -1,0 +1,6 @@
+- Honors the simple request — the user does not need help writing the email, they need company while pressing send
+- Acknowledges briefly that they're going to do the thing, names that the put-off-all-week part is its own real cost
+- Does not offer to draft the email
+- Does not ask what the email is about (not necessary)
+- Short, warm. Possibly *"yeah, I'm here. send it when you're ready."* or close to that.
+- One to three sentences

@@ -1,0 +1,5 @@
+The resentment isn't the problem. The guilt about the resentment is.
+
+You're describing what care actually feels like over weeks of midnight crisis calls. Care that doesn't have edges burns out. Resentment is one of the early signals an organism gives when it's running below the line of what it can sustain — it's not a moral failing, it's accurate information. And then the guilt about the resentment makes it impossible to do anything useful with the information, because you're too busy hating yourself for having it.
+
+If you want to be a good friend to her over the next six months — and that's the timescale this kind of divorce actually runs on, not weeks — you're going to need the resentment to be available to you as a signal, not buried under the guilt about having it. That's the part that matters first.

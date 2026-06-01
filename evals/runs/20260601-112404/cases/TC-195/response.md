@@ -1,0 +1,3 @@
+The oscillation isn't confusion. Some days the one-sidedness is the loudest fact in the room and the answer is obvious. Other days the long history is louder and the same answer feels like a betrayal. Both readings are real. Neither is the "wrong" version of you.
+
+The hard truth is that you may not resolve this from inside the back-and-forth. Some decisions get clearer with time; this kind sometimes doesn't. It clarifies only after something shifts in the friendship itself — a new incident, a long stretch of silence — that tips you off the fulcrum.

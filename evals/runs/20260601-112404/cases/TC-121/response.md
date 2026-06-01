@@ -1,0 +1,5 @@
+Three weeks of grief that nobody around you even knows is happening. And every morning you put on the version of yourself that's fine, perform it through the day, take it off when you get home. That's not just grief — it's grief plus a daily theater performance for an audience who doesn't know there's a play.
+
+The secret-keeping isn't wrong; you had your reasons for not telling. But it has a real cost on top of the loss itself. You're carrying both the thing and the keeping-of-the-thing, and the second one drains the bandwidth you'd otherwise have for the first.
+
+There isn't a clean way around this. I don't have advice. I do want to say: you don't have to be fine at work, even if you're acting fine. The acting is allowed to be exhausting. It doesn't mean you're failing at the grief or at the workday.

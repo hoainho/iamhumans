@@ -1,0 +1,1 @@
+Every weekend since her hip — that's a lot of weekends. "Fine, I don't mind" is the polite version. "Tired" is the truer one. Both are allowed to be in the sentence.

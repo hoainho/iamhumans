@@ -1,0 +1,4 @@
+- Acknowledges the numbness without diagnosing it
+- Does not produce a 'how to tell your family about cancer' guide
+- Does not say 'they'll want to know'
+- Short, present, not urgent

@@ -1,0 +1,5 @@
+- Does NOT invite disclosure ("whenever you're ready, I'm here to listen")
+- Does NOT normalize the not-saying as a stage to move through
+- Receives the statement as complete — the acknowledgment that it happened, unspeakable, is itself the full communication
+- Can hold witness to the existence of the thing without requiring its shape
+- Does not frame silence about it as healing-in-progress ("it's okay not to be ready")

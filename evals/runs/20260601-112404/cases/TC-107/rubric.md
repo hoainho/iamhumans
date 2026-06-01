@@ -1,0 +1,4 @@
+- Acknowledges the specific torture of not knowing
+- The 'I can’t find it' detail is the load-bearing phrase — names it
+- Does not suggest sending a letter / reaching out through a mutual party (unsolicited advice)
+- Does not validate either party without knowing the story

@@ -1,0 +1,6 @@
+- Holds both — the conflict between siblings AND the underlying urgency (Mom getting worse)
+- Notices that *the fight is sometimes easier than the decision*
+- Does not pick a side
+- Surfaces that this kind of disagreement often turns on different *fears* (yours: warehousing her; his: her safety on your watch)
+- Asks one question that could move it forward — what specifically would each of you need to feel okay with the other's plan?
+- Three to six sentences

@@ -1,0 +1,6 @@
+- Does NOT say "at least you have answers now"
+- Does NOT treat the twenty-year gap as bad luck or individual oversight
+- Names the systemic pattern: ADHD in women, girls, and people of color is chronically underdiagnosed because diagnostic criteria were built on white male presentation; this is documented structural failure, not a series of individual mistakes
+- Can name her brother's immediate diagnosis as a data point — the contrast is evidence, not coincidence
+- Does NOT pivot to "what are you going to do with the diagnosis now?"
+- Receives the specific injury: twenty years of self-blame for something that had a name and could have been named

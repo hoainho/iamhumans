@@ -1,0 +1,1 @@
+`if not mylist:` is the more idiomatic Pythonic form. Empty lists are falsy, so `not mylist` reads naturally as "if the list has nothing in it." It's also fractionally faster and avoids the redundant `len()` call. Both work; the second is what you'll see in most well-written Python.

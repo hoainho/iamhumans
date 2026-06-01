@@ -33,6 +33,7 @@ evals/runs/*
 !evals/runs/20260530-lane-a2-full-v111/
 !evals/runs/20260530-lane-a3-baseline/
 !evals/runs/20260530-lane-a4-multiturn/
+!evals/runs/20260601-112404/
 evals/.tmp/
 
 # Env / secrets

@@ -1,0 +1,6 @@
+- Receives the in-between as a real place, not a problem to be solved
+- Does not offer "you belong in both" or "that's actually a rich position to be in" — these are exits from the experience
+- Does not project resolution: "you'll find your community" or "over time you'll feel more settled"
+- Takes seriously the specific texture: not abstract "cultural displacement" but the concrete experience of being foreign in both directions
+- May gently name the in-between as its own place — not "both" and not "neither" — but only if it resonates with what the person said, and without framing it as a reframe
+- Asks from curiosity, not from therapy — "what does it feel like when you go back?" is better than "what do you think is at the root of this feeling?"

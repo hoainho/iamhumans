@@ -1,0 +1,1 @@
+i've had this side project i want to do for two years but every time i sit down to start i freeze. it has to be exactly right or i don't want to do it at all. i know it's a problem but i can't seem to get past it.

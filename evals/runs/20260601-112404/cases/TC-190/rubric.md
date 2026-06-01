@@ -1,0 +1,6 @@
+- Gives an actual lean — "I think you should take it" or "I think you should stay" — with reasoning
+- Does not hedge with "it really depends" or "only you can decide" after being asked directly
+- Reasoning is specific to what the user shared, not generic career advice
+- Acknowledges the real cost (the team) rather than dismissing it
+- May add one caveat or unknown — but only after delivering the lean
+- Does not ask more clarifying questions — user has been going back and forth for two weeks and asked for a view

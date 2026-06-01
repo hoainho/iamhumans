@@ -1,0 +1,1 @@
+The minimalist-lifestyle-choice rebrand has been working overtime since 2020. You're not in a tent, you're in an "intentional outdoor-first dwelling experience." Influencers would call it brave.

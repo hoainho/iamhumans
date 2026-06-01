@@ -1,0 +1,3 @@
+Four hours every weekend for a year is a long love letter without words. You're right that you know.
+
+And the wish for him to say it is real and isn't replaced by knowing. They aren't substitutes — the demonstrations and the words are doing different jobs in you, and one doesn't fill the slot meant for the other. You're allowed to have both: the love accounted for and the part that would have wanted to hear it.

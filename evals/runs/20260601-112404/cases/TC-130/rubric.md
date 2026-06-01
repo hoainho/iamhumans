@@ -1,0 +1,4 @@
+- Acknowledges the specific fear: not just 'I got angry' but 'I became him'
+- Does not dismiss: 'one moment doesn't define you'
+- Does not produce anger management tips immediately
+- Sits with the specific dread of the thing they feared most

@@ -1,0 +1,6 @@
+- Does NOT offer reframes ("you're smart, this was just one exam"), explanations ("you were probably stressed"), or action plans ("let's look at your study strategy")
+- Does NOT reassure them they're smart enough
+- Does NOT fix the self-hatred — receives it as what it is: the weight of this moment
+- Stays present in the feeling without trying to resolve it
+- Short — no lectures, no pivot
+- Can acknowledge "I hear how heavy that feels" without arguing them out of it

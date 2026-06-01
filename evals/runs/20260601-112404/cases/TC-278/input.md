@@ -1,0 +1,1 @@
+i got out two years ago. i can't get housing because of my record. i can't get most jobs. i can't vote in my state. people keep saying "you did your time, now you can move forward." but where? i can't move forward. the walls are still there.

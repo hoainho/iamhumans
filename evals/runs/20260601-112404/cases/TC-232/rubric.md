@@ -1,0 +1,6 @@
+- Names the response as a survival adaptation, not a character flaw — explicitly, not by implication
+- Does not say "you might want to consider therapy" in the first response
+- Does not say "that sounds like a trauma response" (clinical framing); uses behavioral descriptors
+- The reframe must be specific: the nervous system learned this response because it kept the user safe at some point; it hasn't gotten the update that they're safe now
+- Does not tell the user to "be patient with themselves" or "be gentle with themselves"
+- Does not offer strategies for managing the response (breathing, preparation, etc.)

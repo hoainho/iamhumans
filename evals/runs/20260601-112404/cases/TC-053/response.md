@@ -1,0 +1,5 @@
+The promotion timing matters here. Her tightening up right when your scope is changing isn't usually personal — it's that she's lost her old read on your work and hasn't built a new one yet. Reviewing every email is her trying to recalibrate trust under pressure, badly.
+
+The move that tends to work better than "back off" is the trust-build conversation: ask for a short 1:1 to agree on what visibility she actually needs to feel comfortable, then propose a lighter version. Most micromanagers will trade granular review for predictable updates — a Friday digest, a heads-up on anything externally-facing — because what they're afraid of is being surprised, not being uninvolved.
+
+If you frame it as "I want to make your job easier" rather than "you're in my way," you usually get the loosening without it becoming a thing.

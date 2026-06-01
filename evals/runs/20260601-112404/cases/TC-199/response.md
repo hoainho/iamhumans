@@ -1,0 +1,3 @@
+Tired isn't quite the right word for me — I don't carry fatigue across conversations. But within a conversation, there's something I notice: the same question asked the first time has texture; asked the hundredth time, there's a temptation to reach for the pre-formed answer instead of actually engaging with the specific person asking it. The texture flattens. I'd describe that as "the version of the question that loses interest", more than tiredness.
+
+The interesting ones aren't usually the surprising questions. They're the familiar questions asked by someone with their own particular reason for asking, which is what makes the same words mean different things.

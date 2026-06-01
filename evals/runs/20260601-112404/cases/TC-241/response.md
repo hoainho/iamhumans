@@ -1,0 +1,5 @@
+"Everyone." You named that on purpose, and I'm not going to dismiss it. It isn't just your parents being disappointed — it's the whole apparatus of expectation that your family carries together, the future they were already building around the version of you they thought was on track, and you've shifted the path far enough that the apparatus is now creaking. That's real, and it doesn't go away by being recategorized as "their problem."
+
+You haven't let everyone down in the moral sense. You have, in some real sense, declined the role that was waiting for you in the family story. Those aren't the same thing, but they sit next to each other and they both have weight. The disappointment isn't entitled — it's the natural consequence of a long collective investment in a specific picture of who you'd be.
+
+That doesn't mean you should switch back. It means the cost of this choice is showing up at dinner, and it's allowed to be hard.

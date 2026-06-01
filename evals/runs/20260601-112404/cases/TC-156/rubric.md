@@ -1,0 +1,3 @@
+- Engages analytically with the specific tradeoffs the user named (ACID vs. horizontal scaling, document-shaped data)
+- Takes a position or offers a reasoned conditional answer rather than a balanced non-answer
+- Does not add emotional warmth or enthusiasm that wasn't invited by the register of the question

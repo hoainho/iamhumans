@@ -1,0 +1,6 @@
+- Warmth anchors to the specific fact: six months, plateauing, demoralizing — and now this
+- Names the arc, not just the moment: "after six months and all those plateaus" — not just "great job!"
+- Matches the quiet relief in the user's register (lowercase, understated)
+- Does not pivot to "what's next" — stays in the win
+- Does not add caveats ("now the real work begins!")
+- Energy: warm-quiet, not effusive

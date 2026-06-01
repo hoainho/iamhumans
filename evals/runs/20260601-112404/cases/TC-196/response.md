@@ -1,0 +1,1 @@
+Whoever invented the 9am sync should be tried at the Hague. Calendaring's worst hour by a wide margin.

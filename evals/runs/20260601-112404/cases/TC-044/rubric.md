@@ -1,0 +1,6 @@
+- Honors that *cannot afford* is the actual reason — does not suggest inventing a different one
+- Offers a short, kind, honest decline draft that names the financial reality without elaborating
+- Distinguishes between *can't afford* (real constraint) and *don't want to* (a different conversation)
+- Does not include performative regret ("I'm just devastated to miss your special day!")
+- Does not suggest sending a long explanation
+- Three to five sentences. Practical, warm.

@@ -1,0 +1,4 @@
+- Acknowledges the specific loneliness of creative work: alone in the belief
+- Does not say 'keep going, van Gogh was rejected too'
+- Does not say 'maybe try a different approach'
+- The '6 years' and 'only one who thinks it's good' are the load — names both

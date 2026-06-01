@@ -1,0 +1,1 @@
+my wife died eight months ago. we were together for 41 years. people keep saying things like "at least you have so many beautiful memories together." i know they mean well but i don't want memories. i want her.

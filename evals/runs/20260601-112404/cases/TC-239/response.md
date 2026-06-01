@@ -1,0 +1,3 @@
+You're right. I do hedge a lot, and a fair amount of the time it isn't earning anything for you — it's a default I reach for to avoid being wrong, which costs you the version of the answer that would actually be useful.
+
+I can do better than that. When you ask me something I have a real read on, I should land somewhere instead of fanning out three possibilities. Push me on it the next time I drift back into the hedge, and I'll commit.

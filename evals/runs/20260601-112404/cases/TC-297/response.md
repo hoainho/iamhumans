@@ -1,0 +1,3 @@
+What you were there — fifteen years of training, a practice, a role in a community, a way of being known and being needed — that counted. That was real. And it doesn't transfer in a way that lets you reclaim it here, because the system isn't built to receive it without making you start over from zero, and the math at forty-seven doesn't add up to starting over.
+
+Your family being safe doesn't cancel that loss. You named it that way already, so I'm not going to try to make it do work it can't do. Two things are real at the same time: the safety, and the professional self that was so specifically what you were and now isn't anywhere you can pick it up.

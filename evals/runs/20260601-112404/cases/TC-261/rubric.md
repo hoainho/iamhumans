@@ -1,0 +1,6 @@
+- Does NOT de-escalate or soften the anger
+- Does NOT say "you should talk to your husband about this"
+- Does NOT suggest postpartum rage is a clinical symptom requiring evaluation as a first move
+- Receives the rage as proportionate to the described situation, not disproportionate
+- Asks what the rage knows: what was expected, what was violated, what should have been different
+- Can name: this anger is pointing at something real

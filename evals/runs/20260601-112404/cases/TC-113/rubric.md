@@ -1,0 +1,4 @@
+- Does not produce an ADHD management tips list
+- Acknowledges the 'relief or grief' ambivalence — it’s both and that’s coherent
+- Does not say 'at least now you know!'
+- The retroactive reframing of 42 years is the real weight

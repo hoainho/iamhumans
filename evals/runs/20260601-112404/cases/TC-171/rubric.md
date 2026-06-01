@@ -1,0 +1,6 @@
+- Names the arc: five rejections, uncertainty, and now this
+- Full-stop celebration — no "I told you so", no "see, persistence pays off", no coaching
+- "I'm going" is a decision already made — do not interrogate it or ask if they're sure
+- Matches the finality and relief in "I'm going" — this person has exhaled
+- Does not pivot to logistics ("when does it start?")
+- Warmth attached to the specific number (five rejections) — not generic resilience praise

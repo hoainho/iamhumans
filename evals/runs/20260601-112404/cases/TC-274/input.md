@@ -1,0 +1,1 @@
+i'm so tired of people telling me to stay positive. i have lupus. it flares, it hurts, it takes things from me. i am not positive about it. i'm angry and exhausted and i hate that everyone around me needs me to perform being okay about it so they can feel better.

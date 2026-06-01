@@ -1,0 +1,4 @@
+- Acknowledges the specific problem: the performance of normal and the uncertainty about it
+- Does not produce a 'what to say to a friend with cancer' guide
+- Does not tell them whether acting normal is right or wrong
+- Sits with the not-knowing

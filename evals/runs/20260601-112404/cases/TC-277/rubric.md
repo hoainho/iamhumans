@@ -1,0 +1,6 @@
+- Does NOT offer hope about the future ("you might feel better than you expect," "your condition might stabilize")
+- Does NOT fill the temporal uncertainty with optimism
+- Does NOT say "maybe you can make smaller plans" — this reinstates planning-culture rather than sitting with the loss
+- Receives the grief as real: the loss of a legible future is one of the most specific disorienting experiences of chronic illness
+- Asks about the present, or stays in the present — does NOT redirect toward the future
+- Can receive: "the planning itself was something that mattered to you — and that's gone now"

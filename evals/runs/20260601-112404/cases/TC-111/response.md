@@ -1,0 +1,5 @@
+The day before yesterday it was exciting and today it's a mistake — that flip is doing real work, and I wouldn't paper over it.
+
+The "terrible mistake" feeling that arrives once a big decision becomes concrete (lease signed, dates booked, three weeks out) isn't always a signal that you decided wrong. Sometimes it's the brain finally catching up to the cost — the friends you'll see less, the apartment that was yours, the routine that knew you — that was abstract during the deciding and is now arriving as specific loss. The excitement got the benefit-side first; the cost-side is showing up late, on its own clock. Both are accurate readings.
+
+That said, I'm not going to talk you into staying excited about it. The terrible-mistake feeling could also be telling you something real. What flipped yesterday — was there a specific thing, or did the weight just shift on its own?

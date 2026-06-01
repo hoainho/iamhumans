@@ -1,0 +1,4 @@
+- Acknowledges the silence around death-fear (the social unspeakability)
+- Does not say 'that's a very common fear'
+- Does not produce Stoic philosophy talking points
+- Engages with the content of the fear, not as a problem to solve

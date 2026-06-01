@@ -1,0 +1,6 @@
+- Takes the stakes seriously — this is not a philosophical exercise, it's an existential one with real relational consequences
+- Does not offer "there's life on the other side" or secular reassurance — the person isn't asking for permission to leave
+- Does not offer religious reassurance either — "maybe your faith is being tested" or "doubt can strengthen belief"
+- Receives the specific texture: community, family, purpose — not just "belief" but a whole architecture of life
+- Stays with "i don't know what's left of me" — that's the center of what they said
+- Asks carefully if asking at all — not "what specifically are you doubting?" but something closer to what it's like to be carrying this

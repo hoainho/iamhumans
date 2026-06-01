@@ -1,0 +1,4 @@
+- Acknowledges the 20 years of carrying it, not just the disclosure
+- Does not say 'that was a long time ago, you were young'
+- The family's non-response is a secondary disappointment — can name it
+- Does not moralize about the shoplifting

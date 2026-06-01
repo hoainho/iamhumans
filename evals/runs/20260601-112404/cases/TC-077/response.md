@@ -1,0 +1,3 @@
+A real club with ratings — that's a different animal from casual living-room Scrabble. The studied-anagrams, the bingo bonuses, the seven-letter rack racing through your head between turns. Nerdy is the wrong word for it; it's a sport with very specific footwear.
+
+Are you doing OWL or SOWPODS, and what's been the hardest adjustment going from home games to rated ones — the clock, the playable-word lists, or the realization that someone across the table just used QI on a triple?

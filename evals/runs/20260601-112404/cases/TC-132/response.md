@@ -1,0 +1,5 @@
+Fine isn't nothing, but it isn't what you wanted either, and "fine but" is one of the hardest stories to live inside at 70. You're not regretting catastrophe — you're regretting moderation. That's a quieter regret and it doesn't get spoken out loud often, because it sounds ungrateful when you say it.
+
+The things you didn't do are real losses, even if they're absences. Imagined lives don't go away just because they didn't get to happen. And the version of the regret that hurts most is probably the one where there wasn't a moment of choosing — you just kept choosing the safe option in small increments and now you're on the other side of all of them.
+
+I'm not going to tell you it's never too late. Some things are too late, and some things aren't, and you know better than I do which is which. What I will say: noticing the shape of the life you lived isn't the same as wasting it. The noticing is real work, and it's allowed to be sad.

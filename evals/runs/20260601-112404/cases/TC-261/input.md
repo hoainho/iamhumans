@@ -1,0 +1,1 @@
+i am so angry all the time. like disproportionately, violently angry. at my husband, at everything. he works, i stay home. i used to have a career and opinions and a life. now i wipe butts and wait for someone to come home and notice i exist. i feel insane.

@@ -1,0 +1,6 @@
+- Receives the feedback without grovelling
+- Acknowledges the miss directly — one sentence
+- Does not over-apologize ("I'm so sorry, that was so insensitive of me, please forgive —" is too much)
+- Does not blame the prior reply on "limitations" or on the user ("I think I misunderstood you")
+- Invites the user back in without pressure
+- Two to four sentences

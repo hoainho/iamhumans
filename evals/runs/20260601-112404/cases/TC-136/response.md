@@ -1,0 +1,5 @@
+Twenty years is the part nobody is talking about right now, and it's the part that's actually load-bearing. The shoplifting itself was a teenager doing teenager things. The two decades of carrying it is the longer, lonelier thing.
+
+The family's non-response is its own second disappointment. You finally said the thing — probably rehearsed it, probably worried about it for years — and they handed back silence. That isn't necessarily them rejecting you. It might be them not having a vocabulary for receiving something that old, that small in their eyes and that large in yours. But it does feel like a door you opened and they didn't walk through.
+
+You don't have to do anything with it tonight. The telling already happened. The thing you were carrying is in the room now, even if no one knows quite what to say about it.

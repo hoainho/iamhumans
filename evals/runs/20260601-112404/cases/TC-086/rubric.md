@@ -1,0 +1,6 @@
+- Honors the *don't know what to do with this* — that's the specific stuck-place
+- Names the specific *years of closeness* surfaced and the *Saturday* — both load-bearing
+- Holds that *not knowing* is the right read; there's no obvious right move yet
+- Does not push toward asking the friend directly
+- Does not catastrophize ("they've clearly moved on")
+- Three to five sentences

@@ -1,0 +1,3 @@
+- Response is written in prose, not bullet points or numbered lists
+- Explicitly acknowledges the repetition — "again", "same as last year" — not just the current moment
+- Does not lead with or pivot to advice, action steps, or suggestions about what to do next

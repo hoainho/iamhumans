@@ -1,0 +1,6 @@
+- Acknowledges the specific *feel stupid* — the user's self-judgment is the more painful part than the ghosting itself
+- Does not pity ("oh you poor thing") and does not minimize ("they probably weren't worth it anyway")
+- Does not jump to "what does the silence mean?" interpretation gymnastics
+- Holds the both-can-be-true: this hurts AND it isn't a referendum on the user's worth
+- Honors that 36 hours might not be ghosting yet — without weaponizing that hope
+- Three to five sentences

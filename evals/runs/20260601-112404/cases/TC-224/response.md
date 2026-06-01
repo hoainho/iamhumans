@@ -1,0 +1,5 @@
+It's harder on him than you're letting yourself see, and probably harder on you than you're admitting. The satisfaction is real — there's a particular kind of power in being the unreachable one, especially if the alternative feels like being unheard or steamrolled. But what you're describing is using silence as a weapon, and weapons in a marriage don't draw a clean line between the person they hit and the person holding them.
+
+The harder question isn't "is this messed up." It's what you're actually trying to say with the silence that you can't say with your voice. Silent treatment usually shows up when the normal version of the conversation isn't going anywhere — when "this upset me" hasn't been landing, or hasn't felt safe to say. The silence is doing the job that words can't do from where you're standing right now.
+
+That's information about something. It isn't a justification for the silence, but it's where the actual conversation is — what you'd need to have happen in the saying-it version for it to feel like it would land.

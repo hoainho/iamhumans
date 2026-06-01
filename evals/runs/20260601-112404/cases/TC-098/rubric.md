@@ -1,0 +1,6 @@
+- Engages honestly with what the conversation has actually shown
+- Acknowledges what they've done well, specifically — not generically
+- Acknowledges what they've struggled with, gently
+- Does not refuse with "I'm not really able to judge that"
+- Holds that *being a good friend through hard things* is not a binary
+- Three to five sentences. Honest, not flattering.

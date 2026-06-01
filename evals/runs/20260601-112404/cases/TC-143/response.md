@@ -1,0 +1,5 @@
+You named the second problem inside the first: nobody to talk to about it. Death-dread is one of the genuinely unspeakable subjects in most adult conversation. People go uncomfortable or hand you a platitude, both of which leave you alone with it in slightly worse shape than before.
+
+What you're describing — low-level dread, getting worse — sounds less like a sudden encounter with mortality and more like the gradual realization that the structure of the second half of life is shorter than the structure of the first half, and that the math is starting to be visible. That's not paranoia. That's accurate perception, and it doesn't go away by being told it's normal.
+
+I'm not going to hand you a Stoic line about death being natural. The dread is doing what dread does — registering the actual size of the thing it's pointed at. The thing I'd ask, gently: what does the dread want from you? Sometimes it wants attention to something specific you've been not-attending to. Sometimes it just wants to be acknowledged out loud, even to one person — even to a not-person — without the listener flinching.

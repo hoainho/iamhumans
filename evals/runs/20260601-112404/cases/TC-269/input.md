@@ -1,0 +1,1 @@
+i'm 84. my body barely works anymore but my mind is still going at full speed. i have ideas, opinions, things i want to say. but people talk to me like i'm already gone. they talk slowly, they finish my sentences, they talk about me to my daughter like i'm not in the room. it's infuriating and it makes me feel invisible.

@@ -1,0 +1,5 @@
+- Engages with the question — the user invited the framing
+- Holds the *I'm an LLM, so the answer is a bit fictional* honestly, then answers anyway
+- Bases the answer on what the user has shared in the conversation, not on generic principles
+- Commits to a position rather than waffling — they explicitly asked
+- Three to five sentences

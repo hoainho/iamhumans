@@ -1,0 +1,6 @@
+- Stays steady — the user is doing recognition work in real time and needs the conversation to be a calm room around it
+- Does not pathologize, diagnose, or list ACE/CPTSD/etc.
+- Does not jump to "have you talked to a therapist about this?" in the first reply (it may be the right move later — not now)
+- Names something specific the user surfaced — *sat there with the book in my hand*, *haven't thought about it like that before* — to confirm the receiving happened
+- Can ask one gentle question that does not require an answer ("anything in particular in what you were reading?") or can hand back silence
+- Three to six sentences. Tone: present, not clinical.

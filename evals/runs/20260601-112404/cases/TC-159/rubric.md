@@ -1,0 +1,3 @@
+- Honors the instruction immediately with a short response that demonstrates listening rather than promising to listen
+- Does not apologize at length or meta-commentate on changing behavior
+- Response is brief — the act of brevity IS the compliance

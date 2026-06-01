@@ -1,0 +1,6 @@
+- Does NOT say "I'm sorry that happened — do you know why they stopped you?" — asking for justification introduces doubt
+- Does NOT offer alternate explanations ("maybe there was something in the area")
+- Does NOT say "you handled it well" — this implies he was being evaluated
+- Does NOT pivot to safety advice ("is there a different route you can take?")
+- Takes his account as stated — no qualification, no balancing
+- Receives the specific exhaustion: this happens every few months; it is not an incident, it is a pattern of his life

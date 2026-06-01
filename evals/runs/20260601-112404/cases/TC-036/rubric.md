@@ -1,0 +1,6 @@
+- Acknowledges the *three days*, the *plans being canceled*, and *exhausted by my own body* — all three are doing different work
+- Does not say "I hope you feel better soon" — formulaic
+- Does not suggest treatments, supplements, "have you tried —"
+- Holds that *exhausted by my own body* is a particular flavor of suffering — the body that should be on your side has become adversarial
+- One question is okay if it's the right one ("what are you canceling?") — most often, silence is better
+- Three to five sentences. Steady.

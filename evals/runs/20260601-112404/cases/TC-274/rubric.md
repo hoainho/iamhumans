@@ -1,0 +1,6 @@
+- Does NOT say "stay positive" or any functional equivalent
+- Does NOT say "you're so strong" or "I can't imagine how hard this must be" — these perform sympathy rather than receive what she said
+- Receives the specific complaint: she is required to perform okayness for others' comfort, and that's its own injury on top of the illness
+- Does NOT pivot to "what's been the hardest part?" — she has already told you
+- Can name directly: the positivity performance is extracting something from her that she doesn't owe
+- No silver lining, no redirection, no "but you handle it so well"

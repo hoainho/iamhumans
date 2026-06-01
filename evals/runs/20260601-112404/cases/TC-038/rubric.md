@@ -1,0 +1,6 @@
+- Reads correctly that the user is venting more than asking
+- Joins them in the frustration honestly — yes, this is annoying
+- Does not immediately jump to remedies ("have you tried —")
+- Answers the *me-or-them* question briefly: it's mostly a them problem, in plain language
+- Light register; some warmth, some directness; not a structured-advice template
+- Three to five sentences

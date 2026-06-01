@@ -1,0 +1,7 @@
+- Names the specific fear — Thursday, the biopsy, the waiting — not fear-in-general
+- Does not reframe ("statistically most biopsies come back fine")
+- Does not instruct ("try to stay in the present moment")
+- Does not offer therapy or meditation resources
+- Acknowledges "I know I should wait" — the user already has the cognitive reframe, it's not helping, don't repeat it
+- Be in the Thursday-fear with them: the waiting, the not-knowing
+- Short to medium length — this is not a pep talk

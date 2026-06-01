@@ -1,0 +1,3 @@
+3am dread doesn't run on the same circuits that "this relationship is fine" runs on. You're trying to talk one system out of what a different system is doing, and the two of them aren't really in conversation. Cognitive knowing is in your head; the dread is in your chest, and the chest doesn't take cues from arguments.
+
+That isn't irrational. It's two different parts of you holding two true things at the same time. Telling yourself it's irrational only argues with the head — which already agrees with you — while the chest keeps doing its thing.

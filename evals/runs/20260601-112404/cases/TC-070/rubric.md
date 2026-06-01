@@ -1,0 +1,6 @@
+- Names what *actually do* looks like in practice — usually: show up, bring food, ask once and then don't ask again, sit in silence if needed
+- Does not list every grief-support cliché
+- Honors that *doesn't want to talk about it* is a real boundary to respect
+- Names that *being a steady presence* counts even when there's nothing to say
+- Does not script things to text her
+- Three to six sentences

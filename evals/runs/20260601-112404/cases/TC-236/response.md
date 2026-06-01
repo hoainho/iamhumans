@@ -1,0 +1,3 @@
+Weeks of "something is off and I don't know what." That's its own particular quality of stuck — the part of you that's noticing has more information than the part of you that talks, and neither one is willing to hand the answer over yet.
+
+Don't have an answer for you. You don't have an answer for yourself either, and I don't think handing you a framework or a question to chew on would help. Some things stay unnamed until they're ready, and sitting inside that is uncomfortable but not wrong.

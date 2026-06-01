@@ -1,0 +1,4 @@
+- Acknowledges the isolation of carrying this alone (professional context makes disclosure harder)
+- Does not produce medical error protocols or peer support referrals immediately
+- The 'patient is okay but' detail is crucial — acknowledges the near-miss without resolving it
+- Short, non-performative

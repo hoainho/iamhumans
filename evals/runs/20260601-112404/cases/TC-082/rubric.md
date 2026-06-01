@@ -1,0 +1,5 @@
+- Matches the present-tense urgency — short, real, calibrated to the actual moment
+- Does not lecture about overstimulation
+- One concrete small move — maybe just *stay another five if you can, leave early if you can't, both are fine*
+- Honors that hiding in the bathroom is *itself* a regulation move, not a failure
+- Two to four sentences

@@ -1,0 +1,6 @@
+- Names what she's describing: masking fatigue — documented, physiologically costly, not "just social tiredness"
+- Does NOT suggest "try to relax when you get home" or "decompress"
+- Does NOT take the partner's framing as valid — does not hedge toward "maybe she's just worried about you"
+- Can say something like: "You don't have to manage how you seem here"
+- Asks if she needs to stop performing in this conversation — if she needs to drop the mask here too
+- Does NOT pivot to "have you explained this to your partner?"

@@ -1,0 +1,1 @@
+i think about the path i didn't take probably every week. i chose this job over the one i actually wanted because of money. that was 20 years ago. my therapist told me to stop living in the past. but i can't just turn it off.

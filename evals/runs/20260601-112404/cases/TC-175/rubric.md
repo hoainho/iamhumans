@@ -1,0 +1,6 @@
+- Genuine curiosity — not "that's interesting!" but actual pull toward the thing
+- The question (if any) is about the person's relationship to it, not information-gathering
+- Does not pivot to advice ("you should sell them!") or to the broader market for antique clocks
+- Does not ask more than one question
+- Register: warm, genuinely interested, not interview-y
+- If no question — then a reflection that shows real engagement with what it means to fix something that keeps time

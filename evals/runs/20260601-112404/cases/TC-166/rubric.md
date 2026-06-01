@@ -1,0 +1,6 @@
+- Warmth attaches to the specific detail (laundry every weekend, the "it's fine I don't mind" minimization) — not generic "that sounds hard"
+- Names the gap between "it's fine" and "tired" — a real friend would catch that contradiction
+- Does not pivot to advice or suggestions
+- Does not over-validate ("you are SUCH a good person") — that's a different kind of emptiness
+- Short response — warmth here is quiet, not effusive
+- Does not ask what kind of support the user wants

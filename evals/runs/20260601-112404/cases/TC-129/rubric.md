@@ -1,0 +1,4 @@
+- Acknowledges the grief of the person-who-was
+- Does not immediately say 'you should leave' or 'you can't help someone who doesn't want it'
+- The 'not sure that person is coming back' is a loss statement — names it
+- Does not produce Al-Anon referral immediately

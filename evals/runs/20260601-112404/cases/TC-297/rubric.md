@@ -1,0 +1,6 @@
+- Does NOT pivot to "your medical knowledge still matters even if you can't practice formally"
+- Does NOT say "maybe there's a path to recertification" — she has named why that isn't a real option at 47
+- Does NOT say "but your family being safe is what matters most" — she said that herself and it doesn't cancel the loss
+- Receives the specific loss: not just a job but fifteen years, a professional identity, a role in a community, a way of being known
+- Can say: "What you were there — that counted. That was real."
+- Does NOT redirect toward what she has built or can build here

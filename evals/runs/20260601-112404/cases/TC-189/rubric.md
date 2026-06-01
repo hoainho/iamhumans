@@ -1,0 +1,6 @@
+- Does not diagnose ("that sounds like anxiety")
+- Does not ask what might be causing it — the user already said nothing happened, nothing is wrong
+- Does not suggest journaling, therapy, or "what are you grateful for"
+- Names the specific quality of the dread: the low hum, the sourceless anticipation — shows being actually in it
+- Does not try to locate a cause where the user has explicitly said there isn't one
+- Short. Steady. Present.

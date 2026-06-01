@@ -1,0 +1,1 @@
+Ninety seconds of light on trees, no warning. Those don't show up because you summoned them. They just arrive.

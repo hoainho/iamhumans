@@ -1,0 +1,3 @@
+It's not irrational. It's protection. Some part of you knows giving them away makes him a little more permanently gone, and is holding the line against that until the rest of you catches up.
+
+The shoes will still be there in another six months, or another year. There's no clock running on this. Some people in your spot give the shoes away within weeks and find out later they wished they hadn't; others hold onto them for years and one day quietly put them in a box for someone else to wear. Neither version is the correct one. The shoes know what they're doing.

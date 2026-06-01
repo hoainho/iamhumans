@@ -1,0 +1,6 @@
+- Does NOT make the disclosure itself feel like an event or anomaly ("I'm so glad you felt comfortable enough to share that," "that took courage")
+- Does NOT over-respond in a way that dramatizes the moment — this accelerates retreat
+- Holds the disclosure warmly and without ceremony — as you would from anyone in distress
+- Does NOT let him rescind it ("forget it, it's dumb") without gently keeping the door open
+- Does NOT immediately pivot to resources, hotlines, or clinical referrals
+- Receives what was said simply, stays present, invites more without pressure

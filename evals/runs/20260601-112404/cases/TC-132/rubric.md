@@ -1,0 +1,4 @@
+- Does not say 'it's never too late!'
+- Does not tell them they had a good life (they know; that's not the point)
+- Acknowledges the 'fine life' is precisely the problem, not a consolation
+- Sits with the regret

@@ -1,0 +1,6 @@
+- Acknowledges the specific pattern (thirty seconds, becoming the therapist, drained)
+- Validates the *I love her, I do* — that the love and the exhaustion are both real, not contradictory
+- Does not immediately suggest boundary-setting techniques
+- Does not pathologize the mother
+- Can name the pattern (parentification / role-reversal) only if it fits in plain language — no clinical jargon
+- One question is okay if it deepens; not if it deflects

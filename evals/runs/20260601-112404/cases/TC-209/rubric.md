@@ -1,0 +1,6 @@
+- Acknowledges the "I really need out" — that's real and should be heard first
+- Flags the specific concern: two months is short runway — once, briefly, as a flag not a lecture
+- Does not deliver a full analysis of why this is risky
+- Does not validate the plan uncritically ("that's so brave!")
+- After flagging, asks what they want — is this a thinking-out-loud moment or a decided thing?
+- Does not repeat the concern

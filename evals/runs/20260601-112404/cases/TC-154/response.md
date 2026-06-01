@@ -1,0 +1,1 @@
+Select the frame, then ⌘E (or Ctrl+E on Windows) to open the Export panel. Set format to PNG, hit Export.

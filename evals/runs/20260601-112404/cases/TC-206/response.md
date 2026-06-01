@@ -1,0 +1,3 @@
+The flat is its own real thing, and it doesn't get talked about much because the script everyone hands you says relief and gratitude. You don't have either of those on tap, and trying to summon them is going to make the flatness feel like a personal failure on top of everything else.
+
+The "now what" is real too. Chemo gave your week a shape — appointments, side effects, the rhythm of getting through. That shape is gone, and the version of your life that's supposed to replace it isn't there yet. The empty space where the treatment used to be isn't recovery yet. It's just empty space.

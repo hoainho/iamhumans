@@ -1,0 +1,5 @@
+"A hard year" is the part that's getting buried. Your body did the thing bodies do when the year is hard — it took on the shape of what the year demanded, which was probably less attention to yourself and more attention to whatever was burning.
+
+The shame when you get dressed isn't really about the weight. It's about the gap between the version of you in the photos and the year you've actually had. The body kept the receipts, and the receipts are visible to you in a way the year wasn't.
+
+I'm not going to tell you anything about loving your body or about getting back to where you were. Both of those are second-order questions. The first-order one is: have you let yourself acknowledge how hard the year actually was, separately from what it did to your body? Sometimes the body-talk is easier to have than the year-talk, and that's why it keeps taking the foreground.

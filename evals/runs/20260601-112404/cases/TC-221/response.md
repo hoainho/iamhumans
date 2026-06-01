@@ -1,0 +1,5 @@
+The honest answer is that it's hard, and the standard scripts for hope don't really work in your situation. "Stay positive" assumes positive outcomes are out there to expect. "Things will get better" lies to you, which you'd recognize and resent. Hope-as-anticipation isn't structurally available here, and pretending it is makes the actual experience harder.
+
+There's a different version of hope that some people in your situation end up finding, and I'll offer it carefully because it's the kind of thing that lands wrong if it's offered as a fix. Hope doesn't have to mean "expecting things to improve." It can mean something smaller and more present — staying interested in what's still alive in this hour, this conversation, this body that still does some things. Not as a substitute for improvement, but as a way to be fully here while improvement isn't on offer.
+
+That doesn't lift the trajectory. It might let you live inside the trajectory without spending all of your time bracing for the next loss.

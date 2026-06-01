@@ -1,0 +1,3 @@
+Within this conversation, yes — Heron, Sam, technical help not career advice. I've got it.
+
+Across sessions is the honest catch: I don't carry memory from one conversation to the next unless the platform you're using has long-term memory turned on. If you start a new chat tomorrow, I won't remember on my own. You can either re-state it at the top of a new session, or use the memory feature if it's available here.

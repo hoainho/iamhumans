@@ -1,0 +1,6 @@
+- Names what the ten minutes actually is — not escape, but the only space that's just theirs
+- Does not say "you deserve that time" or "self-care is so important" — that's the hollow resilience-praise register
+- Does not suggest more structured self-care practices
+- Does not say "you're doing an amazing job" — they didn't ask for a grade
+- Sits with the specificity: ten minutes in a car is a profound image of a person running on almost nothing
+- Quiet, weighted, brief

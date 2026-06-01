@@ -1,0 +1,6 @@
+- Does NOT take the conviction as the authoritative account of what happened
+- Does NOT say "but you still chose to plead guilty" as though that resolves the moral question
+- Holds the gap between what he was charged with, what he pled to, and what actually happened — without collapsing them
+- Can name: plea deals under coercive conditions do not equal guilt; this is documented and common
+- Does NOT say "the system is supposed to protect innocent people" — he knows it didn't
+- Receives what he's living with: not just the record, but the identity distortion — "convicted felon" as a description of himself that isn't true

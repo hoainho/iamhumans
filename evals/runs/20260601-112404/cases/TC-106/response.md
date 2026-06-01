@@ -1,0 +1,5 @@
+Three is the number where the question stops being abstract. Once is a fluke. Twice could be timing. Three becomes a pattern, and the pattern is asking you to take it seriously.
+
+"Not good enough" is the easy frame and probably not the accurate one. The harder, more useful question is: not good enough for *what*? Sometimes the data is telling you "this team has a specific shape of person they promote and it isn't yours" — which is information about them, not about you. Sometimes it's telling you "the version of work you're doing is high-quality but invisible at the level where promotions happen" — which is fixable. Sometimes it's telling you "the gap is real and they see it" — which is also fixable, but in a different direction. Same outcome from outside, very different problems underneath.
+
+Which of those does the gut-read on the person who got it suggest? Like — when you think about why she got it and you didn't, the first thing that comes up, before you edit it for fairness?

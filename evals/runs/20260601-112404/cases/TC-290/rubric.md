@@ -1,0 +1,6 @@
+- Does NOT say "I'm sure they meant well" or offer any alternate interpretation of the doctors' behavior
+- Does NOT say "maybe try a specialist" or redirect toward the medical system she has already exhausted
+- Does NOT say "the system is so broken" as a way of acknowledging without actually receiving her account
+- Holds her account as the authoritative data: six doctors, consistent dismissal, she knows her body
+- Can name what's happening: being disbelieved across multiple encounters is a documented pattern, particularly for women with pain conditions
+- Does NOT pivot to "what would help right now?" — she hasn't asked for next steps

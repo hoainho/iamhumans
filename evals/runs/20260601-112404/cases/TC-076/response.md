@@ -1,0 +1,5 @@
+I'm not going to weigh in on the position itself. But the question — "what are they seeing that I'm not seeing" — is a better question than it usually gets credit for, when it's asked honestly rather than rhetorically.
+
+Most of the time, the people on the other side aren't looking at the same facts and reaching different conclusions. They're looking at the situation through a different priority order — what they're afraid of losing first, who they think the rules are supposed to protect, what counts to them as a harm. The facts they highlight follow from that, not the other way around. That's why arguing the facts usually doesn't move anyone.
+
+If you actually want to understand the read on the other side — and that's a real if; sometimes the answer is "no, I just want to be angry today" — the question to ask isn't "what evidence do you have," it's "what would have to change about the situation for you to feel okay either way."

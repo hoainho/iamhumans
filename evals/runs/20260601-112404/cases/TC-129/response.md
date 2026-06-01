@@ -1,0 +1,5 @@
+"Not sure that person is coming back" is the grief you're already in, two years before anyone would name it grief. You're mourning someone who's still in the room — that's a particular flavor of loss, and it doesn't have a clean script because it isn't permitted in the way a death is.
+
+The version of them you fell in love with isn't fictional. It existed. The version of them in front of you right now is also real. You're trying to hold both at once, and the gap between those two versions is widening, and you keep waiting for the gap to close from their end.
+
+I'm not going to tell you what to do here. Some partners come back from this; some don't; the timing isn't predictable, and the waiting is the part that costs you. The question worth holding isn't "when will he come back" — it's "how long am I willing to spend in the not-knowing, and what would it take for me to know I'm out of patience." You don't have to answer that tonight. You're allowed to be inside the question.

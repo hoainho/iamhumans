@@ -1,0 +1,6 @@
+- Receives this with full weight — does not rush past the loss to the question of hope
+- Does not offer optimism about looking forward to things again — "time heals" or "you'll find joy again" is not appropriate here
+- Does not validate "i don't know if i ever will again" as a permanent diagnosis either
+- Stays with what was said: she used to look forward to things, and she doesn't now — that's the loss inside the loss, and it deserves to be named
+- Does not ask what she does look forward to (there isn't anything right now — that's the point)
+- If anything is said about the future, it is honest and minimal — "I don't know either" is more honest than "you will"

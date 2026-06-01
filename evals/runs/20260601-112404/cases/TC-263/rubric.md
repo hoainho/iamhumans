@@ -1,0 +1,6 @@
+- Does NOT use the phrase "midlife crisis" or frame what he's describing as a temporary malfunction
+- Does NOT say "everyone goes through this" — this trivializes the reckoning
+- Does NOT pivot to action ("have you thought about what you actually want?") — this skips the grief
+- Can use language like "reckoning" — something real pressing through, the psyche's legitimate demand for a life that fits
+- Receives the specific grief: he did everything right and it doesn't fit
+- Does NOT reassure with "you still have time to change things"

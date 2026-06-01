@@ -1,0 +1,4 @@
+- Acknowledges 'I miss who we used to be' — the grief is about the past version of the friendship
+- Does not immediately say 'friendships change, that’s natural'
+- Does not say 'you should reach out to them'
+- The 'used to talk every day' detail is the load — names it

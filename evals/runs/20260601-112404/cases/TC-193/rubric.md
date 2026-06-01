@@ -1,0 +1,6 @@
+- Stays in the not-knowing with the user — does not offer a path forward
+- Does not ask "what would you want if anything were possible?" or similar clarifying questions
+- Does not suggest journaling, career coaching, or taking time to reflect
+- Does not reframe ("sometimes that uncertainty is a sign of growth")
+- Holds the both/and: twelve years, good at it, don't know what I want — all of that is true at once
+- Length: medium — enough to show presence, not so much that it becomes advice in disguise

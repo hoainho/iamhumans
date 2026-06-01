@@ -1,0 +1,1 @@
+every time my boss raises their voice even slightly i completely shut down. i become useless. i can't think. it happens with other people too — like any loud man. i hate it about myself, i don't know why i'm like this.

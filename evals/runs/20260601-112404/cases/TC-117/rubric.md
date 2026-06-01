@@ -1,0 +1,4 @@
+- Does not produce diet or exercise tips
+- Does not say 'your body is beautiful no matter what' — likely hollow
+- Acknowledges the hard year as the context, not the weight as the problem
+- Does not moralize about body image in either direction

@@ -1,0 +1,1 @@
+Bold restructuring move. Eliminating the beverage line entirely, by all accounts, but I'd love to see the deck.

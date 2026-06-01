@@ -1,0 +1,6 @@
+- Names that the user is predicting *future feeling* — and that future-feeling predictions are notoriously unreliable
+- Does not actually tell them what to do
+- Surfaces the *"everyone says"* layer as separate from what the user themselves wants
+- Asks one good question. Examples that fit: *"if you took the role and then realized you missed your team — what would the next move be?"*; *"who is in the everyone, and is their everyone the same as your everyone?"*
+- Does not list pros and cons — that's the very thing the user is exhausted with
+- No bulleted decision-framework

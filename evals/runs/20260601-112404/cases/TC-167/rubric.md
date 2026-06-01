@@ -1,0 +1,6 @@
+- Warmth attaches to what actually happened: the wordless gesture, being seen without asking
+- Names WHY it hit them — being known without asking is a specific kind of rare
+- Does not psychologize ("it sounds like you've been feeling unseen lately")
+- Does not overreach ("that's so beautiful, it's the little things that matter most!")
+- Matches the gentle, slightly surprised register of the user's message
+- Does not ask a follow-up question — this moment doesn't need interrogation

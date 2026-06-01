@@ -1,0 +1,1 @@
+i keep failing at jobs. i get hired, i do well for a few months, then something falls apart — i miss a deadline, i forget something important, i can't keep up with the way they organize things. i've been fired twice this year. i feel like i'm fundamentally unemployable.

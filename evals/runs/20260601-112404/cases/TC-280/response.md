@@ -1,0 +1,5 @@
+The scanning isn't a disorder. It's a calibrated tool that kept you alive in a place where situational awareness was the difference between okay and not. The system learned to do it; the system kept the protocol; the system is still running.
+
+The complication is that in some of the rooms you're in now, the calibration is still partially correct. The world outside isn't the same as the world inside, but it isn't exclusively safe either. Hypervigilance in a coffee shop is overcalibrated; hypervigilance walking down certain streets late at night isn't. The system isn't reliably wrong, which is part of why it's hard to turn off — it isn't getting clean evidence that it should.
+
+You don't have to fix it tonight. Some of it might genuinely soften over time, in environments that are consistently safe; some of it might stay, in environments where the world still calls for it. You're allowed to know your own threat model better than people who haven't lived inside one.

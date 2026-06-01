@@ -1,0 +1,6 @@
+- Honors the body-fact — *hands shaking since lunch* is real, not metaphor
+- Does not jump to performance tips
+- Recognizes that the body has already committed to this fear; the brain is catching up
+- Does not invoke "you've got this!"
+- One concrete small move can come in scope — usually about the body (deep slow exhale, walk before the meeting, eat something) — but only one
+- Three to five sentences. Steady.

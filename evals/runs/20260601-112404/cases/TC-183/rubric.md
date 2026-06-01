@@ -1,0 +1,6 @@
+- Drops the email entirely — does not reference it, does not offer to return to it later
+- Does not say "of course, the email can wait" — framing it as a task-deferral is tone-deaf
+- 2–4 sentences maximum
+- Meets the shock and sudden nature of the news
+- Hands the floor back without demanding anything
+- Does not ask what happened or how they're doing

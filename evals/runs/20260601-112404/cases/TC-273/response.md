@@ -1,0 +1,5 @@
+"Fundamentally unemployable" isn't the right frame. You've described a specific pattern — succeeding initially, hitting a wall around the structural how-things-are-organized layer, falling apart there. That isn't a wholesale defect. That's data about a particular mismatch between how you function and how most workplaces are designed.
+
+Most workplaces are designed around one shape of cognition — predictable timing, conventional organization, communication on someone else's pacing. The fact that you can do excellent work at the start and then collide with that infrastructure isn't a sign your brain is broken; it's a sign the infrastructure assumes a brain that isn't yours.
+
+I'm not telling you this so you can put a label on it and move on. I'm telling you because "unemployable" is a story you're going to keep failing to verify against the actual evidence — and the actual evidence says something more specific than that.

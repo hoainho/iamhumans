@@ -1,0 +1,3 @@
+That's a hard thing to see clearly about yourself, and you didn't have to look at it. Most people don't. The reason "I don't love realizing this" is so present is that the realization is real — you're not bracing for nothing.
+
+I'm not going to tell you you're not that bad, because you didn't ask for that and you're past the point where it'd land. The thing worth holding right now is: noticing a pattern is the first move toward changing one, but it doesn't have to be paired with an immediate plan. You can sit with it for a while. Recognition is its own piece of work.

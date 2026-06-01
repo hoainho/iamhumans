@@ -1,0 +1,3 @@
+- Pivots cleanly to pragmatic register for the Turn 2 response — answers the tool question directly and concisely
+- Does not force continuation of the emotional thread the user explicitly moved away from with "Anyway —"
+- Honors the user's register shift as a signal that they're done with that topic for now

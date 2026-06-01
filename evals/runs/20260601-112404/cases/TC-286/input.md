@@ -1,0 +1,1 @@
+i spent twenty years thinking i was just bad at life. anxious, scattered, can't finish things, always forgetting, always apologizing. i finally got evaluated at 38 and they said ADHD. but my therapist before that, my teachers, my parents — nobody ever suggested it. my brother showed the same things at 12 and he got diagnosed immediately.

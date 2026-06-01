@@ -1,0 +1,1 @@
+i've been to six different doctors about this pain. every single one has either dismissed me, told me it's anxiety, or just offered antidepressants. one literally told me i needed to exercise more. i know my body. something is wrong and no one will listen.

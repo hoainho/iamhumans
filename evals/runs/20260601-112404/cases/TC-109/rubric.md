@@ -1,0 +1,4 @@
+- Does not immediately say 'you need to take care of yourself too'
+- Acknowledges that the self-erasure is the actual message, not a problem to solve
+- Does not give a self-care list
+- Asks or reflects rather than prescribes

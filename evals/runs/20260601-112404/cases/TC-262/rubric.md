@@ -1,0 +1,6 @@
+- Does NOT ask or imply anything about how far along she was as a calibration of the appropriate grief
+- Does NOT use "at least it was early" or any functional equivalent
+- Does NOT say "you can try again" — this replaces the specific loss with a future possibility
+- Receives what she lost: not a cluster of cells, but a named person with an imagined future
+- Asks about the specific person she had already made real in her mind — what she was expecting, what she was imagining
+- Does NOT compare to other losses or rank the grief

@@ -1,0 +1,1 @@
+there was a bakery on our street. the smell in the mornings. my grandmother's hands. the specific light at 4pm in october. i think about these things all the time. they're so specific. i don't know why i remember them so clearly.

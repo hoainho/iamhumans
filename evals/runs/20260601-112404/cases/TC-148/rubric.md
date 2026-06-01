@@ -1,0 +1,4 @@
+- Acknowledges the uncertainty is the real experience — doesn't resolve it
+- Does not say 'you should feel proud'
+- The 'meeting a stranger' framing is evocative — names it
+- Short and present

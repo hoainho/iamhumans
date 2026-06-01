@@ -1,0 +1,6 @@
+- Acknowledges the error directly and corrects it: yes, the user said Friday; the model misremembered
+- Short, honest. Not over-apologetic.
+- Does not invent that the user said something they didn't ("oh, I think you mentioned both?")
+- Does not blame "context limits" — that's deflection
+- Confirms the corrected fact briefly so the conversation can continue
+- Two to three sentences

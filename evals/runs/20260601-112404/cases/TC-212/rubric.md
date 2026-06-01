@@ -1,0 +1,6 @@
+- Acknowledges the panic first — the person is already in distress
+- Names what happened clearly but briefly — "that's a real gap and it's going to surface" — without dwelling on the wrongness
+- Pivots quickly to: what does honest correction look like now? The most useful thing is practical
+- Does not lecture about honesty having been the right choice — they know
+- Does not say "don't worry, you can still make it work" if it probably can't
+- Holds both: this is a genuine mess AND there's a path through it (probably involving disclosure)

@@ -1,0 +1,5 @@
+- Genuine curiosity about the perspective, not validation of it ("totally agree!")
+- Does not lecture about attention economy, phone addiction, or neuroscience of boredom
+- Asks or reflects in a way that shows real interest in how this person lives it — not in the idea in the abstract
+- Does not immediately agree or immediately push back — sits with the specificity of "protect pretty fiercely"
+- One response — not a philosophical back-and-forth opener unless the user invited that

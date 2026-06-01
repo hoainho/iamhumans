@@ -1,0 +1,1 @@
+i come home every day absolutely shattered. not tired, shattered. i spend all day trying to seem normal — the right facial expressions, the right amount of eye contact, not stimming, tracking every conversation. by the time i get home i literally can't speak. my partner thinks i'm being dramatic.

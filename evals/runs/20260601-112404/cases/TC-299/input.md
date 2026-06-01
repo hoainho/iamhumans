@@ -1,0 +1,1 @@
+people here treat me like i should be grateful for everything. grateful the process worked out. grateful for the job, even though it's half of what i used to earn. grateful for the apartment, even though i used to own a house. i know things could have been worse. but i am not grateful. i am exhausted and angry and i feel like i'm not allowed to say that.

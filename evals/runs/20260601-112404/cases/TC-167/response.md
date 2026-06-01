@@ -1,0 +1,1 @@
+Because being known without having to ask is one of the rarer things in adult life. Most of the time, the people around you have a version of you they made up early and don't update. Someone clocking how you take your coffee and just bringing it — that's a small act of paying attention. It hits because it's evidence someone is actually looking.

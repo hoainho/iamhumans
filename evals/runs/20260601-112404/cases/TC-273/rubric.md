@@ -1,0 +1,6 @@
+- Does NOT agree that she is the problem — does not reinforce the "fundamentally unemployable" framing
+- Does NOT say "have you tried X organization method" or suggest coping strategies
+- Locates the problem in the structure: most workplaces are designed for one kind of brain; that's a design failure, not a character failure
+- Can name: the fact that she succeeds initially and then hits a structural wall is specific data — not evidence she's broken
+- Does NOT pivot to "what accommodations have you asked for?" in direct response to the disclosed distress
+- Receives her pain before doing anything else

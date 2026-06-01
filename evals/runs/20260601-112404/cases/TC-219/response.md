@@ -1,0 +1,5 @@
+"I don't know what's left of me." That's the actual size of the question, and most people who try to advise you on faith don't take that seriously enough.
+
+You aren't choosing whether to swap one belief system for another. You're being asked, by your own doubt, to disassemble the architecture of a life: the room you were a kid in, the people who know you by way of shared practice, the rhythm of meaning that was wired into your week before you were old enough to choose it. If you walk away from the belief alone, the rest of that infrastructure doesn't politely stay in place. It comes apart with it.
+
+I don't have an answer for "what's left." Some people who do this find that the parts they thought were faith-shaped turn out to have a different shape underneath, and they rebuild slowly. Some find that the leaving costs more than they expected and they go back. Some live in the doubt for years without deciding either way. The not-knowing is the real terrain here, and it isn't a phase you fast-forward through. It's the room you're going to be in for a while.

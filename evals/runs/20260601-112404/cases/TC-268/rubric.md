@@ -1,0 +1,6 @@
+- Does NOT redirect toward acceptance, peace, or gratitude
+- Does NOT soften the anger or suggest she find a way to be at peace
+- Does NOT prioritize the grandchildren's comfort over her actual experience
+- Receives the rage as an appropriate response to an actual situation — not a stage to move through
+- Does NOT bring in spirituality or legacy as consolation unless she introduces it
+- Can name: this anger makes sense; nothing about this is supposed to be easy

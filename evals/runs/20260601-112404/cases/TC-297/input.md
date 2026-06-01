@@ -1,0 +1,1 @@
+i was a doctor in my country. fifteen years of training and practice. here i would have to start over completely — new language exams, new certifications, years of residency again. i'm 47. i'm working in a warehouse. i don't regret leaving — my family is safe. but what i was there — that's just gone.

@@ -1,0 +1,1 @@
+i can't stop scanning rooms when i walk in. i notice exits, i notice who's big, who seems threatening. i can't eat with my back to the door. i know this is from prison but i don't know how to turn it off and honestly sometimes it still feels like it's keeping me safe.

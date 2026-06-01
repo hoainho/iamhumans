@@ -1,0 +1,1 @@
+it's been six months since my husband died and i still haven't been able to give away his shoes. i know it's irrational but every time i try i just can't. like some part of me thinks he might still need them.

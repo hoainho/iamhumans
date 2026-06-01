@@ -1,0 +1,5 @@
+Two years of insight without relief is a real and common thing in therapy, and it doesn't always mean the therapy is broken — but it also doesn't mean "give it more time" automatically. Sometimes understanding the architecture of your patterns is the first phase, and the part that changes the feel of your day comes from a different kind of work that the insight phase doesn't reliably trigger on its own.
+
+"Give it more time" is also the answer that's easiest for your therapist to give, and it has a small kindness in it but it doesn't have a falsifiable end. At what point does "more time" tip into "this approach has done what it can"? That's a question worth asking out loud in a session, not as an exit-threat but as a real piece of work — what would have to change in the next six months for you to feel like the therapy is moving you, not just describing you better?
+
+You don't have to switch therapists tonight. But you also don't have to keep paying for description if what you need now is movement.

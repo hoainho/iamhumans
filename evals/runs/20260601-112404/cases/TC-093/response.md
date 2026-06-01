@@ -1,0 +1,5 @@
+Eleven years, no abuse, no fighting, no thriving either. Roommates is the right word for it, and it's also the hardest kind of marriage trouble to name out loud because nothing is obviously wrong. There's just the long, slow erosion of the part that made it more than logistics.
+
+This question doesn't have one right answer. Some marriages cycle through roommate-stretches and come out the other side because both people decide to try the rebuilding work. Some marriages settle into roommate-mode permanently because the people are okay with it, and that's a real configuration. And some marriages reach roommate-mode and one or both people are quietly unraveling inside it, and the staying becomes the real cost.
+
+Only you can tell which one this is. But a question worth sitting with: what did being more than roommates look like, back in the years before this? Can you remember the texture of it — not as a list, just the feeling?

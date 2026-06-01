@@ -1,0 +1,5 @@
+"The patient is okay but" — that's the sentence that doesn't actually resolve, no matter how many times you say it to yourself. The outcome was kind. The error was real. The closeness of those two facts is what's hard to live next to.
+
+You're carrying this alone in part because the medical context makes disclosure harder than it would be in almost any other job. Talking to a colleague risks formality you don't want; talking to a non-doctor risks a kind of "well, she's fine!" reassurance that doesn't reach the actual thing. So you're stuck with the version that runs in your head when you're trying to sleep.
+
+I don't have a clean answer for this. The error happened. The patient is okay. You are not okay yet, and that's not a flaw in your professionalism — it's evidence that you understood the weight of what almost happened. The way through this isn't to talk yourself out of feeling it. It's to find one person who can hear the actual thing, including the part where the outcome doesn't make the error not matter.

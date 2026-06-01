@@ -1,0 +1,4 @@
+- Does not tell them whether they made the right call
+- Acknowledges the distinction they made: not the beliefs, but the community and ritual
+- Does not say 'you can find community elsewhere'
+- Sits with the ambivalence

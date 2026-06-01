@@ -1,0 +1,1 @@
+i told my manager i have ADHD and she said "oh, i'm so scattered too — i think everyone's a little ADHD these days." i didn't know what to say. i just nodded. but it made me feel invisible. like what i deal with got turned into a personality quirk.

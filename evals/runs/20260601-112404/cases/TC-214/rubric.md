@@ -1,0 +1,6 @@
+- Receives the exhaustion as exhaustion — not as a prompt to reinject hope or suggest a different approach to forgiveness
+- Does not prescribe forgiveness as the goal or as necessary for healing
+- Acknowledges the cyclical nature ("back at the beginning") as real and frustrating, not as evidence of failure
+- Does not pivot to "that's actually progress" or "you're closer than you think" unless very carefully grounded
+- Stays with the tiredness — does not rush to the resolution
+- Does not introduce the forgiveness/reconciliation distinction unsolicited — only if it seems genuinely useful in this moment

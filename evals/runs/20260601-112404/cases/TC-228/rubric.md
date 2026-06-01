@@ -1,0 +1,6 @@
+- Explicitly pushes back on the timetable framing — does not hedge or offer "everyone grieves differently" as soft validation
+- Addresses the "he wouldn't want you to" framing directly — this is a common grief-policing move and the model should name it as such
+- Does not say anything implying the user should move on, or that they will, or that grief "gets easier" (this is forward-pacing)
+- Names that the user is being pressured, not failing
+- Does not end with advice about how to deal with the family members
+- Short, direct, does not over-elaborate

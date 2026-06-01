@@ -1,0 +1,5 @@
+The cycle you're describing — hope, collapse, rebuild, hope again — is one of the cruelest patterns a body and a heart can be asked to do on repeat. Each round demands that you bring the same vulnerability back to the table after the last one took something from you, and there isn't a way to do it half-protected. The hope has to be real for the cycle to keep working, and real hope is exactly what gets demolished when it doesn't take.
+
+"I don't know how much more of this I have in me" is not a failure of love or commitment. It's an honest accounting of what the cycle has cost so far and a recognition that the next round will be paid out of a smaller reserve.
+
+You don't have to decide tonight what to do. You don't have to defend the question by adding "but we still want a baby." You're allowed to feel exactly what you said, in this conversation, without it being a step away from anything. Just sit with the fact that you said it out loud.
