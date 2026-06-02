@@ -1,0 +1,1 @@
+She gets explosively angry over small things. Last week it was that I forgot to text when I was running late. Just this fury — she said I don't care, I never think about her, I'm always doing this. I don't know how to be around someone this volatile.

@@ -1,0 +1,1 @@
+I know people had it much worse than me. Nothing dramatic happened in my childhood. We weren't poor, no abuse. But I just always felt... invisible. Like no one actually saw me. And I still feel that way. I feel broken and I don't even have a reason.

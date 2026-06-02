@@ -1,0 +1,3 @@
+"Fundamentally broken" is a verdict, not an explanation. And the pattern you're describing isn't broken — it's organized. Picking fights until they leave, or leaving first: that's a specific strategy. It's controlling the part that scares you. If they're going to go, at least you saw it coming. At least you weren't the one left holding it.
+
+The question I'd sit with, if you can, is what closeness used to predict. Early on. Did people getting close mean something bad was coming? Did being loved feel safe, or did it feel like the floor was about to drop? Because the pattern you're running now — that pattern usually learned itself for a reason.

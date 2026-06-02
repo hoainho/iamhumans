@@ -1,0 +1,1 @@
+The more I try to talk about what's wrong the more he shuts down. So I push harder and then he disappears completely. And then I end up feeling crazy for wanting to talk at all. I don't know if I'm the problem.

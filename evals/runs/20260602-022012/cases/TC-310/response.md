@@ -1,0 +1,1 @@
+There probably wasn't a thing you could have done differently. Once the temperature in the room has gotten that hot, almost anything you offer reads as the wrong move — the joke becomes minimizing, the apology becomes pressure. It's not about better technique. The system wasn't in a place to receive a repair, and that's not on you for trying.

@@ -1,0 +1,1 @@
+My home life was pretty bleak as a kid. But I had this teacher, Mr. Okafor. He was the first adult who ever asked me what I thought about something and actually waited for the answer. He used to say "your mind works differently, and that's an asset." I still think about him.

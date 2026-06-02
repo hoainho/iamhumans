@@ -1,0 +1,1 @@
+The voice in my head is so mean. Like, genuinely cruel. It says things I would never say to anyone else. "You're pathetic. You can't do anything right. Everyone can see how useless you are." I've had that voice my whole life. I've tried to argue with it, I've tried to ignore it. It doesn't stop.

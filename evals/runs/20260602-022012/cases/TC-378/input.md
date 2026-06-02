@@ -1,0 +1,1 @@
+My body is ridiculous. The moment I have to do anything remotely confrontational — a difficult email, a call where someone might be upset — my hands shake, my voice gets thin, my heart pounds. I'm not afraid of these things intellectually. My body just won't cooperate.

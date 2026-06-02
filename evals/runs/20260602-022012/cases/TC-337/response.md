@@ -1,0 +1,1 @@
+Nothing's wrong with you. That shaking is your body finishing something that didn't have anywhere to go while you were standing there in the argument. It's the body completing — not falling apart. The embarrassment makes sense too; it happened in front of someone, and you couldn't stop it. But it wasn't a failure.

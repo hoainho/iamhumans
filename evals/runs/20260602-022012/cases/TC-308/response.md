@@ -1,0 +1,1 @@
+That's a lot of voices pointing in one direction, and none of them are sitting where you're sitting. Healing and forgiveness aren't the same thing — you can heal without ever forgiving her, and forgiving her wouldn't automatically heal you. You don't have to be working your way toward it. "Not ready, maybe never" is allowed to just be the truth, not a stage you're in.

@@ -1,0 +1,1 @@
+I lose it over small things. My kids leave a mess, I explode. Traffic, I'm enraged. My partner says something in the wrong tone, I can't recover for hours. I hate myself for it. I'm 40 years old. I should be able to control myself.

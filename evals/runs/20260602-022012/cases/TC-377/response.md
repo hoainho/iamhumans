@@ -1,0 +1,1 @@
+You learned to read a driveway. That tells me everything about what that house was. When the same person is your safety and your danger, your system can't pick one response — it has to be ready for both, all the time. The scanning kept you alive in there. It makes complete sense that it still runs now, even when the room is fine.

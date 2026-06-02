@@ -1,0 +1,1 @@
+I don't know if I'm allowed to feel bad. He always has a reason why I'm overreacting. And maybe he's right? I just know something feels wrong but I can't explain it. I can't point to anything specific.

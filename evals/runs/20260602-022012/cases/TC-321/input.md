@@ -1,0 +1,1 @@
+I apologize for everything. If someone seems unhappy near me I apologize even if I didn't do anything. If I ask for something and the other person seems annoyed I immediately apologize for asking. I've always been this way. I know it's too much.

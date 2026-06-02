@@ -1,0 +1,1 @@
+Yeah. What he gave you had the shape of an apology and the function of a defense — the "but" put it back on you. No wonder you don't know what to do with it. It's hard to land anywhere when the thing that was supposed to repair something turned into another version of the same thing.

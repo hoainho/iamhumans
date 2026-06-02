@@ -1,0 +1,1 @@
+I know he had a really hard childhood. He never learned how to regulate his emotions. When he screams at me I try to remember that it's not about me, it's his wounds. But it's getting harder to hold onto that.

@@ -1,0 +1,1 @@
+You don't have to have a reason for it. Some things the body carries didn't start in your chapter, and that doesn't make the terror any less real. It's allowed to be there without an explanation attached.

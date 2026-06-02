@@ -1,0 +1,1 @@
+I think what happened is that when she left I just shut down emotionally because I was afraid that if I let myself feel it I would fall apart and I couldn't afford to fall apart because of work and my kids so I just—

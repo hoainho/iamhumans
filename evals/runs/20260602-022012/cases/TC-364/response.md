@@ -1,0 +1,3 @@
+Money fights are almost never actually about money. The bill, the vacation, the line item — that's the surface. Underneath there's usually something more like: am I safe with you, are you taking care of me, do I get to be a person here with my own wants. Two people can both love each other and end up at war every Sunday because the same purchase means completely different things to each of them.
+
+And the exhaustion you're naming isn't just from the fights — it's from the question they keep producing in you. "Are we incompatible, or am I broken." That question is its own weight, separate from the arguments.

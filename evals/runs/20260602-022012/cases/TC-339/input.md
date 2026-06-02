@@ -1,0 +1,1 @@
+I've forgiven him. I made peace with it. It was years ago and I've moved on. But whenever his name comes up, or if I drive past his neighborhood, I feel this tightening in my stomach. Every time. I don't understand why.

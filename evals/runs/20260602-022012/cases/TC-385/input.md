@@ -1,0 +1,1 @@
+I'm the family crisis manager. Always have been. My parents divorced when I was 8, and I became the person who helped both of them through it. Now I'm 42 and I do the same thing at work, with my friends. Someone has a problem, I fix it. I don't know how to be in a relationship where I'm not managing someone. I'm exhausted.

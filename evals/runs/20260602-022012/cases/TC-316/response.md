@@ -1,0 +1,3 @@
+Months of that — the TV, the "nothing," sitting across from someone who used to be a partner and now feels like a roommate who doesn't quite see you. That's its own specific kind of loneliness, being in the room with someone who's gone somewhere you can't follow.
+
+Both of the things you're holding could be true, and they might both be partial. Sometimes when men shut down like that, what looks like distance or not-caring is actually something more like collapse — pain that hasn't found anywhere to go and turns into "nothing" because that's the only word available. That doesn't tell you what to do with it. It just maybe means the question of whether he loves you and the question of what's wrong with him aren't as separate as they feel right now.

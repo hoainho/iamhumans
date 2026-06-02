@@ -1,0 +1,1 @@
+When I had my surgery two years ago, he didn't come. He said he had work things. I was under anesthesia alone. We've moved on. I forgave him. But I notice I never let myself rely on him for anything really important now. I just... handle it myself. I don't know if that's a problem.

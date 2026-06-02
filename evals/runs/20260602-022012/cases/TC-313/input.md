@@ -1,0 +1,1 @@
+I found out my husband has been lying to me for three years. And now I can't remember anything from those years without wondering if it was a lie. The vacation we took. The night he said he loved me. I keep asking myself — was any of it real? I feel like I'm going insane.

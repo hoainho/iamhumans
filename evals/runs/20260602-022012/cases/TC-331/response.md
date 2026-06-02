@@ -1,0 +1,1 @@
+Sitting down and nothing sounding like anything — that's its own kind of report. Appetite is one of the quieter ways the body has of saying something, and yours has gone quiet. Forcing food past that and not tasting it is a strange, lonely thing to do alone at a table. Two weeks is a while to be there.

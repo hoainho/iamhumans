@@ -1,0 +1,1 @@
+I can't say no. To anyone. My boss loads me with extra work, my friends call me at midnight, my mom expects me to handle everything. I say yes. Every time. And then I resent all of them. I know I need to set boundaries. I just can't.

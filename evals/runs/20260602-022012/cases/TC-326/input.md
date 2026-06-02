@@ -1,0 +1,1 @@
+We fought for three hours last night. It started about money and became about everything. He said I never support him. I said he never listens. We both said things we regret. We woke up this morning and didn't speak.

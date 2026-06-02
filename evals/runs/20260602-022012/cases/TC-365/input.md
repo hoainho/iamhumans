@@ -1,0 +1,1 @@
+I know I'm too needy. I text too much, I need constant reassurance, I get anxious when my girlfriend doesn't respond quickly. I've been told before that I'm suffocating. I just don't know how to be different.

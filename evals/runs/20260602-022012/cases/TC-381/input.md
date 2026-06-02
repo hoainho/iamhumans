@@ -1,0 +1,1 @@
+The more she pulls away, the more I try to fix it. I cook elaborate dinners. I plan things. I apologize for things I didn't even do. And the more I do that, the more she seems to pull away. I know I'm making it worse. I don't know how to stop.

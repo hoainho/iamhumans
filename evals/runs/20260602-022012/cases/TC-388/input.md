@@ -1,0 +1,1 @@
+My partner is genuinely kind. Patient, consistent. I've never caught him in a lie. And yet I live in this constant low-level dread that something will go wrong. That he'll change. That I'll come home one day and everything will be different. My body is always half-braced. I hate it.

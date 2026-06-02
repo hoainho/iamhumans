@@ -1,0 +1,3 @@
+"I've always been this way" is the part that has the most in it, for me. That's not a tic. That's a long-running strategy that started for a reason.
+
+When sorry comes out that fast — for existing near someone's unhappiness, for asking, for taking up the smallest amount of room — it's usually not actually about being wrong. It's doing a different job: smoothing the air before anything can break in it, getting in front of someone else's reaction before it reaches you. Knowing it's "too much" doesn't get you anywhere on its own. But noticing what the sorry is actually for — that might be somewhere to start sitting.

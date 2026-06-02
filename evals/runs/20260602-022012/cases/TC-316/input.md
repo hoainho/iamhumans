@@ -1,0 +1,1 @@
+My husband hasn't really talked to me in months. He comes home, eats, watches TV, goes to bed. If I ask what's wrong he says "nothing" or gets irritable. I feel like I'm living with a stranger. I don't know if he's depressed or if he just doesn't love me anymore.

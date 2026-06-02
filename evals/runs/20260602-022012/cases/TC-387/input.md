@@ -1,0 +1,1 @@
+I've been told my whole life I'm too much. Too loud, too emotional, too intense, too needy. I've been trying to make myself smaller since I was a kid. I've gotten good at it. But lately something in me is like... no. I'm tired of being smaller. And I don't know what to do with that.

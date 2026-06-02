@@ -1,0 +1,1 @@
+I am so angry at my mom right now. She never calls. I call her, she picks up, she talks for ten minutes about herself and hangs up. I've said something once and she cried and made it about her. I'm furious.

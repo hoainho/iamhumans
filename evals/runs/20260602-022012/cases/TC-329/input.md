@@ -1,0 +1,1 @@
+I've been to therapy for years about my dad. I understand what happened. I understand why he was the way he was. I've talked about it from every angle. And yet when it comes up I still feel this contraction in my chest. I thought once I understood it, I'd be free of it.

@@ -1,0 +1,1 @@
+Almost forty years of waiting for him to see it. That's a long time to keep that door open inside yourself. The people who do the most damage are often the least equipped to ever turn around and own it — not because of you, but because owning it would require something they can't reach. The wait isn't irrational. It just may be up against something that doesn't move.

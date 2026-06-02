@@ -1,0 +1,1 @@
+We have the same fight over and over. Different words, different day, same place. We both know it and we can't stop. I always end up saying things I don't mean and then feeling ashamed. I don't want to be someone who fights like this.

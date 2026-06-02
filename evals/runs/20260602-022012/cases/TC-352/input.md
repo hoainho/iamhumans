@@ -1,0 +1,1 @@
+I've done so much work on the affair. Three years of therapy. I understand what happened. I even understand why. And yet if he comes home late without texting I feel this electric panic. Every time. I thought I was done.

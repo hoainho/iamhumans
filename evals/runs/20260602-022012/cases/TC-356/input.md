@@ -1,0 +1,1 @@
+I've been crying on and off all day about something so stupid. My best friend forgot my birthday. Like, not even a text. We've been friends for 15 years. I know she's going through a lot. I feel ridiculous for being this upset.

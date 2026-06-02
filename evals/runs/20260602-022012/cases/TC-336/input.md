@@ -1,0 +1,1 @@
+I keep saying it and I mean it — I feel like I'm suffocating. In this relationship, in this apartment, in this life. I literally cannot breathe sometimes. I know it's a metaphor but it doesn't feel like a metaphor.

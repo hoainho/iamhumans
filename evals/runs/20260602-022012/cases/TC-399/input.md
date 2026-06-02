@@ -1,0 +1,1 @@
+I looked in the mirror this morning and thought: when did I become this person? I don't mean physically. I mean, who is this person I am? I make responsible choices. I show up. I don't cause trouble. But I feel like somewhere in the last twenty years I just... stopped. Like something got turned off.

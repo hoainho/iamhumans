@@ -1,0 +1,1 @@
+My manager gave me a piece of critical feedback in a meeting today. Totally reasonable feedback. But I went home and cried for two hours. I feel worthless. Useless. Like I should just quit. I know the reaction is completely out of proportion. I don't understand why I'm like this.

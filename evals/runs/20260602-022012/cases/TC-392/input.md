@@ -1,0 +1,1 @@
+I just feel like nobody actually sees me. People are nice to me. They ask how I'm doing. But nobody actually wants to know. Like I could say anything and it would wash over them and they'd say "yeah totally" and move on. I'm tired of it.

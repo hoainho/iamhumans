@@ -1,0 +1,1 @@
+It didn't come out of nowhere. It came out of two years. You held all of that — your kids, your mom, your marriage, work — and held it well, and that costs something the body keeps count of even when nobody else does. The crash isn't the thing that happened to you. The two years was the thing. The crash is what happens when there's finally a little space to feel it.

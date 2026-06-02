@@ -1,0 +1,1 @@
+My partner and I are so different. When I'm stressed, I want to talk about it constantly. I need reassurance. I need to process. He shuts down. Goes quiet. Plays video games. I feel abandoned. He says I'm exhausting. We're stuck.

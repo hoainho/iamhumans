@@ -1,0 +1,1 @@
+I'm so angry I can't sit still. My chest is tight, my jaw is clenched. I keep replaying the conversation with my sister where she told me I was "too sensitive." I've been told I'm too sensitive my whole life. I'm done.

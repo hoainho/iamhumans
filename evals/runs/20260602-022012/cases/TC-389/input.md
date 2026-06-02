@@ -1,0 +1,1 @@
+Something happened at dinner with my family tonight. My brother dismissed something I said — a small thing — and I felt about 8 years old. I didn't say anything. I sat there and felt small and invisible and like I would disappear. I'm 36. I don't understand why this still happens.

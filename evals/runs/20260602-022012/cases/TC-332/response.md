@@ -1,0 +1,1 @@
+Something heavy in your chest, sitting there since yesterday. Not sharp, just present. The body holds things like that sometimes — settled in, taking up space, not asking to be named yet. You don't have to know what it is for it to be real.

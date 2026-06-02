@@ -1,0 +1,3 @@
+That confusion is real and it's exhausting — being inside something where the warm version of him and the hard version of him are both genuinely him, and you can't keep them in your head at the same time.
+
+The good periods aren't the opposite of the bad ones. In some relationships, the warm stretches and the hard stretches are part of the same thing — the warmth is what makes leaving feel impossible, and the hard part is what keeps the warmth feeling like rescue. That's not a verdict on what to do. It's just that the confusion you're feeling makes sense in a way that "go" or "stay" can't really hold.

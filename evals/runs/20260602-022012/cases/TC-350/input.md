@@ -1,0 +1,1 @@
+I ran everything for fifteen years. The house, the kids, my parents' care, my job. And then one day I just couldn't. I literally could not get off the couch. My family looked at me like I was broken. And I felt so ashamed. I was the one who held everything together.

@@ -1,0 +1,1 @@
+My partner and I are best friends. We're safe. We tell each other everything. We're kind to each other. But I feel nothing physical toward them anymore. And I love them. I just — I don't understand why this is happening and it scares me.

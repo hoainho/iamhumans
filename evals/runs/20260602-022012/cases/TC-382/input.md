@@ -1,0 +1,1 @@
+I didn't get the promotion. And the voice in my head immediately went to "of course you didn't, you're a fraud, everyone was going to figure it out eventually, you've been coasting on luck your whole career." I couldn't even be sad about it because I was so busy being attacked from inside.

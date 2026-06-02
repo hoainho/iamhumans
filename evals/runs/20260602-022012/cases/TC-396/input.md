@@ -1,0 +1,1 @@
+I've been with my girlfriend for three years. The relationship is actually good. But I know it's going to end. I don't know when, but I know. People always leave. I've never had anything that lasted. I just don't want to get attached and then have it blow up.

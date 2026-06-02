@@ -1,0 +1,1 @@
+Your body isn't malfunctioning. It's doing exactly what it learned to do — based on older information about what confrontation costs. Somewhere, at some point, it had real reason to brace like that. The intellectual part of you knows the email isn't dangerous. The body is working from a different file, one that was written earlier and hasn't been updated.

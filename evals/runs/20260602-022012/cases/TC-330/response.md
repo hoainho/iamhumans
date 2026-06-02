@@ -1,0 +1,1 @@
+You didn't do nothing. Your body did exactly what bodies do when something is happening that nothing else will work against — it went still. That's not failure or passivity. It's the move it had. And a thousand times of asking yourself why you didn't do something else — that's a lot of weight to carry on top of what already happened.

@@ -1,0 +1,1 @@
+The yes comes out before there's even a thought, doesn't it. That's not a willpower problem. Somewhere along the way, saying no had a cost you couldn't pay — so your system learned to skip that step entirely. The resentment underneath is actually doing something honest: it's the part of you that got bypassed, registering that it got bypassed, every single time.

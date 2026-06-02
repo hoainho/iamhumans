@@ -1,0 +1,1 @@
+I've never known who I am outside of a relationship. Even as a teenager. I define myself by who I'm with. When I'm single I feel like nothing. Not sad, just... empty. Like a container with nothing in it.

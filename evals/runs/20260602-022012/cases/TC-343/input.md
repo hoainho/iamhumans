@@ -1,0 +1,1 @@
+I think what's happening is that I've internalized my mother's critical voice to such a degree that I can no longer distinguish it from my own evaluation of myself. It's a fascinating psychological phenomenon, really. I'm reading a lot about inner critic frameworks.

@@ -1,0 +1,1 @@
+That kind of tired has a specific shape — the tired of being the one who, if you stopped, everything would fall. Loving them and being depleted by holding it all aren't in conflict; both are exactly true. From inside it, it doesn't really feel like a choice — it feels like what love looks like, and also like nobody else can see the weight of it. You're carrying real weight.

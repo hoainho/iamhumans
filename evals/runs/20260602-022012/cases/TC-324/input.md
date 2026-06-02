@@ -1,0 +1,1 @@
+My wife and I have been together for fifteen years and lately I feel like I'm living with someone I don't really know. Not in a bad way — she's still kind, we're still functional. But we don't really know each other anymore. I don't know when that happened.

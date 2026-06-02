@@ -1,0 +1,1 @@
+When things are good they're really good. He's warm and thoughtful and I remember why I fell in love with him. Then something shifts and it's bad again. My friends say I should leave but when things are good I can't imagine that. I feel confused all the time.

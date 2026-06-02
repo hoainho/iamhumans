@@ -1,0 +1,1 @@
+I can't explain it. I've never been in a car accident, I've never been in a dangerous situation with cars. But every time I'm in certain traffic I feel this absolute terror. My heart goes. I have to breathe through it. I don't have a reason for it.

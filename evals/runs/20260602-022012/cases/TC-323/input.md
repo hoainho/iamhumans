@@ -1,0 +1,1 @@
+He started doing nice things. Bringing me coffee in the morning, asking how my day was. And I can't trust it. It feels fake, or like he's trying to manage me. My friends say I'm being paranoid. But I can't make myself believe it's real.

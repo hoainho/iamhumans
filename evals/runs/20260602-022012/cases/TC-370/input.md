@@ -1,0 +1,1 @@
+I was always the one who made sure everyone was okay. My mom was depressed and my dad was checked out. I learned to read the room before I walked in the door. I knew how to manage my mom's moods before I could tie my shoes. I'm 38 now and I still do it. I walk into any room and immediately start figuring out what everyone needs.

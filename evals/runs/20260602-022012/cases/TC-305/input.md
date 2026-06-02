@@ -1,0 +1,1 @@
+I'm so tired. I manage everything at home. I remember everyone's appointments, track all the finances, handle every crisis. If I don't do it it doesn't get done. And I love my family but I am so tired.

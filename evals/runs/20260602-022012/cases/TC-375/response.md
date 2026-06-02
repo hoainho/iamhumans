@@ -1,0 +1,1 @@
+Reasonable feedback doesn't make a person cry for two hours. Which means the crying wasn't about the feedback. Something in that meeting landed on something much older, and what you were sitting with at home was probably that older thing arriving, not your manager's actual words. The size of the reaction is information — it's just information about somewhere else.

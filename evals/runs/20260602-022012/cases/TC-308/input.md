@@ -1,0 +1,1 @@
+Everyone keeps telling me I need to forgive my mother if I want to heal. My therapist. My friends. Even a book I was reading. I'm not ready. I don't know if I'll ever be ready. And I'm tired of being told that my healing depends on something I haven't done yet.

@@ -1,0 +1,1 @@
+The coldness and the little digs aren't a sign you went too far. They're the system you've been holding together for everyone else feeling the shift and pushing back to get the old version of you to come back. That pressure tends to land hardest right when the change is actually working. You felt good about saying no because something true happened. That part is still true.

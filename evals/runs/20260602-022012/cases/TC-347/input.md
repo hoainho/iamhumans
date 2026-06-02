@@ -1,0 +1,1 @@
+I've had this feeling in my chest my whole life. Since I was a child. Like a kind of dread that lives there. I've never been through anything that would explain it. My childhood was fine. My life is fine. But the dread is always there.

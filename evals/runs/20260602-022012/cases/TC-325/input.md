@@ -1,0 +1,1 @@
+I can't stop asking questions. How many times. Was it better. What did you say to her. I know it's destroying me but I can't stop. I feel like if I know every detail I'll understand it. But I never do. And then I ask more.

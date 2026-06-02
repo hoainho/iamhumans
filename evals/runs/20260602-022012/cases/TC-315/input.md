@@ -1,0 +1,1 @@
+My partner loses it over small things. If I forget something she told me, or if I'm a few minutes late. And it's always the same accusations — that I don't care, that she doesn't matter to me. I love her but I'm starting to feel like I'm walking on eggshells.

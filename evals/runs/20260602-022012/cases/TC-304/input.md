@@ -1,0 +1,1 @@
+I finally started saying no to things — to my mom, to friends, even to my partner. I felt so good about it. But now my partner is cold and distant and keeps making little digs. I'm starting to think maybe I changed too much.

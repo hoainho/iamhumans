@@ -1,0 +1,1 @@
+When it happened I just froze. I didn't say anything, I didn't run, I didn't push him away. I just went still. People ask why I didn't do something and I don't have an answer. I've asked myself that a thousand times.

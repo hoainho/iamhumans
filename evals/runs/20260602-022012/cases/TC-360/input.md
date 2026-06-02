@@ -1,0 +1,1 @@
+I grew up in a pretty chaotic home. Alcoholic dad, mom who was checked out. I spent years in therapy and I feel like I've genuinely built something different for myself. My marriage is stable, my kids feel secure. But sometimes I still wonder if I'm broken somewhere I can't see.

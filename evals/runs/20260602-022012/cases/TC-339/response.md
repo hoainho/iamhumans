@@ -1,0 +1,1 @@
+Both of those things can be true. You did finish with him — and your body is still somewhere a little earlier than your mind is. They don't always move at the same speed, and the tightening isn't proof that the forgiveness wasn't real.

@@ -1,0 +1,1 @@
+I've been thinking and I think I'm just the problem. In every relationship. With my family, with my ex, with my friends. There's a common denominator and it's me. I'm not saying this to feel sorry for myself. I think it's just true.

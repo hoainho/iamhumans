@@ -1,0 +1,1 @@
+I genuinely don't know what I feel half the time. Like, I'll be asked how I'm feeling and I'll say "I don't know" and I mean it. I know there's something there, but I can't access it. It's like looking at fogged glass.

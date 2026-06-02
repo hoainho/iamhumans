@@ -1,0 +1,1 @@
+In any conflict I just completely shut down. I go blank. I can't speak. My partner thinks I'm stonewalling them on purpose, but I'm genuinely just gone. I'm embarrassed by it. I'm an adult. I should be able to have a hard conversation.

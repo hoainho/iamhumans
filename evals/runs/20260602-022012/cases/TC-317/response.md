@@ -1,0 +1,3 @@
+That loop — the one where you can both see it happening and still can't stop — is one of the worst feelings in a relationship. You watch yourself saying the thing and you already know how you'll feel about it later, and you say it anyway.
+
+When a fight is that automatic, it's usually not really being driven by the version of you that wants to be a better partner. Something older runs the exchange and the reflective adult shows up a minute too late, just in time to feel ashamed of what already came out of your mouth. The shame is real, and the fact that you don't want to be someone who fights like this — that part is also real. Both of those are you.

@@ -1,0 +1,1 @@
+Growing up I never knew which version of my dad I'd come home to. Some days he was warm and wonderful. Other days he was terrifying — screaming, throwing things. I learned to read the car in the driveway. What time he got home. Whether he'd had a drink. I still scan every room I enter for threat.

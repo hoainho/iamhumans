@@ -1,0 +1,1 @@
+My doctor can't find anything wrong. But I've been sick for months — fatigue, pain, things that come and go. And I realized the sickness started right when I stopped talking about what was happening with my sister. I stopped saying anything about it to anyone. And then this started.

@@ -1,0 +1,1 @@
+I'm 45 and I don't actually know who I am. I've been whoever I needed to be my whole life. With my parents, with my husband, with my kids, at work. I'm great at it. But there's no "me" underneath. I feel like I'm an actor who forgot there's a character to play.

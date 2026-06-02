@@ -1,0 +1,1 @@
+I've done so much work on myself. Years of therapy. I understand my family, I understand why they were the way they were. I don't blame them anymore. But sometimes I still feel this ache for something I can't name. Like I missed something and I don't know what it was.

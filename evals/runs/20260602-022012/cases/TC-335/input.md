@@ -1,0 +1,1 @@
+I don't know where to start. There's so much. My mom called and then my boss emailed and I found out about the apartment and now I don't know what to do about any of it and I can't think and I need to figure this all out and I don't know where to start.
