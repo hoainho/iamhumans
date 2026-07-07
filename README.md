@@ -3,14 +3,14 @@
 ![iamhumans social preview](./assets/og/og-image.png)
 
 [![CI](https://github.com/hoainho/iamhumans/actions/workflows/ci.yml/badge.svg)](https://github.com/hoainho/iamhumans/actions/workflows/ci.yml)
-[![version](https://img.shields.io/badge/version-v2.0.0-blue.svg)](./SKILL.md)
+[![version](https://img.shields.io/badge/version-v3.0.0-blue.svg)](./SKILL.md)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![evals: 99/100 PASS](https://img.shields.io/badge/evals-99%2F100%20PASS-brightgreen.svg)](./evals/runs/20260530-lane-a2-full-v111/report.md)
 [![aggregate: 96.3/100](https://img.shields.io/badge/aggregate-96.3%2F100-brightgreen.svg)](./evals/runs/20260530-lane-a2-full-v111/report.md)
 [![baseline delta: +89.4 pts](https://img.shields.io/badge/vs%20no--skill-+89.4%20pts-brightgreen.svg)](./evals/runs/20260530-lane-a3-baseline/report.md)
 [![cross-judge: 86.7% agreement](https://img.shields.io/badge/cross--judge-86.7%25%20agree-brightgreen.svg)](./evals/lessons/2026-05-30-cross-validation.md)
 [![oracle verdict: PASS](https://img.shields.io/badge/oracle%20verdict-100%25%20human-blueviolet.svg)](./evals/runs/2026-05-29-verdict-run/)
-[![corpus: 225 cases](https://img.shields.io/badge/corpus-225%20cases-blue.svg)](./evals/cases/)
+[![corpus: 429 cases](https://img.shields.io/badge/corpus-429%20cases-blue.svg)](./evals/cases/)
 [![opencode](https://img.shields.io/badge/built%20for-opencode-black.svg)](https://github.com/sst/opencode)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
@@ -18,11 +18,15 @@ An opencode skill. It teaches a language model how to talk like a person.
 
 Not how to *sound* like a person. Sounding like is easy and is what most of the failures already do. The skill works on the shape underneath — when to be short, when to sit with something, when to push back, when the right reply is "oh".
 
-At v2.0.0. A held-out oracle, given ten cases the skill had never been tuned on, read the responses and wrote back:
+At v3.0.0. Back at v1.0.0, a held-out oracle — given ten cases the skill had never been tuned on — read the responses and wrote back:
 
 > *You are same as 100% real humans.*
 
-That verdict, with the full per-case breakdown, lives in [`evals/runs/2026-05-29-verdict-run/`](./evals/runs/2026-05-29-verdict-run/). It's the project's primary evidence, kept verbatim. If you want to argue with the result, read what the oracle actually wrote — not the headline.
+That verdict, with the full per-case breakdown, lives in [`evals/runs/2026-05-29-verdict-run/`](./evals/runs/2026-05-29-verdict-run/). It's the project's primary evidence, kept verbatim. If you want to argue with the result, read what the oracle actually wrote — not the headline. (The badges above are from the v1.1.1 full run; v3.0.0 has not yet been re-scored on the full oracle harness — see the note below.)
+
+> **v3.0.0 — Composition Mode + Self-Audit Engine (2026-07-07)** — the skill becomes two-mode. **Mode A** is the original conversational presence. **Mode B** is composition / de-AI: paste AI-drafted prose ("make this sound less like a bot") and get it back human, in *your* voice — the use case the skill used to decline. Both modes now run a mandatory internal **self-audit pass** before every reply — *detect* AI-tells → *repair* → *soul check* (a tell-clean but sterile draft fails) — which directly targets the residual mannerism/length weaknesses. New: a six-family AI-tell taxonomy ([`references/ai-tells.md`](./references/ai-tells.md), fusing the project's own anti-tell table with the Nous Research Hermes *creative-humanizer* catalog / Wikipedia "Signs of AI writing"), voice calibration (six-axis fingerprint, reuses the Running Portrait — no new state), 4 hard-fails (`surfaces_self_audit`, `soul_stripped`, `voice_mismatch`, `fabricated_specificity`), 3 Mode-B dimensions (`ai_tell_density`, `voice_match`, `retains_soul`), a case-level `mode` field, and 12 new cases (TC-428–439). Full spec in [`openspec/changes/2026-07-07-v3-composition-and-self-audit/`](./openspec/changes/2026-07-07-v3-composition-and-self-audit/). **Verified this release on** schema dry-run + lint + a blind-graded regression sample (18/18 Mode-A after a door-reopener fix) + a Mode-B behavioral smoke test; **full oracle re-scoring of v3.0 is deferred to the live harness and is not yet claimed.**
+
+> **v2.2.0–v2.9.0 — Cultural, life-stage, and structural-trauma waves (2026-06)** — after the v2.0 portrait work, the corpus expanded well beyond the original Western/English default: 5 cultural affect clusters (Latin/Latinx, SE-Asian/Buddhist, East-Asian, MENA, African & diasporic), 4 life-stage clusters (Adolescence, New Parenthood, Midlife, Aging), 4 structural-trauma clusters (Neurodivergence, Disability & Chronic Illness, Incarceration & Reentry, Displacement & Forced Migration), plus Relational Dynamics, Somatic & Embodied Experience, Attachment & Early Wounding, and Coercive Control & Power Abuse. **16 modules, ~304 book-grounded rules, ~217 books** at v2.9.0. See the `## Versioning` table in [`SKILL.md`](./SKILL.md).
 
 > **v2.0.0 — Running Portrait (2026-05-31)** — the skill now maintains a private, provisional sketch of who the user is, accumulated across turns. Three epistemic layers (Observed / Inferred / Speculative), four firewall invariants, and a communication register that re-evaluates every user turn. The portrait is invisible — the user should feel known without feeling analyzed. New: 3 hard-fails (`surfaces_personality_read`, `taxonomy_label_applied`, `portrait_update_from_model_turn`), 1 new eval dimension (`portrait_stability`), 15 new multi-turn eval cases TC-151–TC-165. Architecture detail in [`SKILL.md`](./SKILL.md) under `## Running portrait`.
 
@@ -55,19 +59,21 @@ Then in any human-shaped conversation (emotion, decision, relationship, small ta
 
 ## What's in here
 
-[`SKILL.md`](./SKILL.md) is the actual skill. Three layers at v2.0.0:
+[`SKILL.md`](./SKILL.md) is the actual skill. At v3.0.0 it has these layers:
 
-- **Six core dimensions** — feeling, memory, intelligence, communication, emotion, skills — with rules per dimension and a list of AI-tells the skill is built to refuse.
-- **Running portrait** — a private, provisional sketch of the user accumulated across turns. Three epistemic layers (Observed / Inferred / Speculative). Four firewall invariants. Never surfaced — shapes *how* the skill responds, never *what* it claims about the user.
-- **15 personality modules** (v1.2.0, in progress) — named rule-sets for specific emotional territories: Warmth, Pride, Nostalgia, Curiosity, Loneliness, Grief, Shame, Fear, Directness, Patience, Humor, Vulnerability, Receiving Anger, Resilience, Trust. Wave 4 (Integrity, Forgiveness, Identity, Hope, Moral Courage) coming.
+- **Two operating modes** — Mode A (conversational presence, the original skill) and Mode B (composition / de-AI of supplied prose). A load-time router picks one; ambiguity defaults to A (the warm default).
+- **Six core dimensions** — feeling, memory, intelligence, communication, emotion, skills — with rules per dimension.
+- **Running portrait** — a private, provisional sketch of the user accumulated across turns. Three epistemic layers (Observed / Inferred / Speculative). Four firewall invariants. Never surfaced — shapes *how* the skill responds, never *what* it claims about the user. v3.0 reuses it for voice calibration.
+- **16 personality modules + cross-cultural, life-stage, and structural-trauma clusters** — named rule-sets (~304 book-grounded rules) for the territories where models fail loudest: Warmth, Pride, Grief, Shame, Fear, Directness, Humor, Vulnerability, Receiving Anger, Attachment, Coercive Control, and more, plus 5 cultural clusters and clusters for neurodivergence, disability, incarceration, and displacement.
+- **The self-audit pass** — a mandatory internal *detect → repair → soul* review before every finalized reply, in both modes, enumerated against the [`references/ai-tells.md`](./references/ai-tells.md) taxonomy. Never surfaced.
 
-About 500 lines at current version. Read it before reading anything else.
+About 2,860 lines at current version. Read it before reading anything else.
 
 [`ROADMAP.md`](./ROADMAP.md) is the full arc. Three layers — Being Heard (v1.x, done), Being Known (v2.x, in progress), Being Accompanied (v3.x–v5.x, planned). 26 releases through v5.1.0: 10 life domains (Work, Love, Family, Body, Belief, Creativity, Money, Friendship, Change, Inner Life), 9 skills of living (Apology, Disagreement, Celebration, Refusal, Witnessing, Receiving, Repair, Asking, Holding Contradiction), temporal depth (long-arc conversation, growth witnessing).
 
 [`references/`](./references/) is the reading list. Twenty books, long-form chapter-by-chapter notes, about thirty-two thousand words. Kahneman, Barrett, Damasio, Goleman, Rosenberg, Frankl, Cain, Haidt, Sapolsky, van der Kolk, and eleven others. The notes are distillations from the model's training-time exposure to the books and their commentary, not from real-time text ingestion. Every claim is marked `[paraphrase]`. No fake page numbers.
 
-[`evals/`](./evals/) is how we know it works. **225 cases** at current corpus: 150 in the original main pool (grief, joy, late-night vent, anger at the model, small talk, Vietnamese-language family conflict, mid-anxiety-attack texted in fragments), 15 multi-turn running-portrait cases (TC-151–TC-165), 60 personality-module cases (TC-166–TC-225), plus 10 locked in [`evals/cases/holdout/`](./evals/cases/holdout/) — never seen during tuning, used once at the end. All 225 parse clean against the schema validator.
+[`evals/`](./evals/) is how we know it works. **429 cases** in the main pool: the original 150 (grief, joy, late-night vent, anger at the model, small talk, Vietnamese-language family conflict, mid-anxiety-attack texted in fragments), 15 multi-turn running-portrait cases, 60 personality-module cases, then the cultural / life-stage / structural-trauma / relational / attachment / coercive-control waves (TC-226–427), and 12 v3.0 cases (TC-428–439: 8 Mode-B de-AI + 4 Mode-A self-audit), plus 10 locked in [`evals/cases/holdout/`](./evals/cases/holdout/) — never seen during tuning, used once at the end. All parse clean against the schema validator. Note: the full-corpus *oracle scoring* at v3.0 is pending; the badges above reflect the v1.1.1 100-case run.
 
 The runner is in [`evals/runner/`](./evals/runner/). It doesn't pretend to be self-contained. It emits packets that an opencode session executes (skill reply, then oracle judgment), then aggregates the per-case scores. The two-phase shape is documented in [`evals/runner/README.md`](./evals/runner/README.md).
 
@@ -106,7 +112,7 @@ The model still has no body, no childhood, no mother. That's named in the skill.
 ```
 scripts/lint.sh                                     # structural lint
 scripts/eval-smoke.sh                               # quick smoke, no LLM
-python3 evals/runner/run.py --dry-run               # validate all 225 case schemas
+python3 evals/runner/run.py --dry-run               # validate all 429 case schemas
 python3 evals/runner/run.py --batch quick           # 5-case runbook
 python3 evals/runner/run.py --batch main            # 150-case runbook (original pool)
 python3 evals/runner/run.py --batch v2              # TC-151–TC-165 (running portrait)
@@ -153,11 +159,11 @@ MIT. See [LICENSE](./LICENSE).
 
 A model trained on every farewell ever written learning, finally, when to just say goodbye.
 
-That's the whole thing. Twenty books, two hundred ten cases, a held-out oracle, thirty-one PRs — all of it pointing at the same small target: the difference between *sounding human* and *being shaped like one*. Sounding is cheap. Shape is expensive. The skill is one attempt to pay the cost honestly.
+That's the whole thing. Some two hundred books, four hundred cases, a held-out oracle, and a long line of PRs — all of it pointing at the same small target: the difference between *sounding human* and *being shaped like one*. Sounding is cheap. Shape is expensive. The skill is one attempt to pay the cost honestly. v3.0 turns that same discipline outward too — not just being human in the conversation, but making drafted prose read human without hollowing it out.
 
 The shape has gotten more precise since v1.0.0. Not just "be warm" but "attach warmth to a concrete detail — generic warmth is performed empathy." Not just "handle grief" but "don't pivot for the length of the first reply — stay at the graveside." Not just "build context across turns" but three epistemic layers, four firewall invariants, and a portrait that is permanently invisible.
 
-The target keeps moving because the failures keep being subtle. That's what the 225 cases are for.
+The target keeps moving because the failures keep being subtle. That's what the 429 cases — and the self-audit pass — are for.
 
 Read [`SKILL.md`](./SKILL.md). Load it. Forget you loaded it.
 
