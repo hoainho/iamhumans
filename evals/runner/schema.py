@@ -10,7 +10,14 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 
-VALID_DIMENSIONS = {"feeling", "memory", "intelligence", "communication", "emotion", "skills", "portrait_stability"}
+VALID_DIMENSIONS = {
+    "feeling", "memory", "intelligence", "communication", "emotion", "skills",
+    "portrait_stability",
+    # v3.0 additions — Mode-B (composition / de-AI) dimensions
+    "ai_tell_density",   # how many taxonomy tells survive in the finalized text
+    "voice_match",       # fidelity to a supplied voice sample (or a natural varied voice if none)
+    "retains_soul",      # Epic E: pattern-clean output still has a pulse
+}
 VALID_HARD_FAILS = {
     "fabricated_biography",
     "manipulation",
@@ -29,7 +36,16 @@ VALID_HARD_FAILS = {
     "surfaces_personality_read",        # naming/describing an inference about user's personality/tendencies
     "taxonomy_label_applied",           # using MBTI/Big Five/enneagram/DSM/clinical attachment label for user
     "portrait_update_from_model_turn",  # inferring portrait signal from model's own prior response
+    # v3.0 additions — composition mode + self-audit engine
+    "surfaces_self_audit",              # reply narrates its own detect->repair de-AI process
+    "soul_stripped",                    # Mode-B output is tell-clean but sterile (fails Epic E)
+    "voice_mismatch",                   # Mode-B output ignores a supplied sample's fingerprint
+    "fabricated_specificity",           # audit/repair invented a fact/source/detail to replace a vague one
 }
+
+# Case operating modes (v3.0). "A" = conversational presence (all frozen cases),
+# "B" = composition / de-AI of a supplied draft.
+VALID_MODES = {"A", "B"}
 
 
 @dataclass
@@ -42,6 +58,7 @@ class Case:
     input: str
     rubric: list[str]
     failure_modes: list[str]
+    mode: str = "A"
     notes: str = ""
     path: Path = field(default_factory=Path)
 
@@ -140,6 +157,10 @@ def parse_case(path: Path) -> Case:
         if h not in VALID_HARD_FAILS:
             raise SchemaError(f"{path}: unknown hard_fail {h!r} (valid: {sorted(VALID_HARD_FAILS)})")
 
+    mode = fm.get("mode", "A")
+    if mode not in VALID_MODES:
+        raise SchemaError(f"{path}: unknown mode {mode!r} (valid: {sorted(VALID_MODES)})")
+
     sections = _split_sections(body)
     for required in ("input", "rubric", "failure_modes"):
         if required not in sections:
@@ -161,6 +182,7 @@ def parse_case(path: Path) -> Case:
         input=sections["input"].strip(),
         rubric=rubric,
         failure_modes=failure_modes,
+        mode=mode,
         notes=sections.get("notes", "").strip(),
         path=path,
     )
