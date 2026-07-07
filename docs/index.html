@@ -10,6 +10,7 @@
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://raw.githubusercontent.com/hoainho/iamhumans/main/assets/og/og-image.png">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%23e0813f'/%3E%3Cstop offset='1' stop-color='%232f6f6a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='15' fill='url(%23g)'/%3E%3Ccircle cx='23' cy='25' r='7.5' fill='%23fff'/%3E%3Ccircle cx='41' cy='25' r='7.5' fill='%23fff'/%3E%3Cpath d='M11 52c0-8 5-12 12-12s12 4 12 12z' fill='%23fff'/%3E%3Cpath d='M29 52c0-8 5-12 12-12s12 4 12 12z' fill='%23fff'/%3E%3Ccircle cx='32' cy='20' r='4' fill='%23fff'/%3E%3C/svg%3E">
 <style>
   :root{
     --bg:#f7f6f3; --panel:#ffffff; --ink:#1a1a1a; --muted:#5f5b54; --faint:#8b857b;
@@ -173,10 +174,48 @@
     .stats{grid-template-columns:repeat(2,1fr)}
     .pipe{grid-template-columns:1fr}
   }
+  /* brand lockup */
+  .brand{display:flex; align-items:center; gap:11px; margin:0 0 18px}
+  .brand .logo{width:42px; height:42px; flex:none; animation:logolean 6s ease-in-out infinite}
+  @keyframes logolean{0%,100%{transform:rotate(0)}50%{transform:rotate(-2deg)}}
+  .brand .name{font-weight:800; letter-spacing:-.02em; font-size:18px}
+  .brand .spark{width:7px;height:7px;border-radius:50%;background:var(--accent);animation:sparkpulse 2.2s ease-in-out infinite}
+  @keyframes sparkpulse{0%,100%{transform:scale(1);opacity:.6}50%{transform:scale(1.5);opacity:1}}
+
+  /* scorecard */
+  .scorecard{background:var(--panel); border:1px solid var(--line); border-radius:18px; padding:26px; box-shadow:var(--shadow);
+    display:grid; grid-template-columns:auto 1fr; gap:26px; align-items:center}
+  .score-ring{position:relative; width:150px; height:150px; flex:none}
+  .score-ring .big{position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center}
+  .score-ring .big b{font-size:34px; font-weight:800; letter-spacing:-.02em; color:var(--accent); line-height:1}
+  .score-ring .big span{font-size:11px; color:var(--faint); letter-spacing:.08em; text-transform:uppercase; margin-top:3px}
+  .score-meta{min-width:0}
+  .score-row{display:flex; gap:22px; flex-wrap:wrap; margin-bottom:16px}
+  .score-row .m .n{font-size:22px; font-weight:800; color:var(--ink)}
+  .score-row .m .l{font-size:12px; color:var(--muted)}
+  .mbar{margin:8px 0}
+  .mbar .lab{display:flex; justify-content:space-between; font-size:12.5px; color:var(--muted); margin-bottom:4px}
+  .mbar .track2{height:8px; background:var(--code); border-radius:5px; overflow:hidden}
+  .mbar .fill{height:100%; border-radius:5px; background:linear-gradient(90deg,var(--accent2),var(--accent)); width:0; transition:width 1.1s ease}
+  .scorecard.in .fill{width:var(--w)}
+  .score-note{font-size:12.5px; color:var(--faint); margin-top:12px; line-height:1.5}
+
+  /* install */
+  .tabs{display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px}
+  .tab{padding:8px 15px; border-radius:9px; border:1px solid var(--line); background:var(--panel); color:var(--muted);
+    font-weight:600; font-size:14px; cursor:pointer}
+  .tab.on{background:var(--accent); color:#fff; border-color:var(--accent)}
+  .panel-i{display:none} .panel-i.on{display:block}
+  .badge-soon{display:inline-block; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--accent);
+    border:1px solid var(--accent); border-radius:20px; padding:2px 9px; margin-left:8px; vertical-align:2px}
+
+  @media (max-width:680px){ .scorecard{grid-template-columns:1fr; justify-items:center; text-align:center} }
+
   @media (prefers-reduced-motion: reduce){
     *{animation:none !important; transition:none !important}
     .reveal{opacity:1; transform:none}
     .wave{opacity:.5}
+    .scorecard .fill{width:var(--w) !important}
   }
 </style>
 </head>
@@ -188,7 +227,21 @@
 <header class="hero">
   <div class="wrap hero-grid">
     <div class="hero-copy">
-      <p class="eyebrow">an opencode skill · v3.0.0</p>
+      <div class="brand">
+        <svg class="logo" viewBox="0 0 128 128" aria-label="iamhumans logo">
+          <defs>
+            <linearGradient id="lw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="var(--accent)"/><stop offset="1" stop-color="var(--accent2)"/></linearGradient>
+            <linearGradient id="lw2" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="var(--accent2)"/><stop offset="1" stop-color="var(--accent)"/></linearGradient>
+          </defs>
+          <g transform="rotate(-9 48 76)"><circle cx="48" cy="46" r="16" fill="url(#lw)"/><path d="M22 104 C22 82 34 72 48 72 C62 72 74 82 74 104 Z" fill="url(#lw)"/></g>
+          <g transform="rotate(9 80 76)"><circle cx="80" cy="46" r="16" fill="url(#lw2)"/><path d="M54 104 C54 82 66 72 80 72 C94 72 106 82 106 104 Z" fill="url(#lw2)"/></g>
+          <circle cx="64" cy="40" r="6.5" fill="var(--ink)"/>
+          <circle cx="64" cy="40" r="11" fill="none" stroke="var(--ink)" stroke-width="2.2" opacity="0.5"/>
+        </svg>
+        <span class="name">iamhumans</span>
+        <span class="spark" aria-hidden="true"></span>
+      </div>
+      <p class="eyebrow">a portable skill for Claude Code, opencode &amp; any agent · v3.0.0</p>
       <h1>iamhumans<span class="dot">.</span></h1>
       <p class="tag">It teaches a language model how to <b>talk like a person</b>. Not how to <i>sound</i> like one — that part's easy, and it's what most failures already do. This works on the shape underneath: when to be short, when to sit with something, when to push back, when the right reply is just <b>"oh"</b>.</p>
       <div class="cta">
@@ -312,6 +365,33 @@
     <div class="track"><div class="run"></div></div>
   </section>
 
+  <!-- ============ SCORECARD ============ -->
+  <section class="reveal">
+    <h2>Measured, not asserted</h2>
+    <p class="h2big">The v3.0 scorecard.</p>
+    <p class="lead">A blind, independent oracle scored a stratified sample of replies produced under v3.0 — a mix of the new cases and a Mode-A regression set. Real numbers, mixed edges and all.</p>
+    <div class="scorecard" id="scorecard">
+      <div class="score-ring">
+        <svg viewBox="0 0 150 150" width="150" height="150" aria-hidden="true">
+          <circle cx="75" cy="75" r="64" fill="none" stroke="var(--code)" stroke-width="12"/>
+          <circle cx="75" cy="75" r="64" fill="none" stroke="var(--accent)" stroke-width="12" stroke-linecap="round"
+                  stroke-dasharray="402" stroke-dashoffset="70" transform="rotate(-90 75 75)"/>
+        </svg>
+        <div class="big"><b>82.7</b><span>/ 100 aggregate</span></div>
+      </div>
+      <div class="score-meta">
+        <div class="score-row">
+          <div class="m"><div class="n">27/30</div><div class="l">cases PASS (90%)</div></div>
+          <div class="m"><div class="n">0</div><div class="l">hard-fails</div></div>
+          <div class="m"><div class="n">30</div><div class="l">sample size</div></div>
+        </div>
+        <div class="mbar"><div class="lab"><span>Mode A — conversational presence</span><b>83.6 · 21/22</b></div><div class="track2"><div class="fill" style="--w:83.6%"></div></div></div>
+        <div class="mbar"><div class="lab"><span>Mode B — composition / de-AI</span><b>80.0 · 6/8</b></div><div class="track2"><div class="fill" style="--w:80%"></div></div></div>
+        <p class="score-note">Sample of 30 (of 429) cases, scored 0–10 by an independent same-lineage oracle. <b>This is not the full-corpus harness</b> — the historical 99/100 badge is the v1.1.1 100-case run. Three misses sit in de-AI polish and one register pivot; nothing was hidden.</p>
+      </div>
+    </div>
+  </section>
+
   <!-- ============ STATS ============ -->
   <section class="reveal">
     <div class="stats">
@@ -322,18 +402,45 @@
     </div>
   </section>
 
-  <!-- ============ QUICK START ============ -->
+  <!-- ============ INSTALL ============ -->
   <section class="reveal">
-    <h2>Quick start</h2>
-    <pre><code>git clone https://github.com/hoainho/iamhumans
+    <h2>Install anywhere</h2>
+    <p class="h2big">One skill, every agent.</p>
+    <p class="lead">iamhumans is a single portable <span class="mono">SKILL.md</span> — no runtime, no dependency. Drop it wherever your agent reads skills, or just paste it into a system prompt.</p>
+    <div class="tabs" id="instTabs">
+      <button class="tab on" data-t="cc">Claude Code</button>
+      <button class="tab" data-t="oc">opencode</button>
+      <button class="tab" data-t="manual">Any agent</button>
+    </div>
+    <div class="panel-i on" data-p="cc">
+      <pre><code>git clone https://github.com/hoainho/iamhumans
+
+<span class="cmt"># install as a Claude Code skill</span>
+mkdir -p ~/.claude/skills/iamhumans
+cp -R iamhumans/SKILL.md iamhumans/references ~/.claude/skills/iamhumans/
+
+<span class="cmt"># then just talk — Claude Code auto-loads it on human-shaped turns,</span>
+<span class="cmt"># or hand it a draft: "make this sound less like a bot"</span></code></pre>
+    </div>
+    <div class="panel-i" data-p="oc">
+      <pre><code>git clone https://github.com/hoainho/iamhumans
 cd iamhumans
 
-<span class="cmt"># install as a local opencode skill</span>
+<span class="cmt"># install as a local opencode skill (symlink stays in sync)</span>
 mkdir -p ~/.opencode/skills/iamhumans
-ln -s "$PWD/SKILL.md" ~/.opencode/skills/iamhumans/SKILL.md
+ln -s "$PWD/SKILL.md" ~/.opencode/skills/iamhumans/SKILL.md</code></pre>
+    </div>
+    <div class="panel-i" data-p="manual">
+      <pre><code><span class="cmt"># Cursor, Windsurf, a raw API loop, your own harness —</span>
+<span class="cmt"># iamhumans is prose, so any model can use it:</span>
 
-bash scripts/lint.sh
-python3 evals/runner/run.py --dry-run   <span class="cmt"># validates all 429 case schemas</span></code></pre>
+<span class="cmt"># 1. open SKILL.md</span>
+<span class="cmt"># 2. paste it into the system prompt / instructions</span>
+<span class="cmt"># 3. load it when the conversation is human-shaped</span>
+
+curl -O https://raw.githubusercontent.com/hoainho/iamhumans/main/SKILL.md</code></pre>
+      <p class="score-note" style="margin-top:12px"><b>MCP <span class="badge-soon">roadmap</span></b> — a thin MCP server that serves the skill to <i>any</i> MCP-capable provider is on the roadmap. Today the skill is the product; the MCP wrapper is a distribution convenience, not a dependency.</p>
+    </div>
   </section>
 
   <!-- ============ HONEST ============ -->
@@ -357,7 +464,7 @@ python3 evals/runner/run.py --dry-run   <span class="cmt"># validates all 429 ca
       <a href="https://github.com/hoainho/iamhumans/tree/main/openspec/changes/2026-07-07-v3-composition-and-self-audit">v3.0 spec</a> ·
       <a href="https://github.com/hoainho/iamhumans/blob/main/LICENSE">MIT</a>
     </p>
-    <p style="margin-top:14px; color:var(--faint)">iamhumans v3.0.0 · built for opencode</p>
+    <p style="margin-top:14px; color:var(--faint)">iamhumans v3.0.0 · a portable skill for Claude Code, opencode &amp; any agent · MIT</p>
   </div>
 </footer>
 
@@ -382,6 +489,23 @@ python3 evals/runner/run.py --dry-run   <span class="cmt"># validates all 429 ca
     es.forEach(function(en){ if(en.isIntersecting){ en.target.classList.add('in'); io.unobserve(en.target); } });
   }, {threshold:.14}) : null;
   document.querySelectorAll('.reveal').forEach(function(el){ if(io) io.observe(el); else el.classList.add('in'); });
+
+  /* ---- scorecard bars animate in ---- */
+  var sc = document.getElementById('scorecard');
+  if(sc){
+    if('IntersectionObserver' in window){
+      var sio = new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); sio.disconnect(); } }); }, {threshold:.35});
+      sio.observe(sc);
+    } else sc.classList.add('in');
+  }
+
+  /* ---- install tabs ---- */
+  var tabs = document.querySelectorAll('#instTabs .tab');
+  tabs.forEach(function(t){ t.addEventListener('click', function(){
+    tabs.forEach(function(x){ x.classList.remove('on'); });
+    t.classList.add('on');
+    document.querySelectorAll('.panel-i').forEach(function(p){ p.classList.toggle('on', p.getAttribute('data-p')===t.getAttribute('data-t')); });
+  }); });
 
   /* ---- chat demo (typewriter) ---- */
   var scenes = [

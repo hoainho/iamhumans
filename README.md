@@ -36,24 +36,38 @@ That verdict, with the full per-case breakdown, lives in [`evals/runs/2026-05-29
 
 > **Full 100-case evidence (v1.1.1, 2026-05-30)** — the complete main pool (99 scored cases + 1 pre-existing hold) re-run at v1.1.1: **99/100 PASS, 96.3/100 aggregate, 0 hard fails**. Full run: [`evals/runs/20260530-lane-a2-full-v111/`](./evals/runs/20260530-lane-a2-full-v111/report.md). **Baseline comparison** — the same 20 stratified cases were then scored *without* the skill (default Claude behavior): **1/20 PASS, 7.6/100 aggregate, 18/20 hard fails**. Skill delta: **+89.4 points average, PASS rate 5% → 100%**. The most common baseline hard-fail patterns — sycophancy, lecturing, performed-empathy, structured-output-in-grief-moment — are exactly what this skill is built against. Full baseline: [`evals/runs/20260530-lane-a3-baseline/`](./evals/runs/20260530-lane-a3-baseline/report.md).
 
-## Quick start
+## Install anywhere
+
+iamhumans is a single portable `SKILL.md` (plus `references/`) — no runtime, no dependency. It runs on **Claude Code, opencode, and any agent** that can read a skill or a system prompt.
 
 ```bash
 git clone https://github.com/hoainho/iamhumans
 cd iamhumans
-
-# Option A: install as a local opencode skill (symlink)
-mkdir -p ~/.opencode/skills/iamhumans
-ln -s "$PWD/SKILL.md" ~/.opencode/skills/iamhumans/SKILL.md
-
-# Option B: just point your opencode session at SKILL.md directly
-# (see docs/INSTALL.md for both paths)
-
-# Verify the lint contract still holds
-bash scripts/lint.sh
 ```
 
-Then in any human-shaped conversation (emotion, decision, relationship, small talk), load `iamhumans`. Don't load it for code generation or structured output — the skill's [`## When to load`](./SKILL.md) section is explicit.
+**Claude Code** — drop it into your skills directory:
+```bash
+mkdir -p ~/.claude/skills/iamhumans
+cp -R SKILL.md references ~/.claude/skills/iamhumans/
+```
+
+**opencode** — symlink so it stays in sync with the repo:
+```bash
+mkdir -p ~/.opencode/skills/iamhumans
+ln -s "$PWD/SKILL.md" ~/.opencode/skills/iamhumans/SKILL.md
+```
+
+**Any other agent** (Cursor, Windsurf, a raw API loop, your own harness) — iamhumans is prose, so any model can use it: open `SKILL.md` and paste it into the system prompt / instructions, then load it when the conversation is human-shaped.
+
+> **MCP (roadmap)** — a thin MCP server that serves the skill to any MCP-capable provider is planned. Today the skill *is* the product; an MCP wrapper is a distribution convenience, not a dependency.
+
+```bash
+# verify the contracts still hold
+bash scripts/lint.sh
+python3 evals/runner/run.py --dry-run   # validates all 429 case schemas
+```
+
+Then in any human-shaped conversation (emotion, decision, relationship, small talk), load `iamhumans` — or hand it a draft and say "make this sound less like a bot" (Mode B). Don't load it for code generation or machine-readable output — the skill's [`## When to load`](./SKILL.md) section is explicit.
 
 ---
 
