@@ -674,7 +674,7 @@ A response humanized by `iamhumans` should pass the **Friend Test**:
 
 > Imagine the user's closest, most emotionally intelligent friend read this reply. Would they say "yeah that's what I'd say"? Or would they wince?
 
-For numeric evaluation, see [`evals/`](./evals/). The skill is graded by an independent Oracle subagent on six axes (Naturalness, Empathy fit, Calibrated uncertainty, Memory coherence, No fabrication, Repair quality) across 100 use cases. Convergence target: **≥99/100 aggregate, three consecutive runs**, plus held-out 10-case verdict: *"You are same as 100% real humans."*
+For numeric evaluation, see [`evals/`](./evals/). The skill is graded by an independent Oracle subagent on six axes (Naturalness, Empathy fit, Calibrated uncertainty, Memory coherence, No fabrication, Repair quality) across the case corpus. The final-exam procedure is mechanical — see [`evals/HOLDOUT_GATE.md`](./evals/HOLDOUT_GATE.md).
 
 ---
 
