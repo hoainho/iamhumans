@@ -10,7 +10,7 @@
 
   <!-- Top bar: small uppercase eyebrow + version badge -->
   <text x="72" y="98" font-size="14" font-weight="600" letter-spacing="2.5" fill="#1A1A1A" font-family="'SF Mono', 'Menlo', monospace">
-    AN OPENCODE SKILL · v2.0.0 · MIT
+    AN OPENCODE SKILL · v3.0.0.0 · MIT
   </text>
   <text x="1128" y="98" font-size="14" font-weight="600" letter-spacing="1.5" fill="#1A1A1A" text-anchor="end" font-family="'SF Mono', 'Menlo', monospace">
     github.com/hoainho/iamhumans
@@ -30,7 +30,7 @@
   <!-- The verdict quote — the centerpiece -->
   <rect x="72" y="280" width="1056" height="130" fill="#1A1A1A"/>
   <text x="600" y="336" font-size="34" font-weight="400" font-style="italic" fill="#FAF8F4" text-anchor="middle" letter-spacing="-0.3">
-    "You are same as 100% real humans."
+    "sounding human is cheap. shape is expensive."
   </text>
   <text x="600" y="378" font-size="13" font-weight="500" letter-spacing="2" fill="#D7CEB9" text-anchor="middle" font-family="'SF Mono', 'Menlo', monospace">
     — INDEPENDENT ORACLE · 10 HELD-OUT CASES · 2026-05-29
@@ -74,7 +74,7 @@
   <!-- Vertical divider -->
   <line x1="940" y1="446" x2="940" y2="534" stroke="#1A1A1A" stroke-width="1" opacity="0.2"/>
 
-  <!-- Panel 4: Personality modules (new in v2.0) -->
+  <!-- Panel 4: Personality modules (new in v3.0.0) -->
   <text x="972" y="470" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#1A1A1A">20</text>
   <text x="972" y="498" font-size="13" font-weight="500" letter-spacing="1.5" fill="#4A4A4A" font-family="'SF Mono', 'Menlo', monospace">
     PERSONALITY MODULES
@@ -85,6 +85,6 @@
 
   <!-- Foot: tagline + small print -->
   <text x="600" y="576" font-size="13" font-weight="400" font-style="italic" letter-spacing="0.3" fill="#4A4A4A" text-anchor="middle">
-    Honestly imperfect. Read the Known Weaknesses. Running portrait in v2.0.
+    Honestly imperfect. Read the Known Weaknesses. Running portrait in v3.0.0.
   </text>
 </svg>

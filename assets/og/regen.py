@@ -59,7 +59,7 @@ def main() -> None:
 
     draw.rectangle([32, 32, 1168, 598], outline=INK, width=1)
 
-    draw.text((72, 84), "AN OPENCODE SKILL · v1.1.1 · MIT", font=f_eyebrow, fill=INK)
+    draw.text((72, 84), "A PORTABLE SKILL · CLAUDE CODE · OPENCODE · ANY AGENT · v3.0.0", font=f_eyebrow, fill=INK)
     url_text = "github.com/hoainho/iamhumans"
     url_w = draw.textlength(url_text, font=f_eyebrow)
     draw.text((1128 - url_w, 84), url_text, font=f_eyebrow, fill=INK)
@@ -75,17 +75,17 @@ def main() -> None:
     )
 
     draw.rectangle([72, 296, 1128, 438], fill=INK)
-    verdict = '"You are same as 100% real humans."'
+    verdict = '"sounding human is cheap. shape is expensive."'
     verdict_w = draw.textlength(verdict, font=f_italic)
     draw.text(((W - verdict_w) // 2, 336), verdict, font=f_italic, fill=PAPER)
-    attrib = "— INDEPENDENT ORACLE · 10 HELD-OUT CASES · 2026-05-29"
+    attrib = "TWO MODES · SELF-AUDIT ON EVERY REPLY · 16 MODULES"
     attrib_w = draw.textlength(attrib, font=f_eyebrow)
     draw.text(((W - attrib_w) // 2, 390), attrib, font=f_eyebrow, fill=DIM)
 
     panels = [
-        (72, "93.27", "/100 PARETO AGGREGATE", "15-case stratified sample, 14 PASS"),
-        (446, "86.7%", "VERDICT AGREEMENT", "3 Claude judges, 15 cases · Lane A1"),
-        (820, "20 · 100", "BOOKS · EVAL CASES", "Kahneman, Frankl, Buber, Lao Tzu..."),
+        (72, "82.7", "/100 MEASURED (SAMPLE)", "30-case blind oracle · 0 hard-fails"),
+        (446, "2", "OPERATING MODES", "presence + composition / de-AI"),
+        (820, "429", "EVAL CASES", "~217 books · 16 modules"),
     ]
     for x, big, label, caption in panels:
         draw.text((x, 460), big, font=f_bold_big, fill=INK)
